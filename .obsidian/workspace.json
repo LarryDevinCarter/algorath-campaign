@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Therizdun.md",
+                "file": "Algorath/Lore/Pelor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Therizdun"
+              "title": "Pelor"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "f8786bf4a8e9403b",
   "lastOpenFiles": [
+    "Algorath/Lore/Therizdun.md",
     "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Orcus.md",
     "Algorath/Grok-Context-Summary.md",
-    "Algorath/Lore/Therizdun.md",
     "Algorath/Lore/Pelor.md",
     "Algorath/Characters/NPCs/Example-NPC.md",
     "Untitled"
