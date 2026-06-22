@@ -24,7 +24,7 @@ updated: 2026-06-22
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal broken. Ruins may linger.
-- **Motavos**: One of the three great continents built atop the seals.
+- **Motavos**: Primary campaign continent; heavily reshaped by Palmar debris into peninsulas, gulfs, inland lake, and islands. Divided into 11 sections (4 island-based). Key named regions: [[High Piedmont]] (NE), [[Vespera]] (SE island). Former lushness maintained by Pelor temples is fading into desert and quicksand seas.
 - **Dezoris**: One of the three great continents built atop the seals.
 
 ## Player Characters (The Party)
@@ -57,6 +57,7 @@ None yet.
 - Status and locations of the remaining two seals.
 - Activity of Orcus/Therizdun cults.
 - Role of other gods and Pelor's worshipers.
+- Details of Motavos's 11 sections and remaining backstone temples.
 
 ## Style Notes for World Building
 - **Tone**: Mythic and grand in creation stories; build tension with creeping eldritch corruption and cult threats. Evocative descriptions with sensory cosmic wonder and horror.
