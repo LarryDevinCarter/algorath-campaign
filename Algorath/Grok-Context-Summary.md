@@ -1,85 +1,67 @@
 ---
-title: "Grok Context Summary - Your World Name"
+title: "Grok Context Summary - Algorath"
 aliases: ["World Bible", "Context for Grok", "High-Level Overview"]
 tags: [meta, grok, summary, context]
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 
-# Grok Context Summary (World Bible)
+# Grok Context Summary (World Bible) - Algorath
 
-**Purpose**: This single file gives me (Grok) the maximum relevant context at the start of any conversation. Keep it concise (aim for 1-3k words max) but complete enough that I can reason accurately about the world without re-asking basics. Update after every significant session or lore addition.
+**Purpose**: Maximum relevant context for consistent world-building. Update after major additions.
 
-**Last Updated**: 2026-06-21
+**Last Updated**: 2026-06-22
 
 ---
 
 ## World Basics
-- **World/Campaign Name**: [e.g., Aetheria / The Shattered Veil / Your Name Here]
-- **Setting Tone**: [High fantasy, grimdark, sword & sorcery, mythic, etc.]
-- **Primary System**: D&D 5e (or version/edition)
-- **Current In-Game Date / Era**: [e.g., 1492 DR, Age of Reclamation, Year 327 of the Accord]
-- **Cosmology / Planes**: [Brief: Material Plane focus? Connected to Feywild/Shadowfell? Homebrew planes?]
-- **Key Themes / Motifs**: [e.g., ancient fallen empire, rising evil god, exploration & discovery, political intrigue, survival]
+- **World/Campaign Name**: Algorath
+- **Setting Tone**: High fantasy with cosmic horror undertones, mythic creation, divine betrayal, and apocalyptic threats. Evocative, wondrous yet ominous.
+- **Primary System**: D&D 5e (assumed)
+- **Current In-Game Date / Era**: To be determined (post-Calamity, ~2000 years after destruction of Palmar and the 1st seal)
+- **Cosmology / Planes**: Rich layered cosmology centered on the Material Plane of Algorath. Includes Elemental Planes (Air, Earth, Fire, Water), Feywild, Shadowfell, Ethereal, Astral, Seven Heavens, Seven Hells.
+- **Key Themes / Motifs**: Creation from divine schism, seals holding back destruction, ancient eldritch threats, fallen gods, cults seeking apocalypse, stability maintained by holy temples built from eldritch essence.
 
 ## Core Geography
-List 4-8 major regions/locations with 1-sentence hook + link if detailed page exists.
-
-- **[[Locations/Starting Region or Capital]]**: Brief description.
-- **[[Locations/Important Kingdom]]**: ...
-- **[[Locations/Dangerous Wilderness or Dungeon Area]]**: ...
+- **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal broken. Ruins may linger.
+- **Motavos**: One of the three great continents built atop the seals.
+- **Dezoris**: One of the three great continents built atop the seals.
 
 ## Player Characters (The Party)
-For each PC, include: Name, Race/Class/Level (approx), short personality/hook/backstory relevant to world, current goal or secret. Link to full sheet if exists.
-
-- **PC1 Name** ([[Characters/PCs/PC1-Name]]): ...
-- **PC2 Name** ([[Characters/PCs/PC2-Name]]): ...
+(To be populated)
 
 ## Major NPCs & Factions
-Only the most important ones (ones that drive plot or recur). 1-2 sentences max + current status/attitude toward party.
-
-**Key NPCs**:
-- **NPC Name** ([[Characters/NPCs/NPC-Name]]): Role + hook + current involvement.
-- ...
-
-**Major Factions**:
-- **Faction Name** ([[Factions/Faction-Name]]): Goals, power level, relationship to party.
-- ...
+**Key Factions**:
+- **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction.
+- **Worshipers of Pelor**: Maintain holy temples built from eldritch essence to stabilize the plane.
 
 ## Current Plot / Active Threads
-What is happening right now? What do the players know vs. what the DM knows? List 3-6 open hooks or arcs.
-
-1. **Main Quest / Current Arc**: Short description of what the party is pursuing and why it matters.
-2. **Side Thread 1**: ...
-3. ** looming Threat**: ...
-4. ...
+(To be populated)
 
 ## Key Lore & Secrets (DM Eyes Only or High-Level)
-- Foundational history or creation myth in 2-4 bullets.
-- Major ancient event or cataclysm that shapes the present.
-- Hidden truths or prophecies the party might discover.
-- Magic or technology level notes (e.g., "High magic but lost ancient tech", "Gods are distant or silent").
+- **Creation Myth**: The One Being split into Pelor and Therizdun. War ensued; Pelor triumphed, sealed Therizdun beneath Algorath with 3 seals.
+- **Plane Creation**: Pelor shaped Algorath using Elemental Planes, then Feywild (life/magic), Shadowfell (death), Ethereal (souls), Astral (dreams), and afterlife realms.
+- **The God Seed War**: Orcus, a god-seed child of Pelor, turned against his kin after battling eldritch Old Gods from the Void. Betrayed by planting a seed on Algorath; defeated by the pantheon.
+- **The Calamity**: ~2000 years ago, Therizdun cult destroyed Palmar and the 1st seal. Two seals remain.
+- **Stabilization**: Holy temples across Algorath, crafted from the essence of Old Gods, hold the plane stable against the maturing god-seed and Therizdun's influence.
 
 ## Important Items / McGuffins
-- **Item Name** ([[Items/Item-Name]]): What it does + current location/owner + significance.
+- **The Three Seals**: Divine bindings holding Therizdun.
+- **God Seed**: Planted on Algorath by Orcus; threatens to mature and doom the plane.
+- **Eldritch Temples**: Structures built from incomprehensible Old God essence.
 
 ## Session History Snapshot
-- Last session number/date played: ...
-- What happened in last 1-2 sessions (very brief, focus on consequences and new knowledge).
-- Current party location and immediate situation.
+None yet.
 
 ## Open Questions / Things to Track
-- Unresolved mysteries the party is investigating.
-- NPCs the party likes/dislikes or owes favors to.
-- World events that should evolve independently of party (e.g., war brewing, cult activity).
+- Status and locations of the remaining two seals.
+- Activity of Orcus/Therizdun cults.
+- Role of other gods and Pelor's worshipers.
 
 ## Style Notes for World Building
-- Tone when describing: [e.g., "Evocative and slightly ominous", "Wondrous and exploratory", "Political and grounded"]
-- Any house rules or variant rules in play that affect lore.
-- Inspirations: [Books, shows, other campaigns — helps me match voice]
+- **Tone**: Mythic and grand in creation stories; build tension with creeping eldritch corruption and cult threats. Evocative descriptions with sensory cosmic wonder and horror.
+- **Inspirations**: Classic D&D cosmology (Planescape influences), Lovecraftian eldritch elements, divine betrayal narratives.
 
 ---
 
-**How to use**: Copy the latest version of this file into the chat when starting a new session with me, or say "Here's the current Grok Context Summary" + paste. I'll acknowledge and we can dive straight into building or playing.
-
-This keeps our collaboration coherent and deep over time. Update it whenever the world changes significantly!
+This file will evolve with the campaign.
