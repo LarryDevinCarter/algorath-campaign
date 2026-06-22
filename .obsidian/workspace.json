@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Locations/Motavos.md",
+                "file": "Algorath/Factions/Gray Company.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motavos"
+              "title": "Gray Company"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "f8786bf4a8e9403b",
   "lastOpenFiles": [
-    "Algorath/Lore/Cosmology.md",
+    "GrayCompanyBanner.jpg",
     "Algorath/Locations/Motavos.md",
+    "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Pelor.md",
     "Algorath/Lore/Therizdun.md",
     "Algorath/Lore/Orcus.md",
