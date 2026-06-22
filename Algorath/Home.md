@@ -26,7 +26,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 
 ## Core Continents
 - **[[Palmar]]** — Destroyed in the Calamity ~2,000 years ago.
-- **[[Motavos]]** — Primary campaign continent; fractured by Palmar debris into peninsulas, gulfs, a large inland lake, and islands (11 sections total, 4 island-based). Ecology declining as Pelor temples fade.
+- **[[Locations/Continents/Motavos|Motavos]]** — Primary campaign continent; fractured by Palmar debris into peninsulas, gulfs, a large inland lake, and islands (11 sections total, 4 island-based). Ecology declining as Pelor temples fade.
 - **[[Dezoris]]**
 
 ## Current In-Game Date
