@@ -20,7 +20,7 @@ Motavos now largely consists of peninsulas, gulfs, a large inland lake, and isla
 - **Vespera** — A large island to the far southeast.
 
 ## Ecology & Environment
-The land was once green and lush due to the oily backstone temples maintained by the followers of [[Pelor]]. As the followers of Pelor became few, old knowledge was lost, and the temples fell into disrepair. Now the green fullness of the land slowly recedes, and even some deserts and the treacherous quicksand seas take its place.
+The land was once green and lush due to the oily back stone temples maintained by the followers of [[Pelor]]. As the followers of Pelor became few, old knowledge was lost, and the temples fell into disrepair. Now the green fullness of the land slowly recedes, and even some deserts and the treacherous quicksand seas take its place.
 
 ## History
-- The first seal was destroyed when Palmar was destroyed.
+- The destruction of Palmar heavily shaped the land of Motavos.

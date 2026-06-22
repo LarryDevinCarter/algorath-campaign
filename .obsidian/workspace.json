@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
+                "file": "Algorath/Locations/Motavos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Motavos"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "f8786bf4a8e9403b",
   "lastOpenFiles": [
+    "Algorath/Lore/Cosmology.md",
     "Algorath/Locations/Motavos.md",
     "Algorath/Lore/Pelor.md",
     "Algorath/Lore/Therizdun.md",
-    "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Orcus.md",
     "Algorath/Grok-Context-Summary.md",
     "Algorath/Characters/NPCs/Example-NPC.md",
