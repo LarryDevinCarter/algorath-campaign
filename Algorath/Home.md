@@ -1,44 +1,39 @@
 ---
-title: "Your World Name - Campaign Wiki"
+title: "Algorath - Campaign Wiki"
 aliases: ["Home", "Index", "World Overview"]
 tags: [meta, overview, home]
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 
-# Your World Name
+# Algorath
 
-**Welcome to the wiki for our D&D campaign!**
+**Welcome to the living wiki for the Algorath D&D campaign!**
 
-This is a living document and interconnected knowledge base for the world, its lore, characters, locations, and adventures.
+A world born from divine division, sealed against primordial destruction, and haunted by eldritch remnants and fallen gods.
 
 ## Quick Links
-- [[World Overview]]
-- [[Timeline]]
-- [[Player Characters]]
-- [[Major NPCs]]
-- [[Factions & Organizations]]
-- [[Key Locations]]
+- [[Algorath/Grok-Context-Summary|World Bible]]
+- [[Lore/Cosmology|Cosmology & Creation]]
+- [[Timeline]] (coming soon)
+- [[Characters/PCs|Player Characters]]
+- [[Characters/NPCs|Major NPCs]]
+- [[Factions|Factions & Cults]]
+- [[Locations|Key Locations]]
 - [[Current Session / Adventure Log]]
 - [[Maps]]
 - [[Homebrew Rules]]
 
+## Core Continents
+- **[[Palmar]]** — Destroyed in the Calamity ~2,000 years ago.
+- **[[Motavos]]**
+- **[[Dezoris]]**
+
 ## Current In-Game Date
-*Update this regularly: e.g., 12th of Eleasis, 1492 DR (or your calendar)*
-
-## Player Party Summary
-*(Short descriptions + links to full PC sheets in Characters/PCs/)*
-
-- **Character 1** ([[Characters/PCs/Character-Name]]): Brief role/hook.
-- **Character 2** ([[Characters/PCs/Character-Name]]): Brief role/hook.
-
-## DM Notes (Private or Visible?)
-This section can be hidden in published version if using Quartz/Obsidian Publish filters.
+*To be established — post-Calamity era.*
 
 ## How to Use This Wiki
-- Use **[[wikilinks]]** to connect ideas (e.g., [[Eldoria City]] or [[Locations/Eldoria City]]).
-- Add **tags** in frontmatter for Dataview queries (e.g., `tags: [location, city]`).
-- Update the **Grok-Context-Summary.md** after major changes so Grok always has fresh high-level context.
-- For publishing online: See the `README.md` in this template or use Quartz / Obsidian Publish.
+- Follow **[[wikilinks]]** to explore the interconnected web of lore.
+- Update **[[Algorath/Grok-Context-Summary]]** after major additions.
 
-*This wiki is built in Markdown + Obsidian for maximum flexibility and easy publishing.*
+The foundations have been laid. More continents, gods, locations, and adventures await your direction.
