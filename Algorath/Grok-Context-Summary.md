@@ -23,8 +23,8 @@ updated: 2026-06-22
 - **Key Themes / Motifs**: Creation from divine schism, seals holding back destruction, ancient eldritch threats, fallen gods, cults seeking apocalypse, stability maintained by holy temples built from eldritch essence.
 
 ## Core Geography
-- **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal broken. Ruins may linger.
-- **Motavos**: Primary campaign continent; heavily reshaped by Palmar debris into peninsulas, gulfs, inland lake, and islands. Divided into 11 sections (4 island-based). Key named regions: [[High Piedmont]] (NE), [[Vespera]] (SE island). Former lushness maintained by Pelor temples is fading into desert and quicksand seas.
+- **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
+- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named: High Piedmont (far NE), Vespera (large SE island). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
 - **Dezoris**: One of the three great continents built atop the seals.
 
 ## Player Characters (The Party)
@@ -57,7 +57,7 @@ None yet.
 - Status and locations of the remaining two seals.
 - Activity of Orcus/Therizdun cults.
 - Role of other gods and Pelor's worshipers.
-- Details of Motavos's 11 sections and remaining backstone temples.
+- Details of Motavos's 11 sections.
 
 ## Style Notes for World Building
 - **Tone**: Mythic and grand in creation stories; build tension with creeping eldritch corruption and cult threats. Evocative descriptions with sensory cosmic wonder and horror.
