@@ -8,6 +8,10 @@ updated: 2026-06-22
 
 # Gray Company
 
+![Gray Company Standard](attachment:Gray-Company-Banner.png)
+
+*A white longsword with spiraled grip and pommel, wrapped with a red ribbon around the crossguard — the standard of the Gray Company.*
+
 The **Gray Company** is a sworn, neutral brotherhood of hunters, rangers, and marshals operating across the [[High Piedmont]] wilderness and borderlands.
 
 They serve as independent protectors of the common folk, functioning as local law-enforcement in unsettled areas, wilderness rangers, and versatile problem-solvers for threats that civilized authorities cannot or will not handle.
