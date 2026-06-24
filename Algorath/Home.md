@@ -24,6 +24,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 - [[Current Session / Adventure Log]]
 - [[Maps]]
 - [[Homebrew Rules]]
+- [[Meta/Events-and-Details-to-Flesh-Out|Events & Details to Flesh Out]] *(checklist of unfleshed lore and placeholders)*
 
 ## Core Continents
 - **[[Palmar]]** — Destroyed in the Calamity ~2,000 years ago.
@@ -36,5 +37,6 @@ A world born from divine division, sealed against primordial destruction, and ha
 ## How to Use This Wiki
 - Follow **[[wikilinks]]** to explore the interconnected web of lore.
 - Update **[[Algorath/Grok-Context-Summary]]** after major additions.
+- Check [[Meta/Events-and-Details-to-Flesh-Out|Events & Details to Flesh Out]] for items needing DM attention or expansion.
 
 The foundations have been laid. More continents, gods, locations, and adventures await your direction.
