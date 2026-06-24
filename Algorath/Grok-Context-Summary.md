@@ -3,14 +3,14 @@ title: "Grok Context Summary - Algorath"
 aliases: ["World Bible", "Context for Grok", "High-Level Overview"]
 tags: [meta, grok, summary, context]
 created: 2026-06-21
-updated: 2026-06-22
+updated: 2026-06-23
 ---
 
 # Grok Context Summary (World Bible) - Algorath
 
 **Purpose**: Maximum relevant context for consistent world-building. Update after major additions.
 
-**Last Updated**: 2026-06-22
+**Last Updated**: 2026-06-23
 
 ---
 
@@ -24,7 +24,7 @@ updated: 2026-06-22
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
-- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named: High Piedmont (far NE), Vespera (large SE island). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
+- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named: High Piedmont (far NE, northwesternmost region with detailed natural defenses), Vespera (large SE island). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
 - **Dezoris**: One of the three great continents built atop the seals.
 
 ## Player Characters (The Party)
@@ -34,6 +34,7 @@ updated: 2026-06-22
 **Key Factions**:
 - **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction.
 - **Worshipers of Pelor**: Maintain holy temples built from eldritch essence to stabilize the plane.
+- **Grey Company**: Based in Ashenfort, High Piedmont.
 
 ## Current Plot / Active Threads
 (To be populated)
