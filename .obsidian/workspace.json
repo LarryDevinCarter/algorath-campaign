@@ -11,12 +11,14 @@
             "id": "f8786bf4a8e9403b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "High Piedmont.jpg"
+                "file": "Algorath/Factions/Gray Company.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "High Piedmont"
+              "icon": "lucide-file",
+              "title": "Gray Company"
             }
           }
         ]
@@ -195,34 +197,42 @@
   },
   "active": "f8786bf4a8e9403b",
   "lastOpenFiles": [
-    "GrayCompanyBanner.jpg",
-    "Vespera.md",
-    "High Piedmont.jpg",
-    "High Piedmont.md",
+    "Algorath/Locations/Regions/High Piedmont.md",
+    "Algorath/Maps/Untitled",
+    "Algorath/Factions/Gray Company.md",
     "Algorath/README.md",
-    "Algorath/Home.md",
+    "Algorath/Images/Banners/_index.md",
+    "Algorath/Images/_index.md",
+    "Algorath/Images/Banners",
+    "Algorath/Images",
+    "Algorath/Images/Banners/GrayCompanyBanner.jpg",
+    "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Grok-Context-Summary.md",
+    "Algorath/Races/Orc.md",
+    "Algorath/Locations/Features/Tharolrs-Gulf.md",
+    "Algorath/Locations/Features/Shroud.md",
+    "Algorath/Locations/Continents/Motavos.md",
+    "Algorath/Locations/Continents/Palmar.md",
+    "Algorath/Characters/PCs/_index.md",
+    "Algorath/Maps/_index.md",
+    "High Piedmont.md",
+    "Algorath/Locations/Regions/Vespera.md",
+    "Algorath/Locations/Features",
+    "Algorath/Locations/Continents/Dezoris.md",
+    "Algorath/Races/_index.md",
+    "Algorath/Races",
+    "Vespera.md",
+    "Algorath/Home.md",
     "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Therizdun.md",
     "Algorath/Lore/Pelor.md",
     "Algorath/Lore/Orcus.md",
     "Algorath/Locations/Example-Location.md",
     "Algorath/Locations/_index.md",
-    "Algorath/Locations/Settlements/Nalyne.md",
-    "Algorath/Locations/Settlements/Ashenholt.md",
-    "Algorath/Locations/Settlements/Ashenfort.md",
-    "Algorath/Locations/Regions/High Piedmont.md",
-    "Algorath/Locations/Planes/Algorath.md",
-    "Algorath/Locations/Continents/Motavos.md",
-    "Algorath/Factions/Gray Company.md",
-    "Algorath/Locations/Motavos.md",
     "Algorath/Locations/Settlements",
     "Algorath/Locations/Regions",
     "Algorath/Locations/Planes",
     "Algorath/Locations/Continents",
-    "Algorath/Locations/High Piedmont.md",
-    "Algorath/Locations/Ashenholt.md",
-    "Algorath/Characters/NPCs/Example-NPC.md",
     "Untitled"
   ]
 }
