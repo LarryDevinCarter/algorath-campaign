@@ -8,5 +8,8 @@ updated: 2026-06-24
 
 # Maps
 
-- [[High Piedmont]] map: [[../High Piedmont.jpg|High Piedmont Map]]
+- [[High Piedmont]]
 
+Place map `.jpg` files directly in this folder for easy embedding (e.g. `![[High Piedmont.jpg]]`).
+
+![[High Piedmont.jpg]]
