@@ -42,9 +42,4 @@ Approximately 2,000 years ago, a cult of Therizdun triggered a cataclysm that de
 ## Ongoing Threats
 Cults dedicated to **Therizdun** and the fallen **Orcus** periodically arise, seeking to destroy the remaining seals and unleash apocalypse.
 
-> **Adventure Hooks**:
-> - A newly discovered temple shows signs of corruption — is the god-seed awakening?
-> - Visions from the Astral Plane reveal glimpses of the Old Gods stirring.
-> - A relic from fallen Palmar surfaces, tied to the broken seal.
-
 [[Pelor]] | [[Therizdun]] | [[Orcus]] | [[Palmar]] | [[Motavos]] | [[Dezoris]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Locations/Regions/High Piedmont.md",
+                "file": "Algorath/Lore/Cosmology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High Piedmont"
+              "title": "Cosmology"
             }
           }
         ]
@@ -197,26 +197,26 @@
   },
   "active": "f8786bf4a8e9403b",
   "lastOpenFiles": [
-    "High Piedmont.jpg",
-    "Algorath/Locations/Settlements/Nalyne.md",
-    "Algorath/Locations/Settlements/Ashenfort.md",
-    "Algorath/Factions/Gray Company.md",
-    "Algorath/Lore/Orcus.md",
     "Algorath/Lore/Therizdun.md",
     "Algorath/Lore/Pelor.md",
+    "Algorath/Lore/Orcus.md",
     "Algorath/Lore/Cosmology.md",
+    "Algorath/Locations/Example-Location.md",
     "Algorath/Locations/_index.md",
-    "Algorath/Locations/Motavos.md",
+    "Algorath/Locations/Settlements/Nalyne.md",
     "Algorath/Locations/Settlements/Ashenholt.md",
-    "Algorath/Locations/Settlements",
+    "Algorath/Locations/Settlements/Ashenfort.md",
     "Algorath/Locations/Regions/High Piedmont.md",
-    "Algorath/Locations/Regions",
     "Algorath/Locations/Planes/Algorath.md",
-    "Algorath/Locations/Planes",
     "Algorath/Locations/Continents/Motavos.md",
+    "Algorath/Factions/Gray Company.md",
+    "High Piedmont.jpg",
+    "Algorath/Locations/Motavos.md",
+    "Algorath/Locations/Settlements",
+    "Algorath/Locations/Regions",
+    "Algorath/Locations/Planes",
     "Algorath/Locations/Continents",
     "Algorath/Locations/High Piedmont.md",
-    "Algorath/Locations/Example-Location.md",
     "Algorath/Locations/Ashenholt.md",
     "High Piedmont.md",
     "GrayCompanyBanner.jpg",
