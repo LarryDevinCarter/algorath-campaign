@@ -3,7 +3,7 @@ title: "Cosmology of Algorath"
 aliases: ["Planes", "Creation Myth", "The Great Schism"]
 tags: [lore, cosmology, planes, gods]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 # Cosmology of Algorath
@@ -11,7 +11,7 @@ updated: 2026-06-22
 The multiverse of Algorath began in division and has been shaped by divine conflict ever since.
 
 ## The First Division
-In the beginning, there was the One. This singular being was split into two godly entities: **[[Pelor]]**, the bringer of light and creation, and **[[Therizdun]]**, the embodiment of destruction and entropy. Therizdun despised the act of creation and sought to destroy Algorath to remerge with Pelor. A cataclysmic war erupted. Pelor emerged victorious and banished Therizdun, binding him beneath the nascent plane with **three great seals**.
+In the beginning, there was the One. This singular being was split into two godly entities: **[[Lore/Deities/Pelor|Pelor]]**, the bringer of light and creation, and **[[Lore/Deities/Therizdun|Therizdun]]**, the embodiment of destruction and entropy. Therizdun despised the act of creation and sought to destroy Algorath to remerge with Pelor. A cataclysmic war erupted. Pelor emerged victorious and banished Therizdun, binding him beneath the nascent plane with **three great seals**.
 
 At this stage, Algorath was a formless void anchored by these seals, and Pelor stood alone.
 
@@ -28,7 +28,7 @@ To give form to his creation, Pelor reached into the void and forged connections
 Upon death, souls of greater beings had nowhere to go and were often exploited. Pelor deemed this the first true evil and created the **Seven Layers of Heaven** (reward for the virtuous) and the **Seven Layers of Hell** (punishment for the wicked). This system deprived necromancers and soul-harvesters of their power.
 
 ## The Rise of the Gods and the Eldritch Threat
-Pelor later seeded other material planes with god-seeds, allowing new deities to mature over eons. One such god was **[[Orcus]]**, initially wise and righteous.
+Pelor later seeded other material planes with god-seeds, allowing new deities to mature over eons. One such god was **[[Lore/Deities/Orcus|Orcus]]**, initially wise and righteous.
 
 Orcus discovered remnants of **Old Gods** — incomprehensible eldritch entities from the primordial void, predating even the One. While others dismissed them, Orcus waged war against these horrors. In one plane, he was forced to destroy a corrupted god-seed. In the next, he sought to save it instead, allying with souls from the Hells and forging fiendish armies.
 
@@ -42,4 +42,4 @@ Approximately 2,000 years ago, a cult of Therizdun triggered a cataclysm that de
 ## Ongoing Threats
 Cults dedicated to **Therizdun** and the fallen **Orcus** periodically arise, seeking to destroy the remaining seals and unleash apocalypse.
 
-[[Pelor]] | [[Therizdun]] | [[Orcus]] | [[Palmar]] | [[Motavos]] | [[Dezoris]]
+[[Lore/Deities/Pelor|Pelor]] | [[Lore/Deities/Therizdun|Therizdun]] | [[Lore/Deities/Orcus|Orcus]] | [[Palmar]] | [[Motavos]] | [[Dezoris]]
