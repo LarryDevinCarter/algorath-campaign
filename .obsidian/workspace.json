@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Orcus.md",
+                "file": "Algorath/Locations/Regions/High Piedmont.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orcus"
+              "title": "High Piedmont"
             }
           }
         ]
@@ -195,11 +195,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "f8786bf4a8e9403b",
   "lastOpenFiles": [
+    "Algorath/Factions/Gray Company.md",
+    "Algorath/Lore/Orcus.md",
     "Algorath/Lore/Therizdun.md",
     "Algorath/Lore/Pelor.md",
-    "Algorath/Lore/Orcus.md",
     "Algorath/Lore/Cosmology.md",
     "Algorath/Locations/_index.md",
     "Algorath/Locations/Motavos.md",
@@ -214,7 +215,6 @@
     "Algorath/Locations/High Piedmont.md",
     "Algorath/Locations/Example-Location.md",
     "Algorath/Locations/Ashenholt.md",
-    "Algorath/Factions/Gray Company.md",
     "High Piedmont.md",
     "GrayCompanyBanner.jpg",
     "Algorath/Grok-Context-Summary.md",
