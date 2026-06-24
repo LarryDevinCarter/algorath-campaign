@@ -34,7 +34,7 @@ updated: 2026-06-23
 **Key Factions**:
 - **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction.
 - **Worshipers of Pelor**: Maintain holy temples built from eldritch essence to stabilize the plane.
-- **Grey Company**: Based in Ashenfort, High Piedmont.
+- **Grey Company**: Based in Ashenholt, High Piedmont.
 
 ## Current Plot / Active Threads
 (To be populated)
