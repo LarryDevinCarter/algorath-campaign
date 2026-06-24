@@ -3,7 +3,7 @@ title: "Motavos"
 aliases: ["Main Continent"]
 tags: [location, continent, motavos]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-06-23
 ---
 
 # Motavos
@@ -16,7 +16,7 @@ Motavos looks very different today than it did long ago. When the destruction of
 Motavos now largely consists of peninsulas, gulfs, a large inland lake, and islands, all created by the impacts following the destruction of Palmar. It is large and divided into 11 sections, 4 of which are island sections.
 
 ## Named Sections
-- **[[High Piedmont]]** — To the far northeast.
+- **[[High Piedmont]]** — Northwesternmost region; easily defendable and largely isolated. (See [[High Piedmont]] for details.)
 - **[[Vespera]]** — A large island to the far southeast.
 
 ## Ecology & Environment
