@@ -5,7 +5,7 @@ tags: [location, region, motavos]
 created: 2026-06-22
 updated: 2026-06-23
 ---
-
+![[High Piedmont.jpg]]
 # High Piedmont
 
 **High Piedmont** is the northwesternmost region of [[Motavos]]. It is easily defendable and largely isolated from the rest of Motavos.
