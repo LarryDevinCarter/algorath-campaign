@@ -3,11 +3,11 @@ title: "Gray Company"
 aliases: ["The Gray Company", "Grey Company"]
 tags: [faction, neutral, hunters, rangers]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 # Gray Company
-![[GrayCompanyBanner.jpg|183]]
+![[Images/Banners/GrayCompanyBanner.jpg|183]]
 
 The **Gray Company** is a sworn, neutral brotherhood of hunters, rangers, and marshals operating across the [[Locations/Regions/High Piedmont|High Piedmont]] wilderness and borderlands.
 
