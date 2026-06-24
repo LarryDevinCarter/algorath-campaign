@@ -3,14 +3,14 @@ title: "Grok Context Summary - Algorath"
 aliases: ["World Bible", "Context for Grok", "High-Level Overview"]
 tags: [meta, grok, summary, context]
 created: 2026-06-21
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 # Grok Context Summary (World Bible) - Algorath
 
 **Purpose**: Maximum relevant context for consistent world-building. Update after major additions.
 
-**Last Updated**: 2026-06-23
+**Last Updated**: 2026-06-24
 
 ---
 
@@ -21,6 +21,9 @@ updated: 2026-06-23
 - **Current In-Game Date / Era**: To be determined (post-Calamity, ~2000 years after destruction of Palmar and the 1st seal)
 - **Cosmology / Planes**: Rich layered cosmology centered on the Material Plane of Algorath. Includes Elemental Planes (Air, Earth, Fire, Water), Feywild, Shadowfell, Ethereal, Astral, Seven Heavens, Seven Hells.
 - **Key Themes / Motifs**: Creation from divine schism, seals holding back destruction, ancient eldritch threats, fallen gods, cults seeking apocalypse, stability maintained by holy temples built from eldritch essence.
+
+## Playable Races
+- **Orc**: Custom PC stats with four subraces (Mountain, Woodland, Fiend-Touched, Deep) detailed in [[Races/Orc]].
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
