@@ -63,6 +63,8 @@ None yet.
 - Role of other gods and Pelor's worshipers.
 - Details of Motavos's 11 sections.
 
+**See the dedicated [[Meta/Events-and-Details-to-Flesh-Out|Events and Details to Flesh Out]] page for a full checklist of these and additional unfleshed events (such as the Great Dog Winter and Purging of the Blackbriar Woods), locations, and wiki placeholders.**
+
 ## Style Notes for World Building
 - **Tone**: Mythic and grand in creation stories; build tension with creeping eldritch corruption and cult threats. Evocative descriptions with sensory cosmic wonder and horror.
 - **Inspirations**: Classic D&D cosmology (Planescape influences), Lovecraftian eldritch elements, divine betrayal narratives.
