@@ -5,7 +5,7 @@ tags: [location, region, motavos]
 created: 2026-06-22
 updated: 2026-06-23
 ---
-![[High Piedmont.jpg]]
+
 # High Piedmont
 
 **High Piedmont** is the northwesternmost region of [[Motavos]]. It is easily defendable and largely isolated from the rest of Motavos.
@@ -20,8 +20,8 @@ updated: 2026-06-23
 
 ## Settlements
 The region has been self-governed for a very long time. The two largest settlements are:
-- **[[Ashenfort]]**, the largest city in all of Motavos and home of the [[Grey Company]].
-- **[[Nalyne]]**, about a third the size of Ashenfort but still large compared to settlements in the rest of the continent.
+- **[[Ashenholt]]**, the largest city in all of Motavos and home of the [[Grey Company]].
+- **[[Nalyne]]**, about a third the size of Ashenholt but still large compared to settlements in the rest of the continent.
 
 ## Ecology and History
 Throughout wars and strife across most of the continent, High Piedmont has remained relatively safe and isolated due to its topography. It still has plenty of fertile land, areas to fish and hunt, and the largest undisturbed woods left on the continent.
