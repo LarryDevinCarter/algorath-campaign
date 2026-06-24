@@ -3,12 +3,14 @@ title: "High Piedmont"
 aliases: ["High Piedmont Region"]
 tags: [location, region, motavos]
 created: 2026-06-22
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 # High Piedmont
 
 **High Piedmont** is the northwesternmost region of [[Motavos]]. It is easily defendable and largely isolated from the rest of Motavos.
+
+![High Piedmont Map](../High%20Piedmont.jpg)
 
 ## Geography and Defenses
 - The **[[Shroud]]** (native term for the ever-present fog over the ocean that makes travel by ocean impossible) surrounds its northernmost coast.
