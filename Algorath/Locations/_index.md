@@ -21,6 +21,7 @@ Hierarchical structure:
 ## Regions
 - [[Locations/Regions/High Piedmont]]
 - [[Locations/Regions/Vespera]]
+- [[Locations/Regions/Ithenvale]]
 
 ## Settlements
 - [[Locations/Settlements/Ashenholt]]
