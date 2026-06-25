@@ -11,3 +11,4 @@ updated: 2026-06-25
 - [[Orc]]
 - [[Kobolds]]
 - [[Tieflings]]
+- [[Tritons]]
