@@ -29,4 +29,4 @@ They are known as the ideal knights, protecting the weak, dispensing justice, an
 
 ## Notable Members
 
-- **Mandrake** (Bronze Dragonflight): Betrayed the order. He killed [[Vitae]], allowing [[Ajax the Invincible]] to slay Good King [[Omund]] and shatter the realm. This ended the Age of Law and plunged [[Vasloria]] into chaos.
+- **Mandrake** (Bronze Dragonflight): Betrayed the order. He killed [[Vitae]], allowing [[Ajax|Ajax the Invincible]] to slay Good King [[King Omund|Omund]] and shatter the realm. This ended the Age of Law and plunged [[Vasloria]] into chaos.
