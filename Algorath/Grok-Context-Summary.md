@@ -3,14 +3,14 @@ title: "Grok Context Summary - Algorath"
 aliases: ["World Bible", "Context for Grok", "High-Level Overview"]
 tags: [meta, grok, summary, context]
 created: 2026-06-21
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 # Grok Context Summary (World Bible) - Algorath
 
 **Purpose**: Maximum relevant context for consistent world-building. Update after major additions.
 
-**Last Updated**: 2026-06-24
+**Last Updated**: 2026-06-25
 
 ---
 
@@ -24,10 +24,11 @@ updated: 2026-06-24
 
 ## Playable Races
 - **Orc**: Custom PC stats with four subraces (Mountain, Woodland, Fiend-Touched, Deep) detailed in [[Races/Orc]].
+- **Bugbear**: True neutral with average human intelligence. Society of traders/tradesmen speaking Common, Dwarvish, and Gnomish (no Goblin kinship). Control Titan-steel Guild and guard its secret. Value family and inherited trades. Brutish build; use titan-steel weapons (e.g., battle axes); raise basilisks like cattle. (See [[Races/Bugbear]])
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
-- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named: High Piedmont (far NE, northwesternmost region with detailed natural defenses), Vespera (large SE island). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
+- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named sections now include **[[Heartlands]]** (central mainland region with [[Molcrum]], [[Krupmere]], [[Jagged Peninsula]]). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
 - **Westerlands**: Region directly south of [[High Piedmont]] and northwest of [[Ithenvale]]. The [[Ashenfang Mountains]] lie to its north and [[Crimsonmere]] to its northeast, separating it from High Piedmont. To the southeast is [[The Golden Maw]] (a quicksand sea). A yet unnamed sea to the south separates it from Ithenvale. Contains the city of [[Kadurûn]], full of cult members and religious fanatics who worship a yet-unnamed cult/church dedicated to [[Therizdun]] and his Saints: [[Characters/NPCs/Ziothar|Ziothar]] (the Black Magician) and [[Characters/NPCs/Ajax|Ajax]] (the Immortal). Home to [[Barad Bane]], Ziothar's fortress.
 - **Dezoris**: One of the three great continents built atop the seals.
 
@@ -39,6 +40,7 @@ updated: 2026-06-24
 - **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction. Includes the prominent yet-unnamed cult/church centered in [[Kadurûn]] in the [[Westerlands]], whose members and fanatics worship [[Therizdun]] along with his Saints [[Characters/NPCs/Ziothar|Ziothar]] and [[Characters/NPCs/Ajax|Ajax]] (powerful NPCs).
 - **Worshipers of Pelor**: Maintain holy temples built from eldritch essence to stabilize the plane.
 - **Grey Company**: Based in Ashenholt, High Piedmont.
+- **Titan-steel Guild**: Controlled by bugbears.
 
 ## Current Plot / Active Threads
 (To be populated)
@@ -55,6 +57,7 @@ updated: 2026-06-24
 - **The Three Seals**: Divine bindings holding Therizdun.
 - **God Seed**: Planted on Algorath by Orcus; threatens to mature and doom the plane.
 - **Eldritch Temples**: Structures built from incomprehensible Old God essence.
+- **Titan-steel**: Strongest metal known; secret guarded by bugbears.
 
 ## Session History Snapshot
 None yet.
@@ -63,7 +66,7 @@ None yet.
 - Status and locations of the remaining two seals.
 - Activity of Orcus/Therizdun cults (including the one based in [[Kadurûn]]).
 - Role of other gods and Pelor's worshipers.
-- Details of Motavos's 11 sections.
+- Details of Motavos's 11 sections (including remaining Heartlands settlements like [[Molcrum]] and [[Krupmere]]).
 
 **See the dedicated [[Meta/Events-and-Details-to-Flesh-Out|Events and Details to Flesh Out]] page for a full checklist of these and additional unfleshed events (such as the Great Dog Winter and Purging of the Blackbriar Woods), locations, and wiki placeholders.**
 
