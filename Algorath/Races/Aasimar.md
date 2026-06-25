@@ -12,4 +12,4 @@ Aasimar are born when a woman becomes pregnant by a celestial being, and sometim
 
 They are extremely rare and seen as the stuff of stories and myth by most that would never see one.
 
-Aasimar were once seen as holy, pure, and favorable. That reputation was tarnished as [[Saint Ajax]] is known to be Aasimar.
+Aasimar were once seen as holy, pure, and favorable. That reputation was tarnished as [[Ajax|Saint Ajax]] is known to be Aasimar.
