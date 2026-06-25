@@ -3,7 +3,7 @@ title: "Motavos"
 aliases: ["Main Continent"]
 tags: [location, continent, motavos]
 created: 2026-06-22
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # Motavos
@@ -18,9 +18,4 @@ Motavos now largely consists of peninsulas, gulfs, a large inland lake, and isla
 ## Named Sections
 - **[[High Piedmont]]** — Northwesternmost region; easily defendable and largely isolated. (See [[High Piedmont]] for details.)
 - **[[Vespera]]** — A large island to the far southeast.
-
-## Ecology & Environment
-The land was once green and lush due to the oily back stone temples maintained by the followers of [[Pelor]]. As the followers of Pelor became few, old knowledge was lost, and the temples fell into disrepair. Now the green fullness of the land slowly recedes, and even some deserts and the treacherous quicksand seas take its place.
-
-## History
-- The destruction of Palmar heavily shaped the land of Motavos.
+- **[[Heartlands]]** — Central mainland region near the center of the map. Runs from just south of [[Zema]], includes [[Molcrum]] (a large Bugbear village), [[Krupmere]] (a city on the coast of the large inland lake), and the [[Jagged Peninsula]] to the northeast.
