@@ -29,6 +29,7 @@ updated: 2026-06-25
 - **Dragonborn**: Created by Vitae as the Dragon Phalanx for King Omund. Nearly 2,000 at height; most hunted by Ajax with bounties active. 10 orders infused with dragonflight blood; breeding possible but difficult. Ideal knights. Details on flights and betrayal by Mandrake in [[Races/Dragonborn]].
 - **Dwarf**: Many clans conquered by Ajax; some forced into slaving for him or breeding Griffons for the Hawklords. Others underground worshipping evil gods. General distrust/hate toward dwarves on Motavos. (See [[Races/Dwarf]])
 - **Elf**: Wary of others with strong magical impulse (tempered by disciplines or 'the dream'). Understand magic's recession (with Gnomes). Subraces adapt differently across Motavos regions (see [[Races/Elf]] for details including Dark, High, Wood, Eldrin, Sea, Shadar-Kai).
+- **Firbolg**: Extremely rare, reclusive, and happy-go-lucky. Most believe they don't even exist at all. (See [[Races/Firbolg]])
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
