@@ -11,3 +11,5 @@ updated: 2026-06-25
 **Ajax**, the Immortal (also known as Saint Ajax, the Immortal Emperor, or Ajax the Invincible), is one of the Saints of [[Therizdun]]. He is a powerful NPC.
 
 He betrayed and killed **[[King Omund]]** (The First Good King of [[Vasloria]]).
+
+He is known to be an [[Aasimar]].
