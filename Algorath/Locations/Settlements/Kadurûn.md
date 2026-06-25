@@ -10,6 +10,6 @@ updated: 2026-06-24
 
 **Kadurûn** is a city located in the [[Westerlands]].
 
-It is full of cult members and religious fanatics who worship a yet-unnamed cult/church that worships [[Therizdun]] and his Saints: [[Ziothar]], the Black Magician, and [[Alax]], the Immortal.
+It is full of cult members and religious fanatics who worship a yet-unnamed cult/church that worships [[Therizdun]] and his Saints: [[Ziothar]], the Black Magician, and [[Ajax]], the Immortal.
 
 **[[Barad Bane]]**, Ziothar's fortress, is also here.
