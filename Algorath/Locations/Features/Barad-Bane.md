@@ -8,4 +8,4 @@ updated: 2026-06-24
 
 # Barad Bane
 
-**Barad Bane** is Ziothar's fortress, located in [[Kadurûn]] within the [[Westerlands]].
+**Barad Bane** is [[Characters/NPCs/Ziothar|Ziothar]]'s fortress, located in [[Kadurûn]] within the [[Westerlands]].
