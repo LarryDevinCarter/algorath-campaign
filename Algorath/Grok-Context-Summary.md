@@ -28,7 +28,7 @@ updated: 2026-06-25
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
-- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named sections now include **[[Heartlands]]** (central mainland region with [[Molcrum]], [[Krupmere]], [[Jagged Peninsula]]). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
+- **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named sections now include **[[Heartlands]]** (central mainland) and **[[Azure Marches]]** (directly east of Heartlands across the inland lake; separated from [[The Eastern Reach]] by [[The Wyrmsea]]). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
 - **Westerlands**: Region directly south of [[High Piedmont]] and northwest of [[Ithenvale]]. The [[Ashenfang Mountains]] lie to its north and [[Crimsonmere]] to its northeast, separating it from High Piedmont. To the southeast is [[The Golden Maw]] (a quicksand sea). A yet unnamed sea to the south separates it from Ithenvale. Contains the city of [[Kadurûn]], full of cult members and religious fanatics who worship a yet-unnamed cult/church dedicated to [[Therizdun]] and his Saints: [[Characters/NPCs/Ziothar|Ziothar]] (the Black Magician) and [[Characters/NPCs/Ajax|Ajax]] (the Immortal). Home to [[Barad Bane]], Ziothar's fortress.
 - **Dezoris**: One of the three great continents built atop the seals.
 
@@ -66,7 +66,7 @@ None yet.
 - Status and locations of the remaining two seals.
 - Activity of Orcus/Therizdun cults (including the one based in [[Kadurûn]]).
 - Role of other gods and Pelor's worshipers.
-- Details of Motavos's 11 sections (including remaining Heartlands settlements like [[Molcrum]] and [[Krupmere]]).
+- Details of Motavos's 11 sections (including remaining Heartlands settlements like [[Molcrum]] and [[Krupmere]], and new regions like [[Azure Marches]]).
 
 **See the dedicated [[Meta/Events-and-Details-to-Flesh-Out|Events and Details to Flesh Out]] page for a full checklist of these and additional unfleshed events (such as the Great Dog Winter and Purging of the Blackbriar Woods), locations, and wiki placeholders.**
 
