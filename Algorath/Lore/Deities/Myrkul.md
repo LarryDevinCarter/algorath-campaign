@@ -8,4 +8,4 @@ updated: 2026-06-25
 
 # Myrkul
 
-God of Death. A god-seed child of [[Pelor]], like [[Orcus]]. Served by Shadar-Kai elves.
+God of Death. A god-seed child of [[Pelor]]. Served by Shadar-Kai elves.
