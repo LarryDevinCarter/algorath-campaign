@@ -33,6 +33,7 @@ updated: 2026-06-25
 - **Githyanki**: Old god-worshipping, fanatical people who maintain temples to incomprehensible beings. Most are mad but formidable warriors. (See [[Races/Githyanki]])
 - **Gnome**: Excellent scholars who remember the Weave connection and seek to restore it. Live communally in the Gnome Hole. (See [[Races/Gnome]])
 - **Half-Elf**: Product of human-elf unions; share traits of both and accepted in either society. (See [[Races/Half-Elf]])
+- **Half-Orc**: Products of Orc violence against human women; share traits of both but face rejection and a hard life. Strength helps them endure. (See [[Races/Half-Orc]])
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
