@@ -20,11 +20,13 @@ Hierarchical structure:
 
 ## Regions
 - [[Locations/Regions/High Piedmont]]
+- [[Locations/Regions/Westerlands]]
 - [[Locations/Regions/Vespera]]
 - [[Locations/Regions/Ithenvale]]
 
 ## Settlements
 - [[Locations/Settlements/Ashenholt]]
+- [[Locations/Settlements/Kadurûn]]
 - [[Locations/Settlements/Nalyne]]
 
 ## Features & Landmarks
@@ -33,5 +35,7 @@ Hierarchical structure:
 - [[Locations/Features/Crimsonmere]]
 - [[Locations/Features/Ashenfang-Mountains]]
 - [[Locations/Features/Crimson-Span]]
+- [[Locations/Features/The-Golden-Maw]]
+- [[Locations/Features/Barad-Bane]]
 
 See subfolders for full hierarchy.
