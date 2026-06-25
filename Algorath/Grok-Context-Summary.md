@@ -28,7 +28,7 @@ updated: 2026-06-24
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
 - **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named: High Piedmont (far NE, northwesternmost region with detailed natural defenses), Vespera (large SE island). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
-- **Westerlands**: Region directly south of [[High Piedmont]] and northwest of [[Ithenvale]]. The [[Ashenfang Mountains]] lie to its north and [[Crimsonmere]] to its northeast, separating it from High Piedmont. To the southeast is [[The Golden Maw]] (a quicksand sea). A yet unnamed sea to the south separates it from Ithenvale. Contains the city of [[Kadurûn]], full of cult members and religious fanatics who worship a yet-unnamed cult/church dedicated to [[Therizdun]] and his Saints: [[Ziothar]] (the Black Magician) and [[Alax]] (the Immortal). Home to [[Barad Bane]], Ziothar's fortress.
+- **Westerlands**: Region directly south of [[High Piedmont]] and northwest of [[Ithenvale]]. The [[Ashenfang Mountains]] lie to its north and [[Crimsonmere]] to its northeast, separating it from High Piedmont. To the southeast is [[The Golden Maw]] (a quicksand sea). A yet unnamed sea to the south separates it from Ithenvale. Contains the city of [[Kadurûn]], full of cult members and religious fanatics who worship a yet-unnamed cult/church dedicated to [[Therizdun]] and his Saints: [[Ziothar]] (the Black Magician) and [[Ajax]] (the Immortal). Home to [[Barad Bane]], Ziothar's fortress.
 - **Dezoris**: One of the three great continents built atop the seals.
 
 ## Player Characters (The Party)
@@ -36,7 +36,7 @@ updated: 2026-06-24
 
 ## Major NPCs & Factions
 **Key Factions**:
-- **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction. Includes the prominent yet-unnamed cult/church centered in [[Kadurûn]] in the [[Westerlands]], whose members and fanatics worship [[Therizdun]] along with his Saints [[Ziothar]] and [[Alax]].
+- **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction. Includes the prominent yet-unnamed cult/church centered in [[Kadurûn]] in the [[Westerlands]], whose members and fanatics worship [[Therizdun]] along with his Saints [[Ziothar]] and [[Ajax]] (powerful NPCs).
 - **Worshipers of Pelor**: Maintain holy temples built from eldritch essence to stabilize the plane.
 - **Grey Company**: Based in Ashenholt, High Piedmont.
 
@@ -47,6 +47,7 @@ updated: 2026-06-24
 - **Creation Myth**: The One Being split into Pelor and Therizdun. War ensued; Pelor triumphed, sealed Therizdun beneath Algorath with 3 seals.
 - **Plane Creation**: Pelor shaped Algorath using Elemental Planes, then Feywild (life/magic), Shadowfell (death), Ethereal (souls), Astral (dreams), and afterlife realms.
 - **The God Seed War**: Orcus, a god-seed child of Pelor, turned against his kin after battling eldritch Old Gods from the Void. Betrayed by planting a seed on Algorath; defeated by the pantheon.
+- Gods rarely manifest on the mortal plane for fear of being infected by the old gods the same way Orcus was. Banished gods like Orcus and Tharizdun require seals or powerful magic to manifest or exert influence.
 - **The Calamity**: ~2000 years ago, Therizdun cult destroyed Palmar and the 1st seal. Two seals remain.
 - **Stabilization**: Holy temples across Algorath, crafted from the essence of Old Gods, hold the plane stable against the maturing god-seed and Therizdun's influence.
 
