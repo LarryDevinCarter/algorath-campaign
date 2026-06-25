@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Locations/Settlements/Kadurûn.md",
+                "file": "Algorath/Meta/Events-and-Details-to-Flesh-Out.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kadurûn"
+              "title": "Events-and-Details-to-Flesh-Out"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "453692ef2fc3487c",
   "lastOpenFiles": [
+    "Algorath/Locations/Settlements/Kadurûn.md",
     "Algorath/Characters/NPCs/Ziothar.md",
     "Algorath/Characters/NPCs/Ajax.md",
-    "Algorath/Locations/Settlements/Kadurûn.md",
     "Algorath/Lore/Deities/Ajax.md",
     "Algorath/Locations/Regions/Westerlands.md",
     "Algorath/Locations/Features/The-Golden-Maw.md",
