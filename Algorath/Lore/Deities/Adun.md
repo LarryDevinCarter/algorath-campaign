@@ -8,4 +8,4 @@ updated: 2026-06-25
 
 # Adun
 
-God of Strength. A god-seed child of [[Pelor]], like [[Orcus]]. The Red Dragonflight (The Priests) dragonborn were devoted to him.
+God of Strength. A god-seed child of [[Pelor]]. The Red Dragonflight (The Priests) dragonborn were devoted to him.
