@@ -24,3 +24,11 @@ Motavos now largely consists of peninsulas, gulfs, a large inland lake, and isla
 - **[[The Jade Peninsula]]** — Directly south of [[The Eastern Reach]]. Once part of [[Vasloria]], now under control of [[Saint Ajax]]. Includes [[Terminus]] and [[Ladea's Tower]]. Far south lies [[The Isle of Winds]].
 - **[[The Isle of Winds]]** — Part of former [[Vasloria]], now under control of [[Saint Ajax]]. Most notable settlement is [[Torinco]] (Stepstone City / City of Steps), built on naturally occurring concentric plateaus.
 - **[[Aelindor]]** — Largest island. Larger than some inland regions such as [[The Westerlands]] and [[Azure Marches]]. West of [[The Dusk Isles]], northwest of [[The Eastern Reach]], north of [[The Heartlands]] (Jagged Peninsula points to it), northeast of [[Ithenvale]] (directly northeast of [[Zema]] and [[The Crescent Range]]), and east of [[High Piedmont]]. [[Ajax]] has conquered almost a third of the island and is pushing inward.
+
+## Demographics
+
+The racial breakdown of Motavos is approximately:
+
+- 50% [[Human]]
+- 30% [[Bugbear]]
+- 20% other races
