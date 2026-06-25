@@ -16,7 +16,7 @@ Elves are very wary of other races in general. Elves have a need to be close to 
 Live on the island region of [[Vespera]] and worship [[Selûne]], goddess of the moon. The goddess, in turn, blessed the rivers and streams of southern Vespera so that any of the dark elves that consume it may be blessed. They prefer healing and nature magic. Many powerful druids and priests resided amongst them.
 
 ### High Elves
-Were not so lucky; no god favored them. Living in the island region of [[Aelindor]], the elves there seek to restore their magical connection through any means. Including breeding and draining the magic from other magical beings. Warlocks are common. But so are paladins that see their greed as an evil to be pushed back against (while conveniently gaining a magic connection through a patron).
+Were not so lucky as the Dark Elves; no god favored them. Living in the island region of [[Aelindor]], the elves there seek to restore their magical connection through any means. Including breeding and draining the magic from other magical beings. Warlocks are common. But so are paladins that see their greed as an evil to be pushed back against (while conveniently gaining a magic connection through a patron).
 
 ### Wood Elves
 Live on [[Ithenvale]] but have been pushed into smaller and smaller areas as the forests recede. They are the most resilient to their magical need. Swift of foot and wise beyond their years, which is saying something considering how old that can get.
