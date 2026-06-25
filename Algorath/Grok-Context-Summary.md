@@ -28,6 +28,7 @@ updated: 2026-06-24
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
 - **Motavos**: Primary campaign continent. Heavily reshaped by Palmar debris into peninsulas, gulfs, a large inland lake, and islands. Divided into 11 sections (4 island-based). Named: High Piedmont (far NE, northwesternmost region with detailed natural defenses), Vespera (large SE island). Former lushness (maintained by Pelor's backstone temples) is receding into deserts and quicksand seas.
+- **Westerlands**: Region directly south of [[High Piedmont]] and northwest of [[Ithenvale]]. The [[Ashenfang Mountains]] lie to its north and [[Crimsonmere]] to its northeast, separating it from High Piedmont. To the southeast is [[The Golden Maw]] (a quicksand sea). A yet unnamed sea to the south separates it from Ithenvale. Contains the city of [[Kadurûn]], full of cult members and religious fanatics who worship a yet-unnamed cult/church dedicated to [[Therizdun]] and his Saints: [[Ziothar]] (the Black Magician) and [[Alax]] (the Immortal). Home to [[Barad Bane]], Ziothar's fortress.
 - **Dezoris**: One of the three great continents built atop the seals.
 
 ## Player Characters (The Party)
@@ -35,7 +36,7 @@ updated: 2026-06-24
 
 ## Major NPCs & Factions
 **Key Factions**:
-- **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction.
+- **Cults of Therizdun / Orcus**: Seek to destroy remaining seals and unleash destruction. Includes the prominent yet-unnamed cult/church centered in [[Kadurûn]] in the [[Westerlands]], whose members and fanatics worship [[Therizdun]] along with his Saints [[Ziothar]] and [[Alax]].
 - **Worshipers of Pelor**: Maintain holy temples built from eldritch essence to stabilize the plane.
 - **Grey Company**: Based in Ashenholt, High Piedmont.
 
@@ -59,7 +60,7 @@ None yet.
 
 ## Open Questions / Things to Track
 - Status and locations of the remaining two seals.
-- Activity of Orcus/Therizdun cults.
+- Activity of Orcus/Therizdun cults (including the one based in [[Kadurûn]]).
 - Role of other gods and Pelor's worshipers.
 - Details of Motavos's 11 sections.
 
