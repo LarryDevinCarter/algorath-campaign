@@ -1,11 +1,11 @@
 ---
 title: "Adun"
 aliases: ["Adun"]
-tags: [deity, strength]
+tags: [deity, strength, god-seed]
 created: 2026-06-25
 updated: 2026-06-25
 ---
 
 # Adun
 
-God of Strength. The Red Dragonflight (The Priests) dragonborn were devoted to him.
+God of Strength. A god-seed child of [[Pelor]], like [[Orcus]]. The Red Dragonflight (The Priests) dragonborn were devoted to him.
