@@ -18,4 +18,5 @@ Motavos now largely consists of peninsulas, gulfs, a large inland lake, and isla
 ## Named Sections
 - **[[High Piedmont]]** — Northwesternmost region; easily defendable and largely isolated. (See [[High Piedmont]] for details.)
 - **[[Vespera]]** — A large island to the far southeast.
-- **[[Heartlands]]** — Central mainland region near the center of the map. Runs from just south of [[Zema]], includes [[Molcrum]] (a large Bugbear village), [[Krupmere]] (a city on the coast of the large inland lake), and the [[Jagged Peninsula]] to the northeast.
+- **[[Heartlands]]** — Central mainland region near the center of the map. Runs from just south of [[Zema]], includes [[Molcrum]] (a large Bugbear village), [[Krupmere]] (a city on the coast of the large inland lake), and the [[Jagged Peninsula]] to the northeast. To the direct east lies [[Azure Marches]].
+- **[[Azure Marches]]** — Region directly east of [[Heartlands]] across the large inland lake. To its northeast lies [[The Wyrmsea]], the largest quicksand sea on Motavos, which separates it from [[The Eastern Reach]].
