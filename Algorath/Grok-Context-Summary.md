@@ -31,6 +31,7 @@ updated: 2026-06-25
 - **Elf**: Wary of others with strong magical impulse (tempered by disciplines or 'the dream'). Understand magic's recession (with Gnomes). Subraces adapt differently across Motavos regions (see [[Races/Elf]] for details including Dark, High, Wood, Eldrin, Sea, Shadar-Kai).
 - **Firbolg**: Extremely rare, reclusive, and happy-go-lucky. Most believe they don't even exist at all. (See [[Races/Firbolg]])
 - **Githyanki**: Old god-worshipping, fanatical people who maintain temples to incomprehensible beings. Most are mad but formidable warriors. (See [[Races/Githyanki]])
+- **Gnome**: Excellent scholars who remember the Weave connection and seek to restore it. Live communally in the Gnome Hole. (See [[Races/Gnome]])
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
