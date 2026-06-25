@@ -19,6 +19,7 @@ updated: 2026-06-24
 - At the southeastern corner is the **[[Crimson Span]]**, a massive bridge—one of the wonders of the world—built by a long-forgotten society. It connects High Piedmont to [[Ithenvale]] 11,000 feet above the sea.
 - Directly east of the Crimson Span in the south-by-southeastern region is **[[Crimsonmere]]**, a large sea, but with only two locations suitable for making port on the coast of High Piedmont. The rest of the coast is too jagged or features high bluffs that prevent ship landings for invasion.
 - To the south, southwest, west, and northwest are the **[[Ashenfang Mountains]]**, which form another natural barrier of protection.
+- Directly south of [[High Piedmont]] lies the [[Westerlands]], separated from it by the [[Ashenfang Mountains]] to the north of the Westerlands and [[Crimsonmere]] to the northeast of the Westerlands.
 
 ## Settlements
 The region has been self-governed for a very long time. The two largest settlements are:
