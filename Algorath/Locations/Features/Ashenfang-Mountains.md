@@ -1,17 +1,17 @@
 ---
 title: "Ashenfang Mountains"
 aliases: ["Ashenfang Mountains"]
-tags: [location, feature, mountains, barrier, high-piedmont]
+tags: [location, feature, mountains, barrier, high-piedmont, westerlands]
 created: 2026-06-24
 updated: 2026-06-24
 ---
 
 # Ashenfang Mountains
 
-The **Ashenfang Mountains** form a natural barrier of protection to the south, southwest, west, and northwest of [[High Piedmont]].
+The **Ashenfang Mountains** form a natural barrier of protection to the south, southwest, west, and northwest of [[High Piedmont]]. They also form the northern border of the [[Westerlands]].
 
 Throughout wars and strife across most of the continent, High Piedmont has remained relatively safe and isolated due in part to this topography, along with other natural defenses.
 
 The region still has plenty of fertile land, areas to fish and hunt, and the largest undisturbed woods left on [[Motavos]].
 
-[[High Piedmont]] | [[Motavos]]
+[[High Piedmont]] | [[Motavos]] | [[Westerlands]]
