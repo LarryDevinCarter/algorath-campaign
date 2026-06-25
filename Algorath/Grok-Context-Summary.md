@@ -35,6 +35,7 @@ updated: 2026-06-25
 - **Half-Elf**: Product of human-elf unions; share traits of both and accepted in either society. (See [[Races/Half-Elf]])
 - **Half-Orc**: Products of Orc violence against human women; share traits of both but face rejection and a hard life. Strength helps them endure. (See [[Races/Half-Orc]])
 - **Halfling**: Live peacefully and isolated near northern [[High Piedmont]], protected by [[Grey Company]]. Can't remember conflict. (See [[Races/Halfling]])
+- **Hobgoblin**: Born from Goblins enslaving human women; larger, stronger, smarter leaders. Unable to reproduce; tribes produce new ones as needed. Prefer Goblin societies. (See [[Races/Hobgoblin]])
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
