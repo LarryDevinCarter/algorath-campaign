@@ -12,4 +12,6 @@ updated: 2026-06-24
 
 It is one of the areas linked by this wonder of the world built by a long-forgotten society.
 
-[[High Piedmont]] | [[Crimson-Span]]
+To the northwest of [[Ithenvale]], across a yet unnamed sea, lies the [[Westerlands]].
+
+[[High Piedmont]] | [[Crimson-Span]] | [[Westerlands]]
