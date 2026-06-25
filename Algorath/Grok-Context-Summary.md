@@ -27,6 +27,7 @@ updated: 2026-06-25
 - **Bugbear**: True neutral with average human intelligence. Society of traders/tradesmen speaking Common, Dwarvish, and Gnomish (no Goblin kinship). Control Titan-steel Guild and guard its secret. Value family and inherited trades. Brutish build; use titan-steel weapons (e.g., battle axes); raise basilisks like cattle. (See [[Races/Bugbear]])
 - **Aasimar**: Born when a woman becomes pregnant by a celestial being, and sometimes from godly intervention. Extremely rare and seen as the stuff of stories and myth by most. Once viewed as holy, pure, and favorable; reputation tarnished because [[Saint Ajax]] is known to be an Aasimar. (See [[Races/Aasimar]])
 - **Dragonborn**: Created by Vitae as the Dragon Phalanx for King Omund. Nearly 2,000 at height; most hunted by Ajax with bounties active. 10 orders infused with dragonflight blood; breeding possible but difficult. Ideal knights. Details on flights and betrayal by Mandrake in [[Races/Dragonborn]].
+- **Dwarf**: Many clans conquered by Ajax; some forced into slaving for him or breeding Griffons for the Hawklords. Others underground worshipping evil gods. General distrust/hate toward dwarves on Motavos. (See [[Races/Dwarf]])
 
 ## Core Geography
 - **Palmar**: Destroyed ~2000 years ago by a Therizdun cult calamity; 1st seal destroyed.
