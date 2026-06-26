@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
+                "file": "Algorath/Lore/Old Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Old Gods"
             }
           }
         ]
@@ -189,8 +189,19 @@
   },
   "active": "b8027ed0047ce7fe",
   "lastOpenFiles": [
-    "Algorath/Characters/NPCs/Chain of Acheron.md",
+    "Algorath/Lore/History/Vasloria.md",
+    "Algorath/Lore/Old Gods.md",
+    "/Algorath/Lore/Old Gods.md",
+    "/Algorath/Lore/Deities/Orcus.md",
+    "/Algorath/Lore/Deities/Maglubiyet.md",
+    "Algorath/Lore/Deities/Maglubiyet.md",
+    "/Algorath/Lore/Deities",
+    "/Algorath/Lore/Cosmology.md",
+    "/Algorath/Lore",
+    "/Algorath",
+    "Algorath/Lore/Deities/Orcus.md",
     "Algorath/Lore/Cosmology.md",
+    "Algorath/Characters/NPCs/Chain of Acheron.md",
     "Algorath/Characters/NPCs/Lady of Brass.md",
     "Algorath/Characters/NPCs/Xorn.md",
     "Algorath/Characters/NPCs/Yxmic.md",
@@ -203,9 +214,6 @@
     "/Algorath/Characters/NPCs/Chain of Acheron.md",
     "/Algorath/Characters/NPCs",
     "/Algorath/Characters",
-    "/Algorath",
-    "/Algorath/Lore/Cosmology.md",
-    "/Algorath/Lore",
     "Algorath/Locations/Planes/Algorath.md",
     "Algorath/Locations/Planes/Quintessence.md",
     "/Algorath/Locations/Planes/Algorath.md",
@@ -215,16 +223,8 @@
     "/Algorath/Grok-Context-Summary.md",
     "/Algorath/Characters/NPCs/Elemental Gods.md",
     "Algorath/Characters/NPCs/Elemental Gods.md",
-    "Algorath/Bestiary/Aboleths.md",
-    "Algorath/Sessions/Session-0.md",
-    "/Algorath/Bestiary/Aboleths.md",
     "/Algorath/Bestiary",
     "Algorath/Bestiary",
-    "Algorath/Races/Orc.md",
-    "/Algorath/Sessions/Session-0.md",
-    "/Algorath/Home.md",
-    "/Algorath/Sessions",
-    "Algorath/Races/Tieflings.md",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "/Algorath/Maps/High Piedmont.jpg",
