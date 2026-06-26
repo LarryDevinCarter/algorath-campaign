@@ -3,7 +3,7 @@ title: "Algorath - Campaign Wiki"
 aliases: ["Home", "Index", "World Overview"]
 tags: [meta, overview, home]
 created: 2026-06-21
-updated: 2026-06-24
+updated: 2026-06-26
 ---
 
 # Algorath
@@ -21,6 +21,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 - [[Factions|Factions & Cults]]
 - [[Locations|Key Locations]]
 - [[Races|Playable Races]]
+- [[Sessions/Session-0|Session 0]]
 - [[Current Session / Adventure Log]]
 - [[Maps]]
 - [[Homebrew Rules]]
