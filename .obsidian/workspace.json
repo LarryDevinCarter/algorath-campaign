@@ -1,24 +1,36 @@
 {
   "main": {
-    "id": "d9ccf4c465d3f4c4",
+    "id": "5ff72a0a1c6cc843",
     "type": "split",
     "children": [
       {
-        "id": "50932179988a65e5",
+        "id": "45dc599d7092f940",
         "type": "tabs",
         "children": [
           {
-            "id": "453692ef2fc3487c",
+            "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorath/Races/Elf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Elf"
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8cc8b57c2b5a8d58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e98b0f2b9e1c0aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +39,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "40753422219e69de",
+    "id": "bae95bb37e6f339b",
     "type": "split",
     "children": [
       {
-        "id": "99a528138432e468",
+        "id": "0790ac83f6e07023",
         "type": "tabs",
         "children": [
           {
-            "id": "5a554af706474759",
+            "id": "847b8f79168928ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +60,7 @@
             }
           },
           {
-            "id": "779d5f4f52f2c882",
+            "id": "621a6f71ccafcc86",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +77,7 @@
             }
           },
           {
-            "id": "608d62fbec809db7",
+            "id": "24e729359ebd5b08",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +93,19 @@
     "width": 300
   },
   "right": {
-    "id": "722c915fa4976632",
+    "id": "f4751e0078d54d1d",
     "type": "split",
     "children": [
       {
-        "id": "4cd3a6a9b8440082",
+        "id": "2b4f103f0c3970d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9368a3dd2f7fa4b7",
+            "id": "4facb683d8d36786",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +115,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cosmology"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c27f5812072fa7d9",
+            "id": "7eb77ed5fe067137",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cosmology"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4ed3861ab3ef32bd",
+            "id": "c8f1ab6049535bd3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +147,7 @@
             }
           },
           {
-            "id": "5a641991dabf23f1",
+            "id": "48a657058c0aa880",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,28 +161,17 @@
             }
           },
           {
-            "id": "5ff7ad7a17153575",
+            "id": "682abbd76d37a100",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cosmology"
-            }
-          },
-          {
-            "id": "75e440a864ed07ea",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "title": "Outline"
             }
           }
         ]
@@ -191,49 +190,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "453692ef2fc3487c",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Locations/Features/Shroud.md",
-    "Algorath/Races/Elf.md",
-    "Algorath/Races/Dwarf.md",
-    "Algorath/Locations/Regions/High Piedmont.md",
-    "Algorath/Locations/Continents/Motavos.md",
-    "Algorath/Characters/NPCs/Mandrake.md",
-    "Algorath/Characters/NPCs/King Omund.md",
-    "Algorath/Characters/NPCs/Ajax.md",
-    "Omund.md",
-    "Ajax the Invincible.md",
-    "Algorath/Races/Dragonborn.md",
-    "Algorath/Lore/Deities/Adun.md",
-    "Algorath/Lore/Deities/Therizdun.md",
-    "Algorath/Lore/Deities/Orcus.md",
-    "Algorath/Lore/Deities/Pelor.md",
-    "Algorath/Locations/Settlements/Gravesford.md",
-    "Algorath/Locations/Features/Castle Rend.md",
-    "Algorath/Characters/NPCs/Vitae.md",
-    "Algorath/Races/Aasimar.md",
-    "Saint Ajax.md",
+    "Welcome.md",
+    "Algorath/Races/_index.md",
+    "Algorath/Races/Tritons.md",
     "Algorath/Races/Orc.md",
+    "Algorath/Races/Tieflings.md",
+    "Algorath/Races/Kobolds.md",
+    "Algorath/Races/Human.md",
+    "Algorath/Races/Halfling.md",
+    "Algorath/Races/Hobgoblin.md",
+    "Algorath/Races/Half-Elf.md",
+    "Algorath/Races/Half-Orc.md",
+    "Algorath/Races/Gnome.md",
+    "Algorath/Races/Githyanki.md",
+    "Algorath/Races/Elf.md",
+    "Algorath/Races/Firbolg.md",
+    "Algorath/Races/Dwarf.md",
+    "Algorath/Races/Dragonborn.md",
     "Algorath/Races/Bugbear.md",
-    "Algorath/Locations/Regions/Dusk Isles.md",
-    "Algorath/Locations/Regions/Aelindor.md",
-    "Algorath/Locations/Regions/Jade Peninsula.md",
-    "Algorath/Locations/Regions/Isle of Winds.md",
-    "Algorath/Lore/History",
-    "Untitled.base",
-    "Algorath/Lore/Deities",
-    "Algorath/Images/Banners/GrayCompanyBanner.jpg",
-    "Algorath/Maps/Untitled",
-    "Algorath/Images/Banners",
-    "Algorath/Images",
-    "Algorath/Maps/High Piedmont.jpg",
-    "Algorath/Locations/Features",
+    "Algorath/Races/Aasimar.md",
     "Algorath/Races",
+    "Algorath/README.md",
+    "Algorath/Meta/Events-and-Details-to-Flesh-Out.md",
+    "Algorath/Meta",
+    "Algorath/Lore/History/Vasloria.md",
+    "Algorath/Lore/Deities/Therizdun.md",
+    "Algorath/Lore/Deities/Selûne.md",
+    "Algorath/Lore/Deities/Pelor.md",
+    "Algorath/Lore/Deities/Orcus.md",
+    "Algorath/Images/Banners/GrayCompanyBanner.jpg",
+    "Algorath/Maps/High Piedmont.jpg",
+    "Algorath/Lore/History",
+    "Algorath/Lore/Deities",
     "Algorath/Locations/Settlements",
-    "Algorath/Locations/Regions"
+    "Algorath/Locations/Regions",
+    "Algorath/Locations/Planes",
+    "Algorath/Locations/Features",
+    "Algorath/Locations/Continents",
+    "Algorath/Images/Banners"
   ]
 }
