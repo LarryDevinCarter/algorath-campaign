@@ -19,16 +19,16 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 ## Key Expectations and House Rules
 
 ### Character Death
-- The DM runs a game where character death is possible and appropriate when it fits narratively.
+- I run a game where character death is possible and appropriate when it fits narratively.
 - Death is not a punishment but a consequence of decisions and the world.
 - Death ends that character's story, but not the overall campaign.
 - Players will roll a new character with their own backstory and continue playing.
 
 ### World and Adventure Style
-- The DM presents situations, politics, factions, and plot hooks.
-- Players can engage with or ignore them as they choose.
+- I presents situations, politics, factions, and plot hooks.
+- You guys can engage with or ignore them as they choose.
 - The world has consequences; not every combat has a good way to win.
-- The DM writes an adventure with situations, bad guys with plans and motivations, but no predetermined resolution.
+- I writes an adventure with situations, bad guys with plans and motivations, but no predetermined resolution.
 - Goal is maximum player choice within the framework of the game and rules.
 - Players tell a story together; there is no win or lose.
 

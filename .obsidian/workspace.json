@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Grok-Context-Summary.md",
+                "file": "Algorath/Sessions/Session-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grok-Context-Summary"
+              "title": "Session-0"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "453692ef2fc3487c",
   "lastOpenFiles": [
-    "Algorath/Meta/Events-and-Details-to-Flesh-Out.md",
     "Algorath/Grok-Context-Summary.md",
+    "Algorath/Sessions/Session-0.md",
+    "Algorath/Meta/Events-and-Details-to-Flesh-Out.md",
     "Algorath/Races/Hobgoblin.md",
     "Algorath/Races/Half-Orc.md",
     "Algorath/Races/Half-Elf.md",
@@ -238,7 +239,6 @@
     "Algorath/Lore/Deities/Orcus.md",
     "Algorath/Lore/Deities/Selûne.md",
     "Algorath/Lore/Deities/Pelor.md",
-    "Algorath/Locations/Features/Shroud.md",
     "Algorath/Lore/History",
     "Untitled.base",
     "Algorath/Lore/Deities",
