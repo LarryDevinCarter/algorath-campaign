@@ -23,7 +23,7 @@ updated: 2026-06-26
 - **Theme**: Threats in the world (some known, most not initially). Overarching: inevitability of entropy and struggle against collapse. Tangible: Cult/religion worshiping Saints of Therizdun (gods empower saints, no direct god encounters). Saint Ajax betrayed King Omund, promotes human supremacy, seeks conquest of Motavos (east); start options in west preferred.
 - **Primary System**: D&D 5e (assumed)
 - **Current In-Game Date / Era**: To be determined (post-Calamity, ~2000 years after destruction of Palmar and the 1st seal)
-- **Cosmology / Planes**: Rich layered cosmology centered on the Material Plane of Algorath. Includes Elemental Planes (Air, Earth, Fire, Water), Feywild, Shadowfell, Ethereal, Astral, Seven Heavens, Seven Hells.
+- **Cosmology / Planes**: Rich layered cosmology centered on the Material Plane of Algorath. Includes Elemental Planes (Air, Earth, Fire, Water), Feywild, Shadowfell, Ethereal, Astral, Seven Heavens, Seven Hells, and the hidden plane [[Quintessence]].
 - **Key Themes / Motifs**: Creation from divine schism, seals holding back destruction, ancient eldritch threats, fallen gods, cults seeking apocalypse, stability maintained by holy temples built from eldritch essence.
 - **Session 0 Topics**: Detailed expectations on character death, risks of travel/rest, roll rules, information veracity, player agency, storytelling focus, campaign framework, character connections. See [[Sessions/Session-0]].
 
@@ -73,6 +73,7 @@ updated: 2026-06-26
 - **The Calamity**: ~2000 years ago, Therizdun cult destroyed Palmar and the 1st seal. Two seals remain.
 - **Stabilization**: Holy temples across Algorath, crafted from the essence of Old Gods, hold the plane stable against the maturing god-seed and Therizdun's influence.
 - **Kingdom of Vasloria**: Ruled by King Omund until betrayed by Ajax.
+- **Quintessence**: Hidden elemental plane formed by the [[Elemental Gods]].
 
 ## Important Items / McGuffins
 - **The Three Seals**: Divine bindings holding Therizdun.
