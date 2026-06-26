@@ -3,14 +3,14 @@ title: "Grok Context Summary - Algorath"
 aliases: ["World Bible", "Context for Grok", "High-Level Overview"]
 tags: [meta, grok, summary, context]
 created: 2026-06-21
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 # Grok Context Summary (World Bible) - Algorath
 
 **Purpose**: Maximum relevant context for consistent world-building. Update after major additions.
 
-**Last Updated**: 2026-06-25
+**Last Updated**: 2026-06-26
 
 ---
 
@@ -21,6 +21,7 @@ updated: 2026-06-25
 - **Current In-Game Date / Era**: To be determined (post-Calamity, ~2000 years after destruction of Palmar and the 1st seal)
 - **Cosmology / Planes**: Rich layered cosmology centered on the Material Plane of Algorath. Includes Elemental Planes (Air, Earth, Fire, Water), Feywild, Shadowfell, Ethereal, Astral, Seven Heavens, Seven Hells.
 - **Key Themes / Motifs**: Creation from divine schism, seals holding back destruction, ancient eldritch threats, fallen gods, cults seeking apocalypse, stability maintained by holy temples built from eldritch essence.
+- **Session 0 Topics**: Detailed expectations on character death, risks of travel/rest, roll rules, information veracity, player agency, and storytelling focus. See [[Sessions/Session-0]].
 
 ## Playable Races
 - **Orc**: Custom PC stats with four subraces (Mountain, Woodland, Fiend-Touched, Deep) detailed in [[Races/Orc]].
@@ -76,7 +77,7 @@ updated: 2026-06-25
 - **Titan-steel**: Strongest metal known; secret guarded by bugbears.
 
 ## Session History Snapshot
-None yet.
+- **Session 0**: Discussed character creation, death rules, world risks, DM style, and expectations. See [[Sessions/Session-0]].
 
 ## Open Questions / Things to Track
 - Status and locations of the remaining two seals.
