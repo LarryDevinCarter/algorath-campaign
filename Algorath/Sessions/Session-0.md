@@ -49,6 +49,10 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 - Provides commonly known information about groups, etc., based on reputation.
 - Players decide what to believe.
 
+## Scheduling
+- Sessions planned every other Saturday (when Jerrika is off work).
+- Question for the group: How long does everyone feel comfortable with playing each session?
+
 ## Next Steps
 - Character creation discussion.
 - Q&A on rules and expectations.
