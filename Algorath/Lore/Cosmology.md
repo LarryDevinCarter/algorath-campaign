@@ -39,7 +39,7 @@ The last God seed that Orcus attempted to save, the one where he teamed up with 
 
 Prolonged exposure corrupted Orcus. He turned against Pelor, stealing a god-seed and planting it on Algorath (forbidden ground, as it housed Therizdun's prison) in hopes of dooming the plane and freeing his other half.
 
-Pelor and the pantheon defeated Orcus. To stabilize Algorath, Pelor commanded his followers to construct **holy temples** using the very essence of the defeated Old Gods.
+Pelor and the pantheon defeated Orcus. To stabilize Algorath, Pelor commanded his followers to construct **holy temples** using the very essence of defeated Old Gods.
 
 ## The Calamity
 Approximately 2,000 years ago, a cult of Therizdun triggered a cataclysm that destroyed the continent of **[[Palmar]]** and shattered the first seal. Only two seals remain, and the god-seed continues its slow maturation.
