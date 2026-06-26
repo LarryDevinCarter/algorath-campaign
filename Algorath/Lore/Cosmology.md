@@ -3,7 +3,7 @@ title: "Cosmology of Algorath"
 aliases: ["Planes", "Creation Myth", "The Great Schism"]
 tags: [lore, cosmology, planes, gods]
 created: 2026-06-22
-updated: 2026-06-24
+updated: 2026-06-26
 ---
 
 # Cosmology of Algorath
@@ -23,6 +23,7 @@ To give form to his creation, Pelor reached into the void and forged connections
 - **The Shadowfell**: Introduced death, decay, and an end to unchecked magical proliferation.
 - **The Ethereal Plane**: Granted higher beings souls and agency.
 - **The Astral Plane**: Bestowed the gift of dreams upon all creatures.
+- **Quintessence**: A hidden elemental plane created by the [[Elemental Gods]] (not directly connected to the Material Plane).
 
 ## The Afterlife and Moral Order
 Upon death, souls of greater beings had nowhere to go and were often exploited. Pelor deemed this the first true evil and created the **Seven Layers of Heaven** (reward for the virtuous) and the **Seven Layers of Hell** (punishment for the wicked). This system deprived necromancers and soul-harvesters of their power.
@@ -42,4 +43,4 @@ Approximately 2,000 years ago, a cult of Therizdun triggered a cataclysm that de
 ## Ongoing Threats
 Cults dedicated to **Therizdun** and the fallen **Orcus** periodically arise, seeking to destroy the remaining seals and unleash apocalypse.
 
-[[Lore/Deities/Pelor|Pelor]] | [[Lore/Deities/Therizdun|Therizdun]] | [[Lore/Deities/Orcus|Orcus]] | [[Palmar]] | [[Motavos]] | [[Dezoris]]
+[[Lore/Deities/Pelor|Pelor]] | [[Lore/Deities/Therizdun|Therizdun]] | [[Lore/Deities/Orcus|Orcus]] | [[Palmar]] | [[Motavos]] | [[Dezoris]] | [[Quintessence]]
