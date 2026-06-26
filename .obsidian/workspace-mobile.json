@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Races/Orc.md",
+                "file": "Algorath/Sessions/Session-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orc"
+              "title": "Session-0"
             }
           }
         ]
@@ -189,6 +189,14 @@
   },
   "active": "b8027ed0047ce7fe",
   "lastOpenFiles": [
+    "Algorath/Races/Orc.md",
+    "Algorath/Sessions/Session-0.md",
+    "/Algorath/Sessions/Session-0.md",
+    "/Algorath/Home.md",
+    "/Algorath/Grok-Context-Summary.md",
+    "/Algorath/Sessions",
+    "Algorath/Sessions",
+    "/Algorath",
     "Algorath/Races/Tieflings.md",
     "Algorath/Races/Tritons.md",
     "Algorath/Locations/Features/Crimson-Span.md",
@@ -210,11 +218,6 @@
     "Algorath/Races/Bugbear.md",
     "Algorath/Races/Firbolg.md",
     "Algorath/Locations/Regions/Eastern Reach.md",
-    "Algorath/Races/Dwarf.md",
-    "Algorath/Locations/Regions/Isle of Winds.md",
-    "Algorath/Races/Dragonborn.md",
-    "Algorath/Locations/Regions/Westerlands.md",
-    "Algorath/Races/Half-Elf.md",
     "/Algorath/Races",
     "/Algorath/Lore/Deities",
     "/Algorath/Locations/Settlements",
@@ -222,9 +225,6 @@
     "/Algorath/Locations/Features",
     "/Algorath/Locations/Continents",
     "/Algorath/Locations",
-    "/Algorath/Characters/NPCs",
-    "/Algorath/Characters",
-    "/Algorath/Lore/History",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "/Algorath/Maps/High Piedmont.jpg",
