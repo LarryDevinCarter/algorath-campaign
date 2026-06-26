@@ -36,6 +36,9 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 - Travel between points can be dangerous.
 - Taking a rest, including short rests outside of town, is risky.
 - Only one person makes a check to uncover hidden information; others do not get additional rolls (avoids "Uber advantage").
+- If the DM asks the party in general for a check, only someone proficient in that skill can make it (exception if no one at the table is proficient).
+- This applies when the DM asks the party in general, not when directed at an individual player.
+- Any player can make any check they want on their own initiative, but only one person can make a given check and it should be someone proficient.
 - A natural 20 does not always guarantee success. Example: Trying to convince a pirate to give up his possessions may result in the pirate finding it amusing rather than complying.
 - Some information from the DM is factual (mechanics, e.g., does this roll hit?).
 - Other information is what the character would know or hear from NPCs, which may or may not be true.
