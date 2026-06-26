@@ -16,6 +16,18 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 - The world
 - Basic rules of the game, rolls, DM screen
 
+## Campaign Framework
+- This is a high magic world, but the ability to use magic is very rare. Because magic is rare and power corrupts, most magic users in this world are typically evil. This leads to the population highly distrusting anyone who wields magic.
+- Technology level is that of medieval Europe. Occasional crossbow and trebuchet is about as much technology as there is, although there may be a few exceptions.
+- There will be a good mix of dungeons, cities, and overworld/wilderness content.
+- Theme: Plenty of threats in the world, some known to characters but most not at the beginning. Overarching hidden law is the inevitability of entropy and the struggle to avoid collapse into nothing.
+- General knowledge: A cult/religion has sprung up that worships the Saints of Therizdun. Gods have good reason not to interact directly and typically empower saints. No face-to-face encounters with gods expected.
+- One saint is Saint Ajax, who betrayed King Omund, dissolving his kingdom into smaller territories and driving them into chaos. Ajax promotes a human supremacy doctrine and seeks to conquer Motavos (events in the east).
+- Plenty of things happening in the west better for beginning exploration, but willing to start wherever.
+- Players can approach stories linearly or non-linearly. Plenty of side quests; flexible to main storyline or player direction.
+- Starting level: Level 1 with milestone leveling (level when DM decides). Early levels progressed relatively quickly to experience them, making mid-levels less underwhelming.
+- Character creation: Each character should have a connection to another character in the party or a good reason how/why you meet and start adventuring together. Also, a connection to at least one NPC in the world for better plot hooks.
+
 ## Key Expectations and House Rules
 
 ### Character Death
@@ -51,7 +63,7 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 
 ## Scheduling
 - Sessions planned every other Saturday (when Jerrika is off work).
-- ==Question for the group==: How long does everyone feel comfortable with playing each session?
+- Question for the group: How long does everyone feel comfortable with playing each session?
 
 ## Next Steps
 - Character creation discussion.
