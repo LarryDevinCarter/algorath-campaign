@@ -31,7 +31,11 @@ Upon death, souls of greater beings had nowhere to go and were often exploited. 
 ## The Rise of the Gods and the Eldritch Threat
 Pelor later seeded other material planes with god-seeds, allowing new deities to mature over eons. One such god was **[[Lore/Deities/Orcus|Orcus]]**, initially wise and righteous.
 
-Orcus discovered remnants of **Old Gods** — incomprehensible eldritch entities from the primordial void, predating even the One. While others dismissed them, Orcus waged war against these horrors. In one plane, he was forced to destroy a corrupted god-seed. In the next, he sought to save it instead, allying with souls from the Hells and forging fiendish armies.
+Orcus discovered remnants of **[[Old Gods]]** — incomprehensible eldritch entities from the primordial void, predating even the One. While others dismissed them, Orcus waged war against these horrors. 
+
+The Old Gods were specifically attracted to the god seeds. Each God seed after the first one was infected by the old gods. This included Orcus himself. The God seeds were so mighty in their power that minor infections only slightly weakened their power, making them not as powerful as Pelor, or giving them some negative character qualities that made them just not quite as holy and perfect and righteous as their father. With each birth of a God seed and the destruction of its corresponding material plane, the amount of old God influence spread across the planes increased.
+
+The last God seed that Orcus attempted to save, the one where he teamed up with fiends, was [[Maglubiyet]]. Maglubiyet was corrupted nearly to insanity. He became the god of war and tyranny.
 
 Prolonged exposure corrupted Orcus. He turned against Pelor, stealing a god-seed and planting it on Algorath (forbidden ground, as it housed Therizdun's prison) in hopes of dooming the plane and freeing his other half.
 
