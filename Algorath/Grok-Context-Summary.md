@@ -17,11 +17,15 @@ updated: 2026-06-26
 ## World Basics
 - **World/Campaign Name**: Algorath
 - **Setting Tone**: High fantasy with cosmic horror undertones, mythic creation, divine betrayal, and apocalyptic threats. Evocative, wondrous yet ominous.
+- **Magic**: High magic world but ability to use magic is very rare. Most magic users are typically evil; population highly distrusts magic wielders.
+- **Technology**: Medieval Europe level (occasional crossbow, trebuchet; few exceptions).
+- **Content Mix**: Good balance of dungeons, cities, overworld/wilderness.
+- **Theme**: Threats in the world (some known, most not initially). Overarching: inevitability of entropy and struggle against collapse. Tangible: Cult/religion worshiping Saints of Therizdun (gods empower saints, no direct god encounters). Saint Ajax betrayed King Omund, promotes human supremacy, seeks conquest of Motavos (east); start options in west preferred.
 - **Primary System**: D&D 5e (assumed)
 - **Current In-Game Date / Era**: To be determined (post-Calamity, ~2000 years after destruction of Palmar and the 1st seal)
 - **Cosmology / Planes**: Rich layered cosmology centered on the Material Plane of Algorath. Includes Elemental Planes (Air, Earth, Fire, Water), Feywild, Shadowfell, Ethereal, Astral, Seven Heavens, Seven Hells.
 - **Key Themes / Motifs**: Creation from divine schism, seals holding back destruction, ancient eldritch threats, fallen gods, cults seeking apocalypse, stability maintained by holy temples built from eldritch essence.
-- **Session 0 Topics**: Detailed expectations on character death, risks of travel/rest, roll rules, information veracity, player agency, and storytelling focus. See [[Sessions/Session-0]].
+- **Session 0 Topics**: Detailed expectations on character death, risks of travel/rest, roll rules, information veracity, player agency, storytelling focus, campaign framework, character connections. See [[Sessions/Session-0]].
 
 ## Playable Races
 - **Orc**: Custom PC stats with four subraces (Mountain, Woodland, Fiend-Touched, Deep) detailed in [[Races/Orc]].
@@ -77,7 +81,7 @@ updated: 2026-06-26
 - **Titan-steel**: Strongest metal known; secret guarded by bugbears.
 
 ## Session History Snapshot
-- **Session 0**: Discussed character creation, death rules, world risks, DM style, and expectations. See [[Sessions/Session-0]].
+- **Session 0**: Discussed character creation, death rules, world risks, DM style, expectations, and campaign framework. See [[Sessions/Session-0]].
 
 ## Open Questions / Things to Track
 - Status and locations of the remaining two seals.
