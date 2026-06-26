@@ -10,6 +10,4 @@ updated: 2026-06-26
 
 **The Material Plane** where the campaign takes place.
 
-It is connected to various other planes, including the hidden plane of [[Quintessence]].
-
 [[Locations/Planes|Back to Planes]]
