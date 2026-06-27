@@ -3,7 +3,7 @@ title: "Session 0"
 aliases: ["Session Zero", "Character Creation Session", "Campaign Expectations"]
 tags: [sessions, meta, rules]
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # Session 0
@@ -15,6 +15,7 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 - Character creation
 - The world
 - Basic rules of the game, rolls, DM screen
+- Importance of notetaking and player recaps
 
 ## Campaign Framework
 - This is a high magic world, but the ability to use magic is very rare. Because magic is rare and power corrupts, most magic users in this world are typically evil. This leads to the population highly distrusting anyone who wields magic.
@@ -60,6 +61,10 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 - Presents scenarios for players to handle in the moment as their character would.
 - Provides commonly known information about groups, etc., based on reputation.
 - Players decide what to believe.
+
+### Notetaking and Recaps
+- There should be a notetaker.
+- It is better for the players to recap what’s going on in the world because it allows me to understand how they proceed. What’s going on not what I think I told them.
 
 ## Scheduling
 - Sessions planned every other Saturday (when Jerrika is off work).
