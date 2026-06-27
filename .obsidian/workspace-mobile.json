@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
+                "file": "Algorath/Races/Dwarf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Dwarf"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "b8027ed0047ce7fe",
   "lastOpenFiles": [
+    "Algorath/Factions/Gray Company.md",
+    "Algorath/Lore/Cosmology.md",
     "Algorath/Home.md",
     "Algorath/Races/Elf.md",
     "/Algorath/Races/Dwarf.md",
@@ -217,8 +219,6 @@
     "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "/Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "/Algorath/Lore/Deities/Grumbar.md",
-    "/Algorath/Lore/Deities/Chauntea.md",
-    "Algorath/Lore/Deities/Chauntea.md",
     "/Algorath/Lore/Deities",
     "/Algorath/Locations/Settlements",
     "/Algorath/Locations",
