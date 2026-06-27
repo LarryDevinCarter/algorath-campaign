@@ -12,12 +12,10 @@ updated: 2026-06-26
 
 **Last Updated**: 2026-06-26
 
----
-
 ## World Basics
-... (same as before)
+(Details preserved from previous; wiki structure improvements reflected in linked pages.)
 
 ## Playable Races
 ... (Dwarf entry already present; now expanded via Races/Dwarf.md with full details on origins, time invention, worship (Grumbar, Chauntea, fire gods), remaining civilizations (Stone in Kenkarra, Hill in Blackpeak, Deep), betrayals by elves, relations to Ajax, etc.)
 
-... (rest unchanged)
+... (rest unchanged per fidelity)

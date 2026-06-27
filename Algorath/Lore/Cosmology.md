@@ -11,7 +11,7 @@ updated: 2026-06-26
 The multiverse of Algorath began in division and has been shaped by divine conflict ever since.
 
 ## The First Division
-In the beginning, there was the One. This singular being was split into two godly entities: **[[Lore/Deities/Pelor|Pelor]]**, the bringer of light and creation, and **[[Lore/Deities/Therizdun|Therizdun]]**, the embodiment of destruction and entropy. Therizdun despised the act of creation and sought to destroy Algorath to remerge with Pelor. A cataclysmic war erupted. Pelor emerged victorious and banished Therizdun, binding him beneath the nascent plane with **three great seals**.
+In the beginning, there was the One. This singular being split into two godly entities: **[[Lore/Deities/Pelor|Pelor]]**, the bringer of light and creation, and **[[Lore/Deities/Therizdun|Therizdun]]**, the embodiment of destruction and entropy. Therizdun despised creation and sought to destroy Algorath to remerge with Pelor. A cataclysmic war erupted. Pelor emerged victorious and banished Therizdun, binding him beneath the nascent plane with **three great seals**.
 
 At this stage, Algorath was a formless void anchored by these seals, and Pelor stood alone.
 
@@ -33,7 +33,7 @@ Pelor later seeded other material planes with god-seeds, allowing new deities to
 
 Orcus discovered remnants of **[[Old Gods]]** — incomprehensible eldritch entities from the primordial void, predating even the One. While others dismissed them, Orcus waged war against these horrors. 
 
-The Old Gods were specifically attracted to the god seeds. Each God seed after the first one was infected by the old gods. This included Orcus himself. The God seeds were so mighty in their power that minor infections only slightly weakened their power, making them not as powerful as Pelor, or giving them some negative character qualities that made them just not quite as holy and perfect and righteous as their father. With each birth of a God seed and the destruction of its corresponding material plane, the amount of old God influence spread across the planes increased.
+The Old Gods were specifically attracted to the god seeds. Each God seed after the first one was infected by the old gods. This included Orcus himself. The God seeds were so mighty that minor infections only slightly weakened their power, making them not as powerful as Pelor, or giving them some negative character qualities that made them just not quite as holy and perfect and righteous as their father. With each birth of a God seed and the destruction of its corresponding material plane, the amount of old God influence spread across the planes increased.
 
 The last God seed that Orcus attempted to save, the one where he teamed up with fiends, was [[Maglubiyet]]. Maglubiyet was corrupted nearly to insanity. He became the god of war and tyranny.
 

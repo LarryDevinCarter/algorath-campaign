@@ -13,7 +13,7 @@ updated: 2026-06-26
 A world born from divine division, sealed against primordial destruction, and haunted by eldritch remnants and fallen gods.
 
 ## Quick Links
-- [[Algorath/Grok-Context-Summary|World Bible]]
+- [[Grok-Context-Summary|World Bible]]
 - [[Lore/Cosmology|Cosmology & Creation]]
 - [[Timeline]] (coming soon)
 - [[Characters/PCs|Player Characters]]
@@ -29,7 +29,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 
 ## Core Continents
 - **[[Palmar]]** — Destroyed in the Calamity ~2,000 years ago.
-- **[[Locations/Continents/Motavos|Motavos]]** — Primary campaign continent; fractured by Palmar debris into peninsulas, gulfs, a large inland lake, and islands (11 sections total, 4 island-based). Ecology declining as Pelor temples fade.
+- **[[Locations/Continents/Motavos|Motavos]]** — Primary campaign continent; fractured by Palmar debris into peninsulas, gulfs, a large inland lake, and islands (11 sections total, 4 island-based). Ecology is declining as Pelor temples fade.
 - **[[Dezoris]]**
 
 ## Current In-Game Date
@@ -37,7 +37,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 
 ## How to Use This Wiki
 - Follow **[[wikilinks]]** to explore the interconnected web of lore.
-- Update **[[Algorath/Grok-Context-Summary]]** after major additions.
+- Update **[[Grok-Context-Summary]]** after major additions.
 - Check [[Meta/Events-and-Details-to-Flesh-Out|Events & Details to Flesh Out]] for items needing DM attention or expansion.
 
 The foundations have been laid. More continents, gods, locations, and adventures await your direction.

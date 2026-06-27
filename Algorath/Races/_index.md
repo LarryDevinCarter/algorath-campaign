@@ -1,15 +1,18 @@
 ---
 title: "Playable Races"
 aliases: ["Races"]
-tags: [race, pc, rules]
-created: 2026-06-24
-updated: 2026-06-25
+tags: [meta, races, index]
+created: 2026-06-22
+updated: 2026-06-26
 ---
 
 # Playable Races
 
-- [[Orc]]
-- [[Kobolds]]
-- [[Tieflings]]
-- [[Tritons]]
-- [[Human]]
+Index of races in Algorath. See individual pages for details.
+
+- [[Races/Dwarf]]
+- [[Races/Elf]]
+- [[Races/Human]]
+- [[Races/Orc]]
+- [[Races/Dragonborn]]
+(and others in the folder)

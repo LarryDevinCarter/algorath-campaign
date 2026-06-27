@@ -3,7 +3,7 @@ title: "Motavos"
 aliases: ["Main Continent"]
 tags: [location, continent, motavos]
 created: 2026-06-22
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 # Motavos
@@ -11,7 +11,7 @@ updated: 2026-06-25
 **The main continent where the current campaign takes place.**
 
 ## Overview
-Motavos looks very different today than it did long ago. When the destruction of [[Palmar]] took place 2000 years ago, large chunks of land were sent flying. Since Motavos was the closest of the other two continents, chunks of Palmar rained down, having devastating effects on the population and the shape of the land.
+Motavos looks very different today than it did long ago. When the destruction of [[Palmar]] took place approximately 2,000 years ago, large chunks of land were sent flying. Since Motavos was the closest of the other two continents, chunks of Palmar rained down, having devastating effects on the population and the shape of the land.
 
 Motavos now largely consists of peninsulas, gulfs, a large inland lake, and islands, all created by the impacts following the destruction of Palmar. It is large and divided into 11 sections, 4 of which are island sections.
 
