@@ -3,12 +3,12 @@ title: "Locations"
 aliases: ["Key Locations"]
 tags: [meta, locations, index]
 created: 2026-06-22
-updated: 2026-06-24
+updated: 2026-06-26
 ---
 
 # Locations
 
-Hierarchical structure:
+Hierarchical structure for the wiki:
 
 ## Planes
 - [[Locations/Planes/Algorath]]
@@ -38,4 +38,4 @@ Hierarchical structure:
 - [[Locations/Features/The-Golden-Maw]]
 - [[Locations/Features/Barad-Bane]]
 
-See subfolders for full hierarchy.
+See subfolders for full hierarchy and details.
