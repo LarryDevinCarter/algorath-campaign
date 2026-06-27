@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Cosmology.md",
+                "file": "Algorath/Locations/Settlements/Alloy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Alloy"
             }
           }
         ]
@@ -189,18 +189,25 @@
   },
   "active": "b8027ed0047ce7fe",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session-0.md",
+    "Algorath/Locations/Settlements/Gravesford.md",
+    "Algorath/Lore/Deities/Therizdun.md",
+    "Algorath/Lore/Deities/Selûne.md",
+    "Algorath/Lore/Deities/Pelor.md",
+    "Algorath/Lore/Deities/Orcus.md",
+    "Algorath/Lore/Deities/Myrkul.md",
+    "Algorath/Lore/Deities/Maglubiyet.md",
+    "Algorath/Lore/Deities/Adun.md",
+    "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Old Gods.md",
     "Algorath/Lore/History/Vasloria.md",
     "/Algorath/Lore/Old Gods.md",
     "/Algorath/Lore/Deities/Orcus.md",
     "/Algorath/Lore/Deities/Maglubiyet.md",
-    "Algorath/Lore/Deities/Maglubiyet.md",
     "/Algorath/Lore/Deities",
     "/Algorath/Lore/Cosmology.md",
     "/Algorath/Lore",
     "/Algorath",
-    "Algorath/Lore/Deities/Orcus.md",
-    "Algorath/Lore/Cosmology.md",
     "Algorath/Characters/NPCs/Chain of Acheron.md",
     "Algorath/Characters/NPCs/Lady of Brass.md",
     "Algorath/Characters/NPCs/Xorn.md",
@@ -215,14 +222,7 @@
     "/Algorath/Characters/NPCs",
     "/Algorath/Characters",
     "Algorath/Locations/Planes/Algorath.md",
-    "Algorath/Locations/Planes/Quintessence.md",
-    "/Algorath/Locations/Planes/Algorath.md",
-    "Algorath/Locations/Settlements/Alloy.md",
-    "/Algorath/Locations/Planes/Quintessence.md",
     "/Algorath/Locations/Planes",
-    "/Algorath/Grok-Context-Summary.md",
-    "/Algorath/Characters/NPCs/Elemental Gods.md",
-    "Algorath/Characters/NPCs/Elemental Gods.md",
     "/Algorath/Bestiary",
     "Algorath/Bestiary",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
