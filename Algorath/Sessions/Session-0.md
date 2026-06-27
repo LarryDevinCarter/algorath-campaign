@@ -61,6 +61,7 @@ This page outlines the plan and key points for Session 0 of the Algorath campaig
 - Presents scenarios for players to handle in the moment as their character would.
 - Provides commonly known information about groups, etc., based on reputation.
 - Players decide what to believe.
+- I am typically a 3rd-person DM. I usually describe an NPC's actions, but I rarely play or voice them in character.
 
 ### Notetaking and Recaps
 - There should be a notetaker.
