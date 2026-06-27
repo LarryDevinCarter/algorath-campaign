@@ -3,7 +3,7 @@ title: "Gray Company"
 aliases: ["The Gray Company", "Grey Company"]
 tags: [faction, neutral, hunters, rangers]
 created: 2026-06-22
-updated: 2026-06-24
+updated: 2026-06-26
 ---
 
 # Gray Company
@@ -11,18 +11,18 @@ updated: 2026-06-24
 
 The **Gray Company** is a sworn, neutral brotherhood of hunters, rangers, and marshals operating across the [[Locations/Regions/High Piedmont|High Piedmont]] wilderness and borderlands.
 
-They serve as independent protectors of the common folk, functioning as local law-enforcement in unsettled areas, wilderness rangers, and versatile problem-solvers for threats that civilized authorities cannot or will not handle.
+They serve as independent protectors of the common folk, functioning as local law enforcement in unsettled areas, wilderness rangers, and versatile problem-solvers for threats that civilized authorities cannot or will not handle.
 
 Bound by strict oaths of non-involvement in political conflicts or noble wars, they reject service as sellswords or banners for any lord or faction. Their creed focuses on the practical defense of life, land, and travelers against the dangers of the wild—beasts, outlaws, natural disasters, and unknown frontiers.
 
 ## Organizational Structure
 
-- **High Marshall**: Elected leader of the company. Appoints a city governance poured for [[Locations/Settlements/Ashenholt|Ashenholt]].
+- **High Marshall**: Elected leader of the company. Appoints a city governance liaison for [[Locations/Settlements/Ashenholt|Ashenholt]].
 - **Rangers**: Wilderness law enforcement, and the closest thing to a full military apparatus the company has for protecting [[Locations/Regions/High Piedmont|High Piedmont]].
 - **Hunters**: Specialists in exterminating all forms of monstrosities that infect this plane of existence. This group rarely stays near High Piedmont and often takes contracts far away across the continent.
-- **Marshalls**: City guard and internal law-enforcement for [[Locations/Settlements/Ashenholt|Ashenholt]].
+- **Marshals**: City guard and internal law enforcement for [[Locations/Settlements/Ashenholt|Ashenholt]].
 - **Pathfinders**: Scouts and explorers. Experts at wilderness survival, stealth, and mapmaking.
-- **Stewards**: The men and women who run the day-to-day operation of the guild Hall. They manage all the intellectual and manual day-to-day tasks of the guild. Everything from balancing books, to construction, to cooking and cleaning. They do anything it takes to keep the members of the guild fed, clothed, housed, armored, and in work.
+- **Stewards**: The men and women who run the day-to-day operations of the guild hall. They manage all the intellectual and manual tasks of the guild—from balancing books to construction, cooking, and cleaning. They do whatever it takes to keep the members fed, clothed, housed, armored, and in work.
 
 ## History
 
@@ -32,4 +32,4 @@ They established waystations and lodges at key crossroads and forest edges, earn
 
 Key historical moments include the [[Purging of the Blackbriar Woods]] and the successful defense of [[Locations/Settlements/Ashenholt|Ashenholt]] during the [[Great Dog Winter]] without taking sides in the concurrent struggles of the barons.
 
-Since then, they’ve made their headquarters at [[Locations/Settlements/Ashenholt|Ashenholt]] and have become the official rulers of the city at the behest of its people. Because of this, and the heavy ranging’s that take place in the area, [[Locations/Regions/High Piedmont|High Piedmont]] is the safest region of the entire continent.
+Since then, they’ve made their headquarters at [[Locations/Settlements/Ashenholt|Ashenholt]] and have become the official rulers of the city at the behest of its people. Because of this, and the heavy ranging that takes place in the area, [[Locations/Regions/High Piedmont|High Piedmont]] is the safest region of the entire continent.
