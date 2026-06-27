@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Races/Elf.md",
+                "file": "Algorath/Lore/Cosmology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elf"
+              "title": "Cosmology"
             }
           }
         ]
@@ -189,6 +189,16 @@
   },
   "active": "b8027ed0047ce7fe",
   "lastOpenFiles": [
+    "Algorath/Home.md",
+    "Algorath/Races/Elf.md",
+    "/Algorath/Races/Dwarf.md",
+    "/Algorath/Races",
+    "/Algorath/Lore/Cosmology.md",
+    "/Algorath/Lore",
+    "/Algorath/Home.md",
+    "/Algorath/Factions/Gray Company.md",
+    "/Algorath/Factions",
+    "/Algorath",
     "Algorath/Characters/NPCs/Ajax.md",
     "Algorath/Characters/NPCs/Ziothar.md",
     "Algorath/Characters/NPCs/Yxmic.md",
@@ -205,26 +215,16 @@
     "Algorath/Lore/Deities/Grumbar.md",
     "Algorath/Locations/Settlements/Kenkarra.md",
     "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
-    "/Algorath/Races/Dwarf.md",
-    "/Algorath/Races",
     "/Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "/Algorath/Lore/Deities/Grumbar.md",
     "/Algorath/Lore/Deities/Chauntea.md",
     "Algorath/Lore/Deities/Chauntea.md",
     "/Algorath/Lore/Deities",
-    "/Algorath/Locations/Settlements/Kenkarra.md",
-    "/Algorath/Locations/Settlements/Blackpeak.md",
-    "Algorath/Locations/Settlements/Blackpeak.md",
     "/Algorath/Locations/Settlements",
     "/Algorath/Locations",
-    "/Algorath/Grok-Context-Summary.md",
     "/Algorath/Lore/Events",
     "Algorath/Lore/Events",
-    "/Algorath/Lore",
-    "/Algorath",
-    "Algorath/Sessions/Session-0.md",
     "/Algorath/Characters/NPCs",
-    "/Algorath/Characters",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "/Algorath/Maps/High Piedmont.jpg",
