@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Locations/Continents/Motavos.md",
+                "file": "Algorath/Locations/Regions/High Piedmont.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motavos"
+              "title": "High Piedmont"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "b8027ed0047ce7fe",
   "lastOpenFiles": [
+    "Algorath/Grok-Context-Summary.md",
+    "/Algorath/Races/_index.md",
+    "/Algorath/Locations/Regions/High Piedmont.md",
+    "/Algorath/Locations/Regions",
+    "Algorath/Locations/Continents/Motavos.md",
     "Algorath/Locations/_index.md",
     "Algorath/Races/Dwarf.md",
     "/Algorath/Locations/_index.md",
@@ -217,14 +222,9 @@
     "Algorath/Characters/NPCs/Lady of Brass.md",
     "Algorath/Characters/NPCs/King Omund.md",
     "Algorath/Characters/NPCs/Elemental Gods.md",
-    "Algorath/Characters/NPCs/Chain of Acheron.md",
-    "Algorath/Bestiary/Aboleths.md",
-    "Algorath/Locations/Settlements/Alloy.md",
-    "Algorath/Lore/Deities/Grumbar.md",
     "/Algorath/Lore/Deities",
     "/Algorath/Locations/Settlements",
     "/Algorath/Lore/Events",
-    "Algorath/Lore/Events",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "/Algorath/Maps/High Piedmont.jpg",
