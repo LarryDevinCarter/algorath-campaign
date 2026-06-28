@@ -13,6 +13,6 @@ updated: 2026-06-28
 **Last Updated**: 2026-06-28
 
 ## PCs
-- **Maki**: Dark elf (~200 years old) from [[Vespera]], level 1 wizard / Fellow of the Hunters. Sage journey started via Professor Holt from The Athenaeum in Piata ~20 years ago. Excited to reconnect during current contract.
+- **Maki**: Dark elf (~200 years old) from [[Locations/Regions/Vespera]], level 1 wizard / Fellow of the Hunters. Sage journey started via Professor Holt from [[Factions/The Athenaeum]] in Piata ~20 years ago. Excited to reconnect during current contract.
 
 ... (rest unchanged per fidelity)
