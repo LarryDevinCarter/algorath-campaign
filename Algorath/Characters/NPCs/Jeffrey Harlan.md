@@ -16,8 +16,8 @@ Jeffrey Harlan, commonly called Jeff, is a Fellow of the Stewards in the Gray Co
 - Friendly, organized, and well-liked for his reliability and dry sense of humor.
 
 ## Relationships
-- Holds [[Maki]] (Fellow of the Hunters) in high personal and professional regard and is consistently supportive of her.
-- Shares a strong friendship with [[Ragnar]] (Member of the Hunters) and personally recommended him to assist Maki with her current contract.
+- Holds [[Characters/PCs/Maki|Maki]] (Fellow of the Hunters) in high personal and professional regard and is consistently supportive of her.
+- Shares a strong friendship with [[Characters/PCs/Ragnar|Ragnar]] (Member of the Hunters) and personally recommended him to assist Maki with her current contract.
 
 ## Role
 Jeff works out of the guild hall in [[Locations/Settlements/Ashenholt|Ashenholt]] and takes pride in helping Hunters focus on their field work.
