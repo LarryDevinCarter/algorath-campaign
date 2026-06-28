@@ -8,4 +8,4 @@ updated: 2026-06-28
 
 # Piata
 
-City home to [[The Athenaeum]]. The Athenaeum's grounds take up the northern third of the city. High-ranking members of the Institute often hold positions of power in the city.
+City home to [[Factions/The Athenaeum|The Athenaeum]]. The Athenaeum's grounds take up the northern third of the city. High-ranking members of the Institute often hold positions of power in the city.
