@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Races/Dwarf.md",
+                "file": "Algorath/Sessions/Session-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dwarf"
+              "title": "Session-0"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "453692ef2fc3487c",
   "lastOpenFiles": [
+    "Algorath/Races/Dwarf.md",
     "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "Algorath/Lore/Events",
     "Algorath/Lore/Deities/Grumbar.md",
@@ -239,7 +240,6 @@
     "Algorath/Races/Half-Elf.md",
     "Algorath/Races/Dragonborn.md",
     "Algorath/Races/Aasimar.md",
-    "Algorath/Races/Bugbear.md",
     "Algorath/Lore/History",
     "Untitled.base",
     "Algorath/Lore/Deities",
