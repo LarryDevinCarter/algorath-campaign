@@ -8,6 +8,6 @@ updated: 2026-06-28
 
 # Professor Holt
 
-Archaeologist from [[The Athenaeum]] in [[Piata]]. Visited Maki's community on [[Locations/Regions/Vespera|Vespera]] around twenty years ago, sparking her journey as a sage. Developed an extremely close professional relationship with Maki, with frequent correspondence.
+Archaeologist from [[Factions/The Athenaeum]] in [[Piata]]. Visited Maki's community on [[Locations/Regions/Vespera|Vespera]] around twenty years ago, sparking her journey as a sage. Developed an extremely close professional relationship with Maki, with frequent correspondence.
 
 He is currently missing. Last known to be on an expedition to Zema and the Veil of First Light.
