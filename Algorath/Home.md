@@ -3,7 +3,7 @@ title: "Algorath - Campaign Wiki"
 aliases: ["Home", "Index", "World Overview"]
 tags: [meta, overview, home]
 created: 2026-06-21
-updated: 2026-06-26
+updated: 2026-06-29
 ---
 
 # Algorath
@@ -15,6 +15,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 ## Quick Links
 - [[Grok-Context-Summary|World Bible]]
 - [[Lore/Cosmology|Cosmology & Creation]]
+- [[Lore/Calendar|Calendar]]
 - [[Timeline]] (coming soon)
 - [[Characters/PCs|Player Characters]]
 - [[Characters/NPCs|Major NPCs]]
@@ -33,7 +34,7 @@ A world born from divine division, sealed against primordial destruction, and ha
 - **[[Dezoris]]**
 
 ## Current In-Game Date
-*To be established — post-Calamity era.*
+*29 Highsummer, 2284 AW*
 
 ## How to Use This Wiki
 - Follow **[[wikilinks]]** to explore the interconnected web of lore.
