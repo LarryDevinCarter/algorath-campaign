@@ -5,6 +5,7 @@
 - 
 
 ## Strong Start
+-The PCs start outside the Archmagister Vaelor Thorne's office on orders the remove a threat of monstrosities.
 
 ## Scenes
 
