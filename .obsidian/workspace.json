@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50932179988a65e5",
+        "id": "4580c4860ce1d65b",
         "type": "tabs",
         "children": [
           {
-            "id": "453692ef2fc3487c",
+            "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Races/Dwarf.md",
+                "file": "Algorath/Sessions/Session-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dwarf"
+              "title": "Session-1"
             }
           }
         ]
@@ -211,8 +211,27 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Lore/Calendar.md",
+    "Algorath/Lore/Cosmology.md",
+    "Highsummer.md",
+    "Algorath/Sessions/Session-1.md",
+    "Algorath/Sessions/open.url",
+    "Algorath/Home.md",
+    "Algorath/README.md",
+    "Algorath/Lore/History/Vasloria.md",
+    "Algorath/Factions/The Athenaeum.md",
+    "Algorath/Factions/Gray Company.md",
+    "Algorath/Characters/PCs/Draveena.md",
+    "Algorath/Lore/Deities/Chauntea.md",
+    "Algorath/Characters/PCs/Maki.md",
+    "Algorath/Characters/PCs/Ragnar.md",
+    "Algorath/Races/Dwarf.md",
+    "Algorath/Locations/Settlements/Piata.md",
+    "Algorath/Characters/NPCs/Professor Holt.md",
+    "Algorath/Characters/NPCs/Jeffrey Harlan.md",
+    "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Sessions/Session-0.md",
     "Algorath/Sessions",
     "Algorath/Lore/Old Gods.md",
@@ -220,27 +239,10 @@
     "Algorath/Lore/Events",
     "Algorath/Lore/Deities/Maglubiyet.md",
     "Algorath/Lore/Deities/Grumbar.md",
-    "Algorath/Lore/Deities/Chauntea.md",
     "Algorath/Locations/Settlements/Kenkarra.md",
     "Algorath/Locations/Settlements/Blackpeak.md",
     "Algorath/Locations/Settlements/Alloy.md",
-    "Algorath/Locations/Planes/Quintessence.md",
-    "Algorath/Characters/NPCs/Yxmic.md",
-    "Algorath/Characters/NPCs/Xorn.md",
-    "Algorath/Characters/NPCs/Lady of Brass.md",
-    "Algorath/Characters/NPCs/Elemental Gods.md",
-    "Algorath/Characters/NPCs/Chain of Acheron.md",
-    "Algorath/Bestiary/Aboleths.md",
     "Algorath/Bestiary",
-    "conflict-files-obsidian-git.md",
-    "Algorath/Races/Dwarf.md",
-    "Algorath/Characters/NPCs/Ajax.md",
-    "Algorath/Lore/History/Vasloria.md",
-    "Algorath/Grok-Context-Summary.md",
-    "Algorath/Meta/Events-and-Details-to-Flesh-Out.md",
-    "Algorath/Races/Hobgoblin.md",
-    "Algorath/Races/Half-Orc.md",
-    "Algorath/Races/Half-Elf.md",
     "Algorath/Lore/History",
     "Untitled.base",
     "Algorath/Lore/Deities",
@@ -248,7 +250,6 @@
     "Algorath/Maps/Untitled",
     "Algorath/Images/Banners",
     "Algorath/Images",
-    "Algorath/Maps/High Piedmont.jpg",
-    "Algorath/Locations/Features"
+    "Algorath/Maps/High Piedmont.jpg"
   ]
 }
