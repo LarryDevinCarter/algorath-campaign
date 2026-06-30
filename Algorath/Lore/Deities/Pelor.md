@@ -3,7 +3,7 @@ title: "Pelor"
 aliases: ["The Creator", "Lord of Light"]
 tags: [god, deity, lore]
 created: 2026-06-22
-updated: 2026-06-24
+updated: 2026-06-29
 ---
 
 # Pelor
@@ -13,6 +13,8 @@ updated: 2026-06-24
 Pelor defeated [[Therizdun]] and bound him with the Three Seals. He shaped the planes and commanded the construction of holy temples to stabilize the world against the God Seed and eldritch threats.
 
 His worshipers maintain the sacred order across the continents.
+
+One of his later god-seeds is [[Oghma]].
 
 **Domains**: Light, Life, Creation
 
