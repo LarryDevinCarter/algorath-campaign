@@ -8,4 +8,4 @@ updated: 2026-06-26
 
 # Grumbar
 
-The god of the earth. The dwarves of the mountains and mines believe themselves to be created by [[Grumbar]], who they say built the world.
+The god of the earth. The dwarves of the mountains and mines believe themselves to be created by [[Grumbar]], who they say built the world. Earth Elemental God not a child or Pelor.
