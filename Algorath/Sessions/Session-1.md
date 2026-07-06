@@ -50,7 +50,7 @@
 
 ## Monsters
 
-- 
+- Kruthik
 
 ## Treasure
 
