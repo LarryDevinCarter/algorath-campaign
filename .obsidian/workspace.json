@@ -11,12 +11,10 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png"
-              },
-              "icon": "lucide-image",
-              "title": "TheAthenaeumBasement"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -211,7 +209,9 @@
   },
   "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Algorath/Sessions/Session-1.md",
+    "Algorath/Grok-Context-Summary.md",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Images/Dungeon Maps",
     "Algorath/Lore/Deities/Oghma.md",
@@ -239,7 +239,6 @@
     "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Sessions/Session-0.md",
     "Algorath/Sessions",
-    "Algorath/Lore/Old Gods.md",
     "Algorath/Lore/Events",
     "Algorath/Bestiary",
     "Algorath/Lore/History",
