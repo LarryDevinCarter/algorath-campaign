@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png"
               },
-              "icon": "lucide-file",
-              "title": "Session-1"
+              "icon": "lucide-image",
+              "title": "TheAthenaeumBasement"
             }
           }
         ]
@@ -211,13 +209,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b5b31cbd095018c4",
+  "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session-1.md",
+    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
+    "Algorath/Images/Dungeon Maps",
     "Algorath/Lore/Deities/Oghma.md",
     "Algorath/Lore/Deities/Myrkul.md",
     "Algorath/Lore/Deities/Maglubiyet.md",
     "Algorath/Lore/Deities/Grumbar.md",
-    "Algorath/Sessions/Session-1.md",
     "Algorath/Locations/Regions/Ithenvale.md",
     "Algorath/Factions/The Athenaeum.md",
     "Algorath/Lore/Calendar.md",
@@ -240,7 +240,6 @@
     "Algorath/Sessions/Session-0.md",
     "Algorath/Sessions",
     "Algorath/Lore/Old Gods.md",
-    "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "Algorath/Lore/Events",
     "Algorath/Bestiary",
     "Algorath/Lore/History",
@@ -249,7 +248,6 @@
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
     "Algorath/Maps/Untitled",
     "Algorath/Images/Banners",
-    "Algorath/Images",
     "Algorath/Maps/High Piedmont.jpg"
   ]
 }

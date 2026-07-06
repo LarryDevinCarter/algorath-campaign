@@ -2,7 +2,9 @@
 
 ## Characters
 
-- 
+- Ragnar Blackmane (One other Bugbear is in The Athenaeum, from same city)
+- Maki (Know Professor Holt, will want to reconnect with him)
+- Draveena (No connection to Piata yet)
 
 ## Strong Start
 -The PCs start outside the Archmagister Vaelor Thorne's office on orders the remove a threat of monstrosities.
@@ -50,11 +52,13 @@
 
 ## Monsters
 
-- Kruthik
+- Kruthiks
 
 ## Treasure
 
-- 
+- Potion of Healing
+- Antitoxin
+- A book that contain instructions on forgotten magic (Alarm, Comprehend Languages, Detect Magic)
 
 ## Session Notes
 
