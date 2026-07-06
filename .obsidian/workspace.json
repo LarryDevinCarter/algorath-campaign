@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Images/Mobs/Young Kruthik.png"
               },
-              "icon": "lucide-file",
-              "title": "Session-1"
+              "icon": "lucide-image",
+              "title": "Young Kruthik"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Grok-Context-Summary.md",
+                "file": "Algorath/Images/Mobs/Young Kruthik.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grok-Context-Summary"
+              "title": "Backlinks for Young Kruthik"
             }
           },
           {
@@ -195,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +210,21 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session-0.md",
+    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
+    "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
+    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
+    "Algorath/Images/Mobs/Young Kruthik.png",
+    "Algorath/Sessions/Hardest Dungeon.md",
+    "Algorath/Images/Mobs",
+    "Algorath/Images/Untitled.md",
     "Algorath/Sessions/Session-1.md",
+    "Algorath/Encounters/Kruthik 1.md",
+    "Algorath/Encounters",
+    "Algorath/Races/Dwarf.md",
+    "Algorath/Races/Bugbear.md",
+    "Algorath/Races/Aasimar.md",
+    "Algorath/Races/_index.md",
+    "Algorath/Sessions/Session-0.md",
     "Untitled.canvas",
     "Algorath/Grok-Context-Summary.md",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
@@ -235,13 +245,6 @@
     "Algorath/Factions/Gray Company.md",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Lore/Deities/Chauntea.md",
-    "Algorath/Characters/PCs/Maki.md",
-    "Algorath/Characters/PCs/Ragnar.md",
-    "Algorath/Races/Dwarf.md",
-    "Algorath/Locations/Settlements/Piata.md",
-    "Algorath/Characters/NPCs/Professor Holt.md",
-    "Algorath/Characters/NPCs/Jeffrey Harlan.md",
-    "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Sessions",
     "Algorath/Lore/Events",
     "Algorath/Bestiary",
@@ -249,8 +252,6 @@
     "Untitled.base",
     "Algorath/Lore/Deities",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg",
-    "Algorath/Maps/Untitled",
-    "Algorath/Images/Banners",
     "Algorath/Maps/High Piedmont.jpg"
   ]
 }
