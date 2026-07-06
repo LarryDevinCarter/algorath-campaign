@@ -4,7 +4,7 @@
 
 - Ragnar Blackmane (One other Bugbear is in The Athenaeum, from same city)
 - Maki (Know Professor Holt, will want to reconnect with him)
-- Draveena (No connection to Piata yet)
+- Draveena (The Delian Tomb nearby is knights of an order that worship Chauntea, she can say her oath there)
 
 ## Strong Start
 -The PCs start outside the Archmagister Vaelor Thorne's office on orders the remove a threat of monstrosities.
