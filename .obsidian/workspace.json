@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Encounters/Kruthik 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-1"
+              "title": "Kruthik 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Encounters/Kruthik 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session-1"
+              "title": "Backlinks for Kruthik 1"
             }
           },
           {
@@ -212,15 +212,15 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
+    "Algorath/Sessions/Session-1.md",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
+    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
+    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Images/Mobs",
     "Algorath/Images/Untitled.md",
-    "Algorath/Sessions/Session-1.md",
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Encounters",
     "Algorath/Races/Dwarf.md",
