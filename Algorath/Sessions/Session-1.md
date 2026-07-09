@@ -8,6 +8,7 @@
 
 ## Strong Start
 -The PCs start outside the Archmagister Vaelor Thorne's office on orders the remove a threat of monstrosities.
+-If player sleep at the inn, the blacksmith's daughter will get taken and he will ask for help the next morning
 
 ## Scenes
 
