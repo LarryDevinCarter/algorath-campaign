@@ -51,6 +51,7 @@
 - The Green House has a woman tending garden and running soil experiments. Learn about the crop yield going down.
 - The Dormitory can learn about the cult/religion and find out the students plan on streaking the fountain.
 - The Inn, the blacksmith, the general good store, the stables (horses for sale), guards station/jail, the fountain.
+- The Delian Tomb. The resting place of the Delian Order.
 
 ## Notable NPCs
 
