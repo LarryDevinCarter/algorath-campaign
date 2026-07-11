@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Hardest Dungeon.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Ithenvale.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Hardest Dungeon"
+              "icon": "lucide-image",
+              "title": "Ithenvale"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Sessions/Hardest Dungeon.md",
+                "file": "Algorath/Maps/Ithenvale.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hardest Dungeon"
+              "title": "Backlinks for Ithenvale"
             }
           },
           {
@@ -210,21 +208,23 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Maps/High Piedmont.jpg",
+    "Algorath/Maps/Ithenvale.jpg",
+    "Algorath/Sessions/Session-1.md",
+    "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Images/Mobs/Hobgoblin.png",
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/README.md",
     "Algorath/Home.md",
     "Algorath/Grok-Context-Summary.md",
-    "Algorath/Sessions/Session-1.md",
     "Untitled.base",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Images/Mobs",
     "Algorath/Images/Untitled.md",
     "Algorath/Encounters",
@@ -254,7 +254,6 @@
     "Algorath/Bestiary",
     "Algorath/Lore/History",
     "Algorath/Lore/Deities",
-    "Algorath/Images/Banners/GrayCompanyBanner.jpg",
-    "Algorath/Maps/High Piedmont.jpg"
+    "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
 }
