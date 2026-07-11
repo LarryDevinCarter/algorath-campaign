@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Elijah Voss.md",
+                "file": "Algorath/Sessions/Session-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elijah Voss"
+              "title": "Session-1"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Young Kruthik.png",
@@ -222,7 +223,6 @@
     "Algorath/Characters/PCs/Maki.md",
     "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/NPCs/Professor Holt.md",
-    "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Characters/NPCs/Jeffrey Harlan.md",
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Factions/The Athenaeum.md",
