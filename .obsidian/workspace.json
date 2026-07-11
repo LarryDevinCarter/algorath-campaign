@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Images/Mobs/Adult Kruthik (Dying).png"
               },
-              "icon": "lucide-file",
-              "title": "Session-1"
+              "icon": "lucide-image",
+              "title": "Adult Kruthik (Dying)"
             }
           }
         ]
@@ -194,6 +192,10 @@
   },
   "active": "847b8f79168928ab",
   "lastOpenFiles": [
+    "Algorath/Images/Mobs/Young Kruthik.png",
+    "Algorath/Images/Mobs/Hobgoblin.png",
+    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
+    "Algorath/Sessions/Session-1.md",
     "Algorath/Lore/Deities/Maglubiyet.md",
     "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "Algorath/Lore/Deities/Chauntea.md",
@@ -212,10 +214,8 @@
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Races/Dwarf.md",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
-    "Algorath/Images/Mobs/Hobgoblin.png",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/PCs/Maki.md",
     "Algorath/Characters/PCs/Ragnar.md",
@@ -225,9 +225,6 @@
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Factions/The Athenaeum.md",
     "Untitled.base",
-    "Algorath/Sessions/Session-1.md",
-    "Algorath/Sessions/Hardest Dungeon.md",
-    "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Encounters",
     "Algorath/Images/Mobs",
     "Algorath/Images/Dungeon Maps",
