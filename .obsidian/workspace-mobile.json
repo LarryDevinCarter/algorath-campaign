@@ -11,12 +11,14 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Images/Mobs/Young Kruthik.png"
+                "file": "Algorath/Bestiary/Aboleths.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Young Kruthik"
+              "icon": "lucide-file",
+              "title": "Aboleths"
             }
           }
         ]
@@ -187,20 +189,26 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Maps/Ithenvale.jpg",
+    "Algorath/Images/Mobs/Young Kruthik.png",
+    "/Algorath/Sessions/Session-1.md",
+    "/Algorath/Sessions/Hardest Dungeon.md",
+    "/Algorath/Sessions",
+    "/Algorath/Maps/Ithenvale.jpg",
+    "/Algorath/Maps",
+    "/Algorath/Images/Mobs/Hobgoblin.png",
+    "Algorath/Images/Mobs/Hobgoblin.png",
+    "/Algorath/Images/Mobs",
+    "/Algorath/Images",
+    "/Algorath",
     "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Sessions/Session-0.md",
     "Untitled.base",
     "Algorath/Bestiary/Aboleths.md",
-    "/Algorath/Sessions/Session-1.md",
-    "/Algorath/Sessions",
-    "/Algorath",
     "/Untitled.base",
-    "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Images/Mobs/Young Kruthik.png",
-    "/Algorath/Images/Mobs",
-    "/Algorath/Images",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Sessions/Hardest Dungeon.md",
@@ -208,14 +216,8 @@
     "Algorath/Factions/Gray Company.md",
     "Algorath/Images/Mobs",
     "/Algorath/Encounters/Kruthik 1.md",
-    "/Algorath/Sessions/Hardest Dungeon.md",
-    "/Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
-    "/Algorath/Images/Mobs/Adult Kruthik (Sick).png",
-    "/Algorath/Images/Mobs/Adult Kruthik (Dying).png",
-    "/Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "/Algorath/Images/Dungeon Maps",
     "Algorath/Images/Dungeon Maps",
-    "/Algorath/Encounters",
     "Algorath/Lore/Deities/Maglubiyet.md",
     "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Deities/Pelor.md",
