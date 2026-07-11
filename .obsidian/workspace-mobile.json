@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Images/Mobs/Young Kruthik.png"
+                "file": "Algorath/Images/Mobs/Adult Kruthik (Sick).png"
               },
               "icon": "lucide-image",
-              "title": "Young Kruthik"
+              "title": "Adult Kruthik (Sick)"
             }
           }
         ]
@@ -187,10 +187,10 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Bestiary/Aboleths.md",
-    "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Sessions/Session-1.md",
     "/Algorath/Sessions/Hardest Dungeon.md",
     "/Algorath/Sessions",
