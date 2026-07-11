@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Ithenvale.jpg"
+                "file": "Algorath/Maps/High Piedmont.jpg"
               },
               "icon": "lucide-image",
-              "title": "Ithenvale"
+              "title": "High Piedmont"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Bestiary/Aboleths.md",
-    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Sessions/Session-1.md",
     "/Algorath/Sessions/Hardest Dungeon.md",
