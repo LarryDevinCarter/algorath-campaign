@@ -40,6 +40,8 @@
 - The soil is dying. It's happening so slowly most people don't notice.
 - One student left to join so new cult/religion.
 - One student's parents stopped sending him money (from Goldenmile)
+- There has been an influx of goblins in the region, they been attacking farms around the village of Villane.
+- Many villagers don't like the player (Ratcatchers)
 - Goblins are in the The Delian Tomb
 - Hidden room with the remain of the knights of the Delian order.
 - Bogan Redcap is the leader of the Goblins (the player don't know yet but Bogan Redcap is a title not a name so even if they kill Bogan, they will meet another Bogan Redcap in the future.)
@@ -50,7 +52,8 @@
 - Grand Lecture Hall has professors and students. Can learn about history and can see and weather balloon experiment. Statue of Oghma, God of Learning and Knowledge.
 - The Green House has a woman tending garden and running soil experiments. Learn about the crop yield going down.
 - The Dormitory can learn about the cult/religion and find out the students plan on streaking the fountain.
-- The Inn, the blacksmith, the general good store, the stables (horses for sale), guards station/jail, the fountain.
+- The Green Dragon Inn, Lars' Smithy, the general good store, the stables (horses for sale), guards station/jail, the fountain.
+- The Boar Wood - full of boar. Patrolled, usually free of goblins.
 - The Delian Tomb. The resting place of the Delian Order.
 
 ## Notable NPCs
@@ -59,7 +62,9 @@
 - Hahn Mahlay - wants to investigate the basement, understudy of Professor Holt, wasn't allowed to see the materials brought back from Vale of First Light, worried about Professor Holt disappearance/lack of communication. Says Archmagister has forbidden anyone for going to Vale of First Light or even leaving the city.
 - Shea - Greenhouse keeper.
 - Richard - Student worried about female student that left to go join a cult.
+- Tomas - From Goldenmile, parents stopped sending money.
 - Miranda - Innkeeper.
+- Matt - The Serving Boy at the inn.
 - Lars Harlan - Blacksmith
 - Bess Harlan - Blacksmith's daughter
 
@@ -72,6 +77,7 @@
 - Potion of Healing
 - Antitoxin
 - A book that contains instructions on forgotten magic (Alarm, Comprehend Languages, Detect Magic)
+- 1gp per goblin ear
 
 ## Session Notes
 
