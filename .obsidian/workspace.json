@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png"
               },
-              "icon": "lucide-file",
-              "title": "Session-1"
+              "icon": "lucide-image",
+              "title": "TheAthenaeumBasement"
             }
           }
         ]
@@ -194,8 +192,8 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Sessions/Session-1.md",
+    "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Hobgoblin.png",
