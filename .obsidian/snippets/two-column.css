@@ -1,10 +1,10 @@
 @media print {
     .markdown-preview-view {
         column-count: 2;
-        column-gap: 1.2em;     /* tighter gap */
+        column-gap: 1.1em;     /* tighter gap */
         font-family: "Computer Modern", serif;
-        font-size: 0.85em;     /* smaller text - adjust as needed */
-        line-height: 1.1em;    /* tighter lines */
+        font-size: 0.80em;     /* smaller text - adjust as needed */
+        line-height: 1.0em;    /* tighter lines */
         max-width: 100% !important;
         padding: 0 !important;
         margin: 0 !important;
@@ -13,17 +13,17 @@
     /* Very important: minimize page margins */
     @page {
         size: letter;           /* or 'A4' if you prefer */
-        margin: 0.4in;          /* or even 0.3in / 8mm if you need more space */
+        margin: 0.3in;          /* or even 0.3in / 8mm if you need more space */
     }
 
     /* Reduce heading sizes and spacing */
-    h1 { font-size: 1.4em; margin: 0.6em 0 0.4em 0; }
-    h2 { font-size: 1.2em; margin: 0.5em 0 0.3em 0; }
-    h3, h4 { font-size: 1.1em; margin: 0.4em 0 0.2em 0; }
+    h1 { font-size: 1.3em; margin: 0.5em 0 0.3em 0; }
+    h2 { font-size: 1.1em; margin: 0.4em 0 0.2em 0; }
+    h3, h4 { font-size: 1.0em; margin: 0.3em 0 0.1em 0; }
 
     /* Tighten lists, paragraphs, and other elements */
     p, ul, ol, li {
-        margin: 0.3em 0;
+        margin: 0.2em 0;
     }
 
     /* Prevent awkward breaks in columns */
@@ -33,6 +33,6 @@
 
     /* Optional: make tables more compact */
     table {
-        font-size: 0.8em;
+        font-size: 0.7em;
     }
 }
