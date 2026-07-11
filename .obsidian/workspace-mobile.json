@@ -11,14 +11,12 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Bestiary/Aboleths.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Ithenvale.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Aboleths"
+              "icon": "lucide-image",
+              "title": "Ithenvale"
             }
           }
         ]
@@ -189,6 +187,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Maps/High Piedmont.jpg",
+    "Algorath/Bestiary/Aboleths.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Sessions/Session-1.md",
@@ -206,7 +206,6 @@
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Sessions/Session-0.md",
     "Untitled.base",
-    "Algorath/Bestiary/Aboleths.md",
     "/Untitled.base",
     "/Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
