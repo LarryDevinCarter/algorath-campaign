@@ -11,14 +11,12 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Bestiary/Aboleths.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Images/Mobs/Young Kruthik.png"
               },
-              "icon": "lucide-file",
-              "title": "Aboleths"
+              "icon": "lucide-image",
+              "title": "Young Kruthik"
             }
           }
         ]
@@ -189,14 +187,20 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
+    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
+    "Algorath/Sessions/Session-0.md",
+    "Untitled.base",
+    "Algorath/Bestiary/Aboleths.md",
+    "/Algorath/Sessions/Session-1.md",
+    "/Algorath/Sessions",
+    "/Algorath",
+    "/Untitled.base",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Images/Mobs",
     "/Algorath/Images",
-    "/Algorath",
-    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
-    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Sessions/Hardest Dungeon.md",
@@ -204,9 +208,7 @@
     "Algorath/Factions/Gray Company.md",
     "Algorath/Images/Mobs",
     "/Algorath/Encounters/Kruthik 1.md",
-    "/Algorath/Sessions/Session-1.md",
     "/Algorath/Sessions/Hardest Dungeon.md",
-    "/Algorath/Sessions",
     "/Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "/Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "/Algorath/Images/Mobs/Adult Kruthik (Dying).png",
@@ -214,12 +216,10 @@
     "/Algorath/Images/Dungeon Maps",
     "Algorath/Images/Dungeon Maps",
     "/Algorath/Encounters",
-    "Algorath/Encounters",
     "Algorath/Lore/Deities/Maglubiyet.md",
     "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/Deities/Pelor.md",
     "/Algorath/Lore/Deities/Grumbar.md",
-    "/Algorath/Lore/Deities",
     "Algorath/Lore/Deities/Oghma.md",
     "Algorath/Home.md",
     "/Algorath/Lore/Deities/Pelor.md",
@@ -231,8 +231,6 @@
     "/Algorath/Characters/PCs/Draveena.md",
     "Algorath/README.md",
     "Algorath/Grok-Context-Summary.md",
-    "Algorath/Characters/PCs/Draveena.md",
-    "Algorath/Characters/NPCs/Jeffrey Harlan.md",
-    "Algorath/Characters/PCs/Ragnar.md"
+    "Algorath/Characters/PCs/Draveena.md"
   ]
 }
