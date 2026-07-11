@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/High Piedmont.jpg"
+                "file": "Algorath/Images/Mobs/Young Kruthik.png"
               },
               "icon": "lucide-image",
-              "title": "High Piedmont"
+              "title": "Young Kruthik"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
-    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
+    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Bestiary/Aboleths.md",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Sessions/Session-1.md",
