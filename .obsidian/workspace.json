@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Images/Mobs/Adult Kruthik (Dying).png"
+                "file": "Algorath/Sessions/Session-1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Adult Kruthik (Dying)"
+              "icon": "lucide-file",
+              "title": "Session-1"
             }
           }
         ]
@@ -190,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Hobgoblin.png",
     "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
@@ -214,7 +217,6 @@
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Races/Dwarf.md",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/PCs/Maki.md",
