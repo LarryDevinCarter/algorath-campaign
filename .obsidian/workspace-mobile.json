@@ -11,12 +11,14 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Images/Mobs/Adult Kruthik (Sick).png"
+                "file": "Algorath/Bestiary/Aboleths.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Adult Kruthik (Sick)"
+              "icon": "lucide-file",
+              "title": "Aboleths"
             }
           }
         ]
@@ -187,8 +189,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
-    "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
+    "Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Images/Mobs/Young Kruthik.png",
     "/Algorath/Images/Mobs",
     "/Algorath/Images",
