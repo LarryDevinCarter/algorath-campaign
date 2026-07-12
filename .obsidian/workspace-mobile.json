@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Images/Mobs/Adult Kruthik (Dying).png"
+                "file": "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png"
               },
               "icon": "lucide-image",
-              "title": "Adult Kruthik (Dying)"
+              "title": "Kruthik Hive Lord (Sick)"
             }
           }
         ]
