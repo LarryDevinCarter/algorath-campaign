@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png"
+                "file": "Algorath/Sessions/Session-1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "TheAthenaeumBasement"
+              "icon": "lucide-file",
+              "title": "Session-1"
             }
           }
         ]
@@ -192,6 +194,7 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
@@ -215,7 +218,6 @@
     "Algorath/Bestiary/Aboleths.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Races/Dwarf.md",
-    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/PCs/Maki.md",
