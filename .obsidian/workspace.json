@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/High Piedmont.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Session-1"
+              "icon": "lucide-image",
+              "title": "High Piedmont"
             }
           }
         ]
@@ -194,8 +192,9 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
+    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Sessions/Session-1.md",
+    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Characters/NPCs/Elijah Voss.md",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Young Kruthik.png",
@@ -216,7 +215,6 @@
     "Algorath/Lore/Old Gods.md",
     "Algorath/Characters/NPCs/Chain of Acheron.md",
     "Algorath/Bestiary/Aboleths.md",
-    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Races/Dwarf.md",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Characters/PCs/Draveena.md",
