@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png"
+                "file": "Algorath/Images/Mobs/Young Kruthik.png"
               },
               "icon": "lucide-image",
-              "title": "Kruthik Hive Lord (Sick)"
+              "title": "Young Kruthik"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
-    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Maps/Ithenvale.jpg",
