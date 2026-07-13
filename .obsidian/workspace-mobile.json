@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Deities/Oghma.md",
+                "file": "Algorath/Lore/Deities/Orcus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oghma"
+              "title": "Orcus"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
-    "Algorath/Lore/Deities/Orcus.md",
     "Algorath/Lore/Deities/Oghma.md",
+    "Algorath/Lore/Deities/Orcus.md",
     "Algorath/Lore/Deities/Myrkul.md",
     "Algorath/Lore/Deities/Adun.md",
     "Algorath/Characters/NPCs/Jeffrey Harlan.md",
