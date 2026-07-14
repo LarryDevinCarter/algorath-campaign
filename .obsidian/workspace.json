@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/High Piedmont/Jeffrey Harlan.md",
+                "file": "Algorath/Characters/NPCs/Ziothar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jeffrey Harlan"
+              "title": "Ziothar"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/High Piedmont/Jeffrey Harlan.md",
+                "file": "Algorath/Characters/NPCs/Ziothar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jeffrey Harlan"
+              "title": "Backlinks for Ziothar"
             }
           },
           {
@@ -210,23 +210,24 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Yxmic.md",
+    "Algorath/Characters/NPCs/Xorn.md",
+    "Algorath/Characters/NPCs/High Piedmont/Jeffrey Harlan.md",
+    "Algorath/Characters/NPCs/Ithenvale",
     "Algorath/Characters/NPCs/Historical Figures",
     "Algorath/Characters/NPCs/Groups",
     "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
     "Algorath/Characters/NPCs/High Piedmont",
     "Algorath/Lore/Deities/Elemental Gods.md",
     "Algorath/Characters/NPCs/Ajax.md",
-    "Algorath/Characters/NPCs/Yxmic.md",
-    "Algorath/Characters/NPCs/Xorn.md",
     "Algorath/Characters/NPCs/Ziothar.md",
-    "Algorath/Characters/NPCs/Vitae.md",
-    "Algorath/Characters/NPCs/Professor Holt.md",
-    "Algorath/Characters/NPCs/Mandrake.md",
+    "Algorath/Characters/NPCs/Historical Figures/Vitae.md",
+    "Algorath/Characters/NPCs/Ithenvale/Professor Holt.md",
+    "Algorath/Characters/NPCs/Historical Figures/Mandrake.md",
     "Algorath/Characters/NPCs/Lady of Brass.md",
     "Algorath/Characters/NPCs/Historical Figures/King Omund.md",
-    "Algorath/Characters/NPCs/High Piedmont/Jeffrey Harlan.md",
     "Algorath/Characters/NPCs/Example-NPC.md",
     "Algorath/Bestiary/Bestiary.md",
     "Algorath/Bestiary/Monstrosities/Kruthik.md",
@@ -255,8 +256,6 @@
     "Algorath/Races/Dwarf.md",
     "Untitled.canvas",
     "Algorath/Images/Dungeon Maps",
-    "Algorath/Sessions/open.url",
-    "Algorath/Sessions",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
 }
