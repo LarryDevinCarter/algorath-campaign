@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Elijah Voss.md",
+                "file": "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/Elijah Voss.md",
+                "file": "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,8 +210,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b5b31cbd095018c4",
+  "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/High Piedmont",
     "Algorath/Characters/NPCs/Elemental Gods.md",
     "Algorath/Characters/NPCs/Ajax.md",
     "Algorath/Characters/NPCs/Yxmic.md",
@@ -224,7 +225,7 @@
     "Algorath/Characters/NPCs/King Omund.md",
     "Algorath/Characters/NPCs/Jeffrey Harlan.md",
     "Algorath/Characters/NPCs/Example-NPC.md",
-    "Algorath/Characters/NPCs/Elijah Voss.md",
+    "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
     "Algorath/Bestiary/Bestiary.md",
     "Algorath/Bestiary/Monstrosities/Kruthik.md",
     "Algorath/Bestiary/Aberrations/Aboleths.md",
@@ -250,7 +251,6 @@
     "Algorath/Images/Untitled.md",
     "Algorath/Encounters",
     "Algorath/Races/Dwarf.md",
-    "Algorath/Races/Bugbear.md",
     "Untitled.canvas",
     "Algorath/Images/Dungeon Maps",
     "Algorath/Sessions/open.url",

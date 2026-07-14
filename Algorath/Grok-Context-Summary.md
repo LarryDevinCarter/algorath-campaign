@@ -17,7 +17,7 @@ updated: 2026-07-14
 - Game starts on 29 Highsummer, 2284 AW.
 
 ## PCs
-- **Draveena**: Aasimar of unknown sire, level 1 Paladin planning oath to [[Lore/Deities/Chauntea|Chauntea]]. Member of the Order of Hunters in [[Factions/Gray Company|Gray Company]] (advanced via blackmail of [[Characters/NPCs/Elijah Voss|Elijah Voss]]). Recently asked by [[Characters/PCs/Maki|Maki]] to accompany her to [[Locations/Settlements/Piata|Piata]] for a contract.
+- **Draveena**: Aasimar of unknown sire, level 1 Paladin planning oath to [[Lore/Deities/Chauntea|Chauntea]]. Member of the Order of Hunters in [[Factions/Gray Company|Gray Company]] (advanced via blackmail of [[Elijah Voss|Elijah Voss]]). Recently asked by [[Characters/PCs/Maki|Maki]] to accompany her to [[Locations/Settlements/Piata|Piata]] for a contract.
 - **Maki**: Dark elf (~200 years old) from [[Locations/Regions/Vespera]], level 1 wizard / Fellow of the Hunters. Sage journey started via Professor Holt from [[Factions/The Athenaeum]] in [[Locations/Settlements/Piata]] ~20 years ago. Excited to reconnect during current contract.
 
 ## Deities
