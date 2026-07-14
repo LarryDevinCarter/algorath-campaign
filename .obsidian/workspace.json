@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Locations/Settlements/Piata.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Piata"
+              "title": "Hahn Mahley"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Locations/Settlements/Piata.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Piata"
+              "title": "Backlinks for Hahn Mahley"
             }
           },
           {
@@ -212,6 +212,8 @@
   },
   "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Locations/Settlements/Piata.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Characters/NPCs/Algorath/Followers",
     "Algorath/Locations/Features/Vale of First Light.md",
     "Algorath/Factions/The Athenaeum.md",
@@ -243,14 +245,12 @@
     "Algorath/Bestiary/Aberrations/Aboleths.md",
     "Algorath/Bestiary/Aberrations",
     "Untitled.base",
-    "Algorath/Bestiary/Monstrosities",
     "Bestiary.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Images/Mobs/Hobgoblin.png",
     "Algorath/Encounters/Kruthik 1.md",
-    "Algorath/README.md",
     "Algorath/Images/Mobs/Young Kruthik.png",
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
