@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Factions/The Athenaeum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-1"
+              "title": "The Athenaeum"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Factions/The Athenaeum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session-1"
+              "title": "Backlinks for The Athenaeum"
             }
           },
           {
@@ -210,12 +210,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session-1.md",
     "Algorath/Locations/Features/Vale of First Light.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/PCs/Draveena.md",
-    "Algorath/Sessions/Session-1.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth",
     "Algorath/Characters/NPCs/Algorath",
