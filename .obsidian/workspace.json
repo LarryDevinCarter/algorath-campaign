@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+                "file": "Algorath/Lore/Deities/Oghma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hahn Mahley"
+              "title": "Oghma"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+                "file": "Algorath/Lore/Deities/Oghma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hahn Mahley"
+              "title": "Backlinks for Oghma"
             }
           },
           {
@@ -210,10 +210,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Locations/Settlements/Piata.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+    "Algorath/Locations/Settlements/Piata.md",
     "Algorath/Characters/NPCs/Algorath/Followers",
     "Algorath/Locations/Features/Vale of First Light.md",
     "Algorath/Factions/The Athenaeum.md",
