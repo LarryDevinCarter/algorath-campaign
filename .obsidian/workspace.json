@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "5ff72a0a1c6cc843",
+    "id": "d9ccf4c465d3f4c4",
     "type": "split",
     "children": [
       {
-        "id": "45dc599d7092f940",
+        "id": "4580c4860ce1d65b",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd065585d87ab60",
+            "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/High Piedmont.jpg"
+                "file": "Algorath/Bestiary/Aboleths.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "High Piedmont"
+              "icon": "lucide-file",
+              "title": "Aboleths"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bae95bb37e6f339b",
+    "id": "40753422219e69de",
     "type": "split",
     "children": [
       {
-        "id": "0790ac83f6e07023",
+        "id": "99a528138432e468",
         "type": "tabs",
         "children": [
           {
-            "id": "847b8f79168928ab",
+            "id": "5a554af706474759",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +48,7 @@
             }
           },
           {
-            "id": "621a6f71ccafcc86",
+            "id": "779d5f4f52f2c882",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "24e729359ebd5b08",
+            "id": "608d62fbec809db7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,46 +81,48 @@
     "width": 300
   },
   "right": {
-    "id": "f4751e0078d54d1d",
+    "id": "722c915fa4976632",
     "type": "split",
     "children": [
       {
-        "id": "2b4f103f0c3970d4",
+        "id": "4cd3a6a9b8440082",
         "type": "tabs",
         "children": [
           {
-            "id": "4facb683d8d36786",
+            "id": "9368a3dd2f7fa4b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorath/Bestiary/Aboleths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aboleths"
             }
           },
           {
-            "id": "7eb77ed5fe067137",
+            "id": "c27f5812072fa7d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorath/Lore/Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Cosmology"
             }
           },
           {
-            "id": "c8f1ab6049535bd3",
+            "id": "4ed3861ab3ef32bd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "48a657058c0aa880",
+            "id": "5a641991dabf23f1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,21 +151,22 @@
             }
           },
           {
-            "id": "682abbd76d37a100",
+            "id": "5ff7ad7a17153575",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Algorath/Lore/Cosmology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cosmology"
             }
           },
           {
-            "id": "63d8a2b02203189d",
+            "id": "75e440a864ed07ea",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -171,15 +176,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "4b651395e513a6aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a5673519234812",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,54 +206,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "cbd065585d87ab60",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
     "Algorath/Maps/Ithenvale.jpg",
-    "Algorath/Sessions/Session-1.md",
-    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Characters/NPCs/Elijah Voss.md",
-    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
-    "Algorath/Images/Mobs/Young Kruthik.png",
-    "Algorath/Images/Mobs/Hobgoblin.png",
-    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
-    "Algorath/Lore/Deities/Maglubiyet.md",
-    "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
-    "Algorath/Lore/Deities/Chauntea.md",
-    "Algorath/Locations/Settlements/Alloy.md",
-    "Algorath/Locations/Settlements/Blackpeak.md",
-    "Algorath/Locations/Settlements/Kenkarra.md",
-    "Algorath/Locations/Planes/Quintessence.md",
-    "Algorath/Characters/NPCs/Elemental Gods.md",
-    "Algorath/Characters/NPCs/Xorn.md",
-    "Algorath/Characters/NPCs/Lady of Brass.md",
-    "Algorath/Characters/NPCs/Yxmic.md",
-    "Algorath/Sessions/Session-0.md",
-    "Algorath/Lore/Old Gods.md",
-    "Algorath/Characters/NPCs/Chain of Acheron.md",
-    "Algorath/Bestiary/Aboleths.md",
-    "Algorath/Races/Dwarf.md",
-    "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
-    "Algorath/Characters/PCs/Draveena.md",
-    "Algorath/Characters/PCs/Maki.md",
-    "Algorath/Characters/PCs/Ragnar.md",
-    "Algorath/Characters/NPCs/Professor Holt.md",
-    "Algorath/Characters/NPCs/Jeffrey Harlan.md",
-    "Algorath/Encounters/Kruthik 1.md",
-    "Algorath/Factions/The Athenaeum.md",
-    "Untitled.base",
-    "Algorath/Encounters",
-    "Algorath/Images/Mobs",
-    "Algorath/Images/Dungeon Maps",
-    "Algorath/Lore/Events",
-    "Algorath/Sessions",
-    "Algorath/Bestiary",
-    "Algorath/Races",
-    "Algorath/Meta",
-    "Algorath/Images/Banners/GrayCompanyBanner.jpg",
     "Algorath/Maps/High Piedmont.jpg",
-    "Algorath/Lore/History"
+    "Algorath/Sessions/Session-1.md",
+    "Algorath/Sessions/Hardest Dungeon.md",
+    "Algorath/Images/Mobs/Hobgoblin.png",
+    "Algorath/Encounters/Kruthik 1.md",
+    "Algorath/README.md",
+    "Algorath/Home.md",
+    "Algorath/Grok-Context-Summary.md",
+    "Untitled.base",
+    "Algorath/Images/Mobs/Young Kruthik.png",
+    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
+    "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
+    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
+    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
+    "Algorath/Images/Mobs",
+    "Algorath/Images/Untitled.md",
+    "Algorath/Encounters",
+    "Algorath/Races/Dwarf.md",
+    "Algorath/Races/Bugbear.md",
+    "Algorath/Races/Aasimar.md",
+    "Algorath/Races/_index.md",
+    "Algorath/Sessions/Session-0.md",
+    "Untitled.canvas",
+    "Algorath/Images/Dungeon Maps",
+    "Algorath/Lore/Deities/Oghma.md",
+    "Algorath/Lore/Deities/Myrkul.md",
+    "Algorath/Lore/Deities/Maglubiyet.md",
+    "Algorath/Lore/Deities/Grumbar.md",
+    "Algorath/Locations/Regions/Ithenvale.md",
+    "Algorath/Factions/The Athenaeum.md",
+    "Algorath/Lore/Calendar.md",
+    "Algorath/Lore/Cosmology.md",
+    "Highsummer.md",
+    "Algorath/Sessions/open.url",
+    "Algorath/Lore/History/Vasloria.md",
+    "Algorath/Factions/Gray Company.md",
+    "Algorath/Characters/PCs/Draveena.md",
+    "Algorath/Lore/Deities/Chauntea.md",
+    "Algorath/Sessions",
+    "Algorath/Lore/Events",
+    "Algorath/Bestiary",
+    "Algorath/Lore/History",
+    "Algorath/Lore/Deities",
+    "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
 }
