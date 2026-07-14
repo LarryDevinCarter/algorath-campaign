@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Bestiary/Aboleths.md",
+                "file": "Algorath/Bestiary/Aberrations/Aboleths.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Bestiary/Aboleths.md",
+                "file": "Algorath/Bestiary/Aberrations/Aboleths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,9 +212,10 @@
   },
   "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Bestiary/Aberrations",
     "Untitled.base",
     "Algorath/Bestiary/Monstrosities",
-    "Algorath/Bestiary/Aboleths.md",
+    "Algorath/Bestiary/Aberrations/Aboleths.md",
     "Bestiary.md",
     "Algorath/Bestiary/Monstrosities/Kruthik.md",
     "Algorath/Maps/Ithenvale.jpg",
@@ -256,7 +257,6 @@
     "Algorath/Lore/Events",
     "Algorath/Bestiary",
     "Algorath/Lore/History",
-    "Algorath/Lore/Deities",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
 }
