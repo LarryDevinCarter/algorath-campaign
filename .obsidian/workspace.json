@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
+                "file": "Algorath/Characters/NPCs/Jeffrey Harlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elijah Voss"
+              "title": "Jeffrey Harlan"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
+                "file": "Algorath/Characters/NPCs/Jeffrey Harlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elijah Voss"
+              "title": "Backlinks for Jeffrey Harlan"
             }
           },
           {
@@ -210,8 +210,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
     "Algorath/Characters/NPCs/High Piedmont",
     "Algorath/Characters/NPCs/Elemental Gods.md",
     "Algorath/Characters/NPCs/Ajax.md",
@@ -225,7 +226,6 @@
     "Algorath/Characters/NPCs/King Omund.md",
     "Algorath/Characters/NPCs/Jeffrey Harlan.md",
     "Algorath/Characters/NPCs/Example-NPC.md",
-    "Algorath/Characters/NPCs/High Piedmont/Elijah Voss.md",
     "Algorath/Bestiary/Bestiary.md",
     "Algorath/Bestiary/Monstrosities/Kruthik.md",
     "Algorath/Bestiary/Aberrations/Aboleths.md",
@@ -256,7 +256,6 @@
     "Algorath/Sessions/open.url",
     "Algorath/Sessions",
     "Algorath/Lore/Events",
-    "Algorath/Bestiary",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
 }
