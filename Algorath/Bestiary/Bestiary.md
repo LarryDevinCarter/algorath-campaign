@@ -15,7 +15,3 @@ updated: 2026-07-14
 ## Monstrosities
 
 - [[Monstrosities/Kruthik|Kruthik]]
-
----
-
-*This index lists all creature entries organized by type subfolder. Use [[wikilinks]] to navigate between pages.*
