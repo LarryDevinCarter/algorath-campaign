@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Ziothar.md",
+                "file": "Algorath/Characters/PCs/Draveena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ziothar"
+              "title": "Draveena"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/Ziothar.md",
+                "file": "Algorath/Characters/PCs/Draveena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ziothar"
+              "title": "Backlinks for Draveena"
             }
           },
           {
@@ -210,8 +210,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth",
     "Algorath/Characters/NPCs/Algorath",
     "Algorath/Characters/NPCs/Elemental Plane of Fire",
@@ -224,8 +225,7 @@
     "Algorath/Characters/NPCs/Algorath/High Piedmont/Elijah Voss.md",
     "Algorath/Characters/NPCs/Algorath/High Piedmont",
     "Algorath/Lore/Deities/Elemental Gods.md",
-    "Algorath/Characters/NPCs/Ajax.md",
-    "Algorath/Characters/NPCs/Ziothar.md",
+    "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
     "Algorath/Characters/NPCs/Algorath/Historical Figures/Vitae.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Professor Holt.md",
     "Algorath/Characters/NPCs/Algorath/Historical Figures/Mandrake.md",
@@ -253,7 +253,6 @@
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Images/Mobs",
     "Algorath/Images/Untitled.md",
     "Algorath/Races/Dwarf.md",
     "Untitled.canvas",
