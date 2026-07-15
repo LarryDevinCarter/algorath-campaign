@@ -30,11 +30,11 @@ Hierarchical structure for the wiki:
 - [[Locations/Settlements/Nalyne]]
 
 ## Features & Landmarks
-- [[Locations/Features/Shroud]]
+- [[Shroud]]
 - [[Locations/Features/Tharolrs-Gulf]]
-- [[Locations/Features/Crimsonmere]]
+- [[Crimsonmere]]
 - [[Ashenfang-Mountains]]
-- [[Locations/Features/Crimson-Span]]
+- [[Crimson-Span]]
 - [[Locations/Features/The-Golden-Maw]]
 - [[Barad-Bane]]
 
