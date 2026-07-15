@@ -35,7 +35,7 @@ Hierarchical structure for the wiki:
 - [[Crimsonmere]]
 - [[Ashenfang-Mountains]]
 - [[Crimson-Span]]
-- [[Locations/Features/The-Golden-Maw]]
+- [[The-Golden-Maw]]
 - [[Barad-Bane]]
 
 See subfolders for full hierarchy and details.
