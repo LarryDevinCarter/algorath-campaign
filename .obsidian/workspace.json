@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md",
+                "file": "Algorath/Lore/Deities/Maglubiyet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elemental Gods"
+              "title": "Maglubiyet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md",
+                "file": "Algorath/Lore/Deities/Maglubiyet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elemental Gods"
+              "title": "Backlinks for Maglubiyet"
             }
           },
           {
@@ -211,11 +211,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Lore/Deities/Pelor.md",
+    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md",
     "Algorath/Lore/Deities/The One Being/Pelor/Adun.md",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
-    "Algorath/Lore/Deities/Lessor Gods/Untitled",
+    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods",
     "Algorath/Lore/Deities/Lessor Gods",
     "Algorath/Lore/Deities/The One Being/Pelor",
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Piata.md",
@@ -238,8 +240,7 @@
     "Algorath/Locations/Features/Motavos/Crimson-Span.md",
     "Algorath/Locations/Features/Motavos/The Westerlands/Barad-Bane.md",
     "Algorath/Locations/Features/Motavos/High Piedmont/Ashenfang-Mountains.md",
-    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md",
-    "Algorath/Lore/Deities/Grumbar.md",
+    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods/Grumbar.md",
     "Algorath/Lore/Deities/The One Being/Pelor/Chauntea.md",
     "Algorath/Lore/Deities/Therizdun.md",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
