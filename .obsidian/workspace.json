@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hahn Mahley"
+              "icon": "lucide-file-text",
+              "title": "Hahn Mehlay"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hahn Mahley"
+              "title": "Backlinks for Hahn Mehlay"
             }
           },
           {
@@ -195,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +208,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "e3a5673519234812",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets",
     "Algorath/Lore/Deities/Oghma.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Locations/Settlements/Piata.md",
     "Algorath/Characters/NPCs/Algorath/Followers",
     "Algorath/Locations/Features/Vale of First Light.md",
@@ -245,8 +244,6 @@
     "Algorath/Bestiary/Bestiary.md",
     "Algorath/Bestiary/Monstrosities/Kruthik.md",
     "Algorath/Bestiary/Aberrations/Aboleths.md",
-    "Algorath/Bestiary/Aberrations",
-    "Untitled.base",
     "Bestiary.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
