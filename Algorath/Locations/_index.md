@@ -25,13 +25,13 @@ Hierarchical structure for the wiki:
 - [[Locations/Regions/Ithenvale]]
 
 ## Settlements
-- [[Locations/Settlements/Ashenholt]]
+- [[Ashenholt]]
 - [[Locations/Settlements/Kadurûn]]
 - [[Locations/Settlements/Nalyne]]
 
 ## Features & Landmarks
 - [[Shroud]]
-- [[Locations/Features/Tharolrs-Gulf]]
+- [[Tharolrs-Gulf]]
 - [[Crimsonmere]]
 - [[Ashenfang-Mountains]]
 - [[Crimson-Span]]

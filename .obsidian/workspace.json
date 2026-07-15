@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Locations/Features/Motavos/Castle Rend.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "icon": "lucide-file",
+              "title": "Castle Rend"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
+                "file": "Algorath/Locations/Features/Motavos/Castle Rend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hahn Mehlay"
+              "title": "Backlinks for Castle Rend"
             }
           },
           {
@@ -209,8 +211,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Locations/Settlements/Gravesford.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
+    "Algorath/Locations/Settlements/Motavos/Aelindor",
+    "Algorath/Locations/Settlements/Motavos/High Piedmont",
+    "Algorath/Locations/Settlements/Motavos",
     "Algorath/Locations/Features/Motavos/The Heartlands",
     "Algorath/Locations/Features/Motavos",
     "Algorath/Locations/Features/Motavos/The Eastern Reach",
@@ -218,7 +225,7 @@
     "Algorath/Locations/Features/Motavos/High Piedmont",
     "Algorath/Locations/Features/Motavos/The Heartlands/Vale of First Light.md",
     "Algorath/Locations/Features/Motavos/The Westerlands/The-Golden-Maw.md",
-    "Algorath/Locations/Features/Tharolrs-Gulf.md",
+    "Algorath/Locations/Features/Motavos/Tharolrs-Gulf.md",
     "Algorath/Locations/Features/Motavos/Shroud.md",
     "Algorath/Locations/Features/Motavos/Crimsonmere.md",
     "Algorath/Locations/Features/Motavos/Crimson-Span.md",
@@ -233,19 +240,14 @@
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Mobs/Current",
-    "Algorath/Images/Mobs/Old",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Factions/The Athenaeum.md",
     "Algorath/Factions/Gray Company.md",
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Lars Harlan.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets",
     "Algorath/Lore/Deities/Oghma.md",
     "Algorath/Locations/Settlements/Piata.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",

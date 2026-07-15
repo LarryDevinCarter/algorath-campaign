@@ -54,11 +54,11 @@ Recruit → Member (sworn basic member) → Fellow (proven, full rights, reliabl
 
 - **Rangers**: Wilderness law enforcement, and the closest thing to a full military apparatus the company has for protecting [[Locations/Regions/High Piedmont|High Piedmont]].
 - **Hunters**: Specialists in exterminating all forms of monstrosities that infect this plane of existence. This group rarely stays near High Piedmont and often takes contracts far away across the continent.
-- **Marshals**: City guard and internal law enforcement for [[Locations/Settlements/Ashenholt|Ashenholt]].
+- **Marshals**: City guard and internal law enforcement for [[Ashenholt|Ashenholt]].
 - **Pathfinders**: Scouts and explorers. Experts at wilderness survival, stealth, and mapmaking.
 - **Stewards**: The men and women who run the day-to-day operations of the guild hall. They manage all the intellectual and manual tasks of the guild—from balancing books to construction, cooking, and cleaning. They do whatever it takes to keep the members fed, clothed, housed, armored, and in work.
 
-- **High Marshall**: Elected leader of the company. Appoints a city governance liaison for [[Locations/Settlements/Ashenholt|Ashenholt]].
+- **High Marshall**: Elected leader of the company. Appoints a city governance liaison for [[Ashenholt|Ashenholt]].
 
 ## History
 
@@ -66,6 +66,6 @@ Founded nearly 300 years ago in the aftermath of generations of devastating bord
 
 They established waystations and lodges at key crossroads and forest edges, earning a reputation for reliability and impartiality. Over the decades, they have survived attempts by ambitious lords to co-opt them, reinforcing their neutrality through blood and iron.
 
-Key historical moments include the [[Purging of the Blackbriar Woods]] and the successful defense of [[Locations/Settlements/Ashenholt|Ashenholt]] during the [[Great Dog Winter]] without taking sides in the concurrent struggles of the barons.
+Key historical moments include the [[Purging of the Blackbriar Woods]] and the successful defense of [[Ashenholt|Ashenholt]] during the [[Great Dog Winter]] without taking sides in the concurrent struggles of the barons.
 
-Since then, they’ve made their headquarters at [[Locations/Settlements/Ashenholt|Ashenholt]] and have become the official rulers of the city at the behest of its people. Because of this, and the heavy ranging that takes place in the area, [[Locations/Regions/High Piedmont|High Piedmont]] is the safest region of the entire continent.
+Since then, they’ve made their headquarters at [[Ashenholt|Ashenholt]] and have become the official rulers of the city at the behest of its people. Because of this, and the heavy ranging that takes place in the area, [[Locations/Regions/High Piedmont|High Piedmont]] is the safest region of the entire continent.

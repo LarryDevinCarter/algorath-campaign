@@ -14,6 +14,6 @@ Ragnar is a bugbear barbarian originally from the town of Molcrum.
 
 When the immortal [[Ajax]] posed a growing threat, Ragnar joined the local militia and spent several years training peasants to fight effectively with farm tools such as scythes and pitchforks.
 
-He later moved to [[Locations/Settlements/Ashenholt|Ashenholt]], where he now serves under the Order of Hunters. Having not yet attained the rank of Fellow, he supports himself by aiding other hunters on contracts in exchange for a share of the rewards.
+He later moved to [[Ashenholt|Ashenholt]], where he now serves under the Order of Hunters. Having not yet attained the rank of Fellow, he supports himself by aiding other hunters on contracts in exchange for a share of the rewards.
 
 He is close friends with [[Jeffrey Harlan|Jeff]] (Fellow of the Order of Stewards), who recommended him to assist [[Characters/PCs/Maki|Maki]] on her current contract.
