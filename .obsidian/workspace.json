@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png"
+                "file": "Algorath/Locations/Features/Vale of First Light.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Adult Kruthik (Dying)"
+              "icon": "lucide-file",
+              "title": "Vale of First Light"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
+                "file": "Algorath/Locations/Features/Vale of First Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Adult Kruthik (Dying)"
+              "title": "Backlinks for Vale of First Light"
             }
           },
           {
@@ -209,8 +211,22 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Locations/Features/The-Golden-Maw.md",
+    "Algorath/Locations/Features/Tharolrs-Gulf.md",
+    "Algorath/Locations/Features/Shroud.md",
+    "Algorath/Locations/Features/Crimsonmere.md",
+    "Algorath/Locations/Features/Crimson-Span.md",
+    "Algorath/Locations/Features/Castle Rend.md",
+    "Algorath/Locations/Features/Barad-Bane.md",
+    "Algorath/Locations/Features/Ashenfang-Mountains.md",
+    "Algorath/Lore/Deities/Elemental Gods.md",
+    "Algorath/Lore/Deities/Grumbar.md",
+    "Algorath/Lore/Deities/Chauntea.md",
+    "Algorath/Lore/Deities/Adun.md",
+    "Algorath/Lore/Deities/Therizdun.md",
+    "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Mobs/Current",
     "Algorath/Images/Mobs/Old",
@@ -236,22 +252,9 @@
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth",
     "Algorath/Characters/NPCs/Algorath",
     "Algorath/Characters/NPCs/Elemental Plane of Fire",
-    "Algorath/Characters/NPCs/Elemental Plane of Fire/Yxmic.md",
-    "Algorath/Characters/NPCs/Elemental Plane of Fire/Xorn.md",
-    "Algorath/Characters/NPCs/Algorath/High Piedmont/Jeffrey Harlan.md",
-    "Algorath/Characters/NPCs/Algorath/High Piedmont/Elijah Voss.md",
-    "Algorath/Lore/Deities/Elemental Gods.md",
-    "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
-    "Algorath/Characters/NPCs/Algorath/Historical Figures/Vitae.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Professor Holt.md",
-    "Algorath/Characters/NPCs/Algorath/Historical Figures/Mandrake.md",
-    "Algorath/Characters/NPCs/Elemental Plane of Fire/Lady of Brass.md",
-    "Algorath/Characters/NPCs/Algorath/Historical Figures/King Omund.md",
-    "Algorath/Characters/NPCs/Example-NPC.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Images/Mobs/Old/Young Kruthik.png",
-    "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Old/Kruthik Hive Lord (Sick).png",
     "Untitled.canvas",
