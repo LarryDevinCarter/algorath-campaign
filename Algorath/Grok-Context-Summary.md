@@ -17,8 +17,9 @@ updated: 2026-07-14
 - Game starts on 29 Highsummer, 2284 AW.
 
 ## PCs
-- **Draveena**: Aasimar of unknown sire, level 1 Paladin planning oath to [[Chauntea|Chauntea]]. Member of the Order of Hunters in [[Factions/Gray Company|Gray Company]] (advanced via blackmail of [[Elijah Voss|Elijah Voss]]). Recently asked by [[Characters/PCs/Maki|Maki]] to accompany her to [[Piata|Piata]] for a contract.
-- **Maki**: Dark elf (~200 years old) from [[Locations/Regions/Vespera]], level 1 wizard / Fellow of the Hunters. Sage journey started via Professor Holt from [[Factions/The Athenaeum]] in [[Piata]] ~20 years ago. Excited to reconnect during current contract.
+- **Draveena**: Aasimar of unknown sire, level 1 Paladin planning oath to [[Chauntea|Chauntea]]. 23 years old, born 23 Newgrowth 2261 AW. Member of the Order of Hunters in [[Factions/Gray Company|Gray Company]] (advanced via blackmail of [[Elijah Voss|Elijah Voss]]). Recently asked by [[Characters/PCs/Maki|Maki]] to accompany her to [[Piata|Piata]] for a contract.
+- **Ragnar**: 25 years old, born 1 Longnight 2258 AW. Bugbear barbarian, Member of the Hunters.
+- **Maki**: Dark elf, 187 years old, born 22 Highsummer 2097 AW. From [[Locations/Regions/Vespera]], level 1 wizard / Fellow of the Hunters. Sage journey started via Professor Holt from [[Factions/The Athenaeum]] in [[Piata]] ~20 years ago. Excited to reconnect during current contract.
 
 ## Deities
 - [[Oghma|Oghma]]: One of the later god-seeds of [[Pelor]]. Patron of learning and knowledge. Has a hidden ancient library temple on [[Motavos]].
