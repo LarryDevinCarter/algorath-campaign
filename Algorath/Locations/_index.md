@@ -33,9 +33,9 @@ Hierarchical structure for the wiki:
 - [[Locations/Features/Shroud]]
 - [[Locations/Features/Tharolrs-Gulf]]
 - [[Locations/Features/Crimsonmere]]
-- [[Locations/Features/Ashenfang-Mountains]]
+- [[Ashenfang-Mountains]]
 - [[Locations/Features/Crimson-Span]]
 - [[Locations/Features/The-Golden-Maw]]
-- [[Locations/Features/Barad-Bane]]
+- [[Barad-Bane]]
 
 See subfolders for full hierarchy and details.
