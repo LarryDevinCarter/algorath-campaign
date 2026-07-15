@@ -8,7 +8,7 @@ updated: 2026-06-29
 
 # Draveena
 
-**Draveena** is an **Aasimar** of unknown sire. She is a **level 1 Paladin** who plans to swear her oath to the goddess [[Lore/Deities/Chauntea|Chauntea]].
+**Draveena** is an **Aasimar** of unknown sire. She is a **level 1 Paladin** who plans to swear her oath to the goddess [[Chauntea|Chauntea]].
 
 She is a **Member** of the **Order of Hunters** in the [[Factions/Gray Company|Gray Company]]. 
 
