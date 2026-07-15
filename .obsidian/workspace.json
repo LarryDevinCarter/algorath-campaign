@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Ithenvale.jpg"
+                "file": "Algorath/Characters/PCs/Maki.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ithenvale"
+              "icon": "lucide-file",
+              "title": "Maki"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Maps/Ithenvale.jpg",
+                "file": "Algorath/Characters/PCs/Maki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ithenvale"
+              "title": "Backlinks for Maki"
             }
           },
           {
@@ -211,6 +213,8 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Characters/PCs/Draveena.md",
+    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Lore/Deities/Old Gods/Old Gods.md",
     "Algorath/Lore/Deities/Old Gods",
@@ -250,7 +254,6 @@
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Images/Mobs/Old/Young Kruthik.png",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Old/Kruthik Hive Lord (Sick).png",
