@@ -26,4 +26,8 @@ updated: 2026-07-14
 ## Bestiary
 - **Kruthik**: Hive-dwelling monstrosities living in underground tunnels, warrens, and areas near heat sources. Chitin-armored reptilian-insect hybrids that hunt in packs and carve sprawling subterranean hives. Burrowers and climbers with tremorsense and darkvision. Keen sense of smell; fling spikes from backs. Dangerous in large numbers; prioritize feeding, breeding, and hive expansion.
 
+## NPCs - High Piedmont
+- **Lars Harlan**: Local blacksmith, owner of Lars' Smithy. Father of Bess. Well-liked; refuses town politics: "Power corrupts all those who possess it. Best I keep to my forge." Sold Maki her rapier. Asked party for help rescuing Bess after goblins took her the morning after Kruthik incident.
+- **Bess**: Daughter of Lars Harlan. Taken by goblins.
+
 ... (rest unchanged per fidelity)
