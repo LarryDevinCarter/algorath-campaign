@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session-2.md",
+                "file": "Algorath/Sessions/Hardest Dungeon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-2"
+              "title": "Hardest Dungeon"
             }
           }
         ]
@@ -213,10 +213,11 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Encounters/Kruthik 1.md",
+    "Algorath/Sessions/Session-2.md",
     "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/PCs/Maki.md",
     "Algorath/Characters/PCs/Draveena.md",
-    "Algorath/Sessions/Session-2.md",
     "Algorath/Lore/Calendar.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Factions/Gray Company.md",
@@ -250,7 +251,6 @@
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Locations/Features/Motavos/The Heartlands/Vale of First Light.md",
     "Algorath/Locations/Features/Motavos/The Westerlands/The-Golden-Maw.md",
-    "Algorath/Locations/Features/Motavos/Tharolrs-Gulf.md",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
