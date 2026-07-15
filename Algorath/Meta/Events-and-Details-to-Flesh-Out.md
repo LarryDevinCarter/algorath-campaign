@@ -20,7 +20,7 @@ This page serves as a central checklist of events, locations, factions, and othe
 ## Geography & Locations
 
 - Full breakdown of **[[Locations/Continents/Motavos|Motavos]]**'s 11 sections (4 island-based). Currently only [[Locations/Regions/High Piedmont|High Piedmont]], [[Locations/Regions/Vespera|Vespera]], and linked [[Locations/Regions/Ithenvale|Ithenvale]] have pages with varying levels of detail. The other regions, their names, characteristics, and interconnections need definition.
-- **[[Locations/Settlements/Nalyne|Nalyne]]** — The second-largest settlement in [[Locations/Regions/High Piedmont|High Piedmont]] (about a third the size of Ashenholt). Governance, history, notable features, or role in the region to be expanded.
+- **[[Nalyne|Nalyne]]** — The second-largest settlement in [[Locations/Regions/High Piedmont|High Piedmont]] (about a third the size of Ashenholt). Governance, history, notable features, or role in the region to be expanded.
 - Dedicated or expanded details for natural and constructed features mentioned in High Piedmont: the **Shroud** (fog barrier), **Tharolr's Gulf**, **Crimson Span** (the massive bridge), **Crimsonmere** (large sea), and **Ashenfang Mountains**.
 
 ## Cosmology, Plot & Faction Elements

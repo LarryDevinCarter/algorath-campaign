@@ -26,8 +26,8 @@ Hierarchical structure for the wiki:
 
 ## Settlements
 - [[Ashenholt]]
-- [[Locations/Settlements/Kadurûn]]
-- [[Locations/Settlements/Nalyne]]
+- [[Kadurûn]]
+- [[Nalyne]]
 
 ## Features & Landmarks
 - [[Shroud]]

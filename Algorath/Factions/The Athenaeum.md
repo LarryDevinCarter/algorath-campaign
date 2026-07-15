@@ -8,7 +8,7 @@ updated: 2026-07-14
 
 # The Athenaeum
 
-The largest Institute of higher learning in all of [[Motavos]]. It is located in [[Locations/Settlements/Piata|Piata]]. The Institute is so large that its grounds take up the northern third of the city. Its influence is so great that high-ranking members of the Institute often also sit in positions of power for the city itself.
+The largest Institute of higher learning in all of [[Motavos]]. It is located in [[Piata|Piata]]. The Institute is so large that its grounds take up the northern third of the city. Its influence is so great that high-ranking members of the Institute often also sit in positions of power for the city itself.
 
 Led by [[Characters/NPCs/Archmagister Vaelor Thorne|Archmagister Vaelor Thorne]].
 
