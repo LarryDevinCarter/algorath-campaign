@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Great Dog Winter.md",
+                "file": "Algorath/Lore/History/Vasloria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Great Dog Winter"
+              "title": "Vasloria"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Lore/Great Dog Winter.md",
+                "file": "Algorath/Lore/History/Vasloria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Great Dog Winter"
+              "title": "Backlinks for Vasloria"
             }
           },
           {
@@ -211,9 +211,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b5b31cbd095018c4",
+  "active": "5a554af706474759",
   "lastOpenFiles": [
     "Algorath/Lore/History/Calamity.md",
+    "Algorath/Lore/Events/Great Dog Winter.md",
     "Algorath/Lore/History/Vasloria.md",
     "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Maglubiyet.md",
@@ -251,7 +252,6 @@
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Factions/The Athenaeum.md",
-    "Algorath/Factions/Gray Company.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Images/Mobs/Old/Young Kruthik.png",

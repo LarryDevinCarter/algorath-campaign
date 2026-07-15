@@ -15,7 +15,7 @@ This page serves as a central checklist of events, locations, factions, and othe
 ## Priority Events
 
 - **[[Lore/Purging of the Blackbriar Woods|Purging of the Blackbriar Woods]]** — A key historical moment for the [[Gray Company]] that helped establish their reputation for reliability and impartiality in protecting the wilds and common folk. Specific actions taken, participants, outcomes, and any connection to the Great Dog Winter period remain to be detailed.
-- **[[Lore/Great Dog Winter|Great Dog Winter]]** — A historical period during which the [[Gray Company]] successfully defended [[Ashenholt|Ashenholt]] without taking sides in the concurrent struggles of the barons. Details on the nature of the baronial conflicts, timeline, specific events, and long-term impacts on High Piedmont or the Gray Company's standing are undeveloped.
+- **[[Great Dog Winter|Great Dog Winter]]** — A historical period during which the [[Gray Company]] successfully defended [[Ashenholt|Ashenholt]] without taking sides in the concurrent struggles of the barons. Details on the nature of the baronial conflicts, timeline, specific events, and long-term impacts on High Piedmont or the Gray Company's standing are undeveloped.
 
 ## Geography & Locations
 
