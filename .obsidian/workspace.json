@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Images/Mobs/Hobgoblin.png"
               },
-              "icon": "lucide-file",
-              "title": "Session-1"
+              "icon": "lucide-image",
+              "title": "Hobgoblin"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Images/Mobs/Hobgoblin.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session-1"
+              "title": "Backlinks for Hobgoblin"
             }
           },
           {
@@ -213,8 +211,12 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
+    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
+    "Algorath/Factions/The Athenaeum.md",
+    "Algorath/Factions/Gray Company.md",
+    "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Sessions/Session-1.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Lars Harlan.md",
@@ -225,7 +227,6 @@
     "Algorath/Locations/Settlements/Piata.md",
     "Algorath/Characters/NPCs/Algorath/Followers",
     "Algorath/Locations/Features/Vale of First Light.md",
-    "Algorath/Factions/The Athenaeum.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
@@ -246,8 +247,6 @@
     "Algorath/Characters/NPCs/Elemental Plane of Fire/Lady of Brass.md",
     "Algorath/Characters/NPCs/Algorath/Historical Figures/King Omund.md",
     "Algorath/Characters/NPCs/Example-NPC.md",
-    "Algorath/Bestiary/Bestiary.md",
-    "Algorath/Bestiary/Monstrosities/Kruthik.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Images/Mobs/Hobgoblin.png",
@@ -255,7 +254,6 @@
     "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
-    "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Untitled.canvas",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
