@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +209,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e3a5673519234812",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
