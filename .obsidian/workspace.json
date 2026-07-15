@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/PCs/Ragnar.md",
+                "file": "Algorath/Sessions/Session-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ragnar"
+              "title": "Session-2"
             }
           }
         ]
@@ -213,13 +213,13 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/PCs/Maki.md",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Sessions/Session-2.md",
     "Algorath/Lore/Calendar.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Factions/Gray Company.md",
-    "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Lore/Deities/Old Gods/Old Gods.md",

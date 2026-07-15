@@ -7,8 +7,7 @@
 - Draveena (The Delian Tomb nearby is knights of an order that worship Chauntea, she can say her oath there)
 
 ## Strong Start
--The PCs start outside the Archmagister Vaelor Thorne's office on orders the remove a threat of monstrosities.
--If player sleep at the inn, the blacksmith's daughter will get taken and he will ask for help the next morning
+-The PCs start in the for help the next morning
 
 ## Scenes
 
