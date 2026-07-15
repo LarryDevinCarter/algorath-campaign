@@ -15,3 +15,4 @@ updated: 2026-07-14
 ## Monstrosities
 
 - [[Monstrosities/Kruthik|Kruthik]]
+- [[Monstrosities/Stirge|Stirge]]
