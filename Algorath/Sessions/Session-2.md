@@ -56,14 +56,11 @@
 
 ## Monsters
 
-- Kruthiks
+- 
 
 ## Treasure
 
-- Potion of Healing
-- Antitoxin
-- A book that contains instructions on forgotten magic (Alarm, Comprehend Languages, Detect Magic)
-- 1gp per goblin ear
+- 
 
 ## Session Notes
 
