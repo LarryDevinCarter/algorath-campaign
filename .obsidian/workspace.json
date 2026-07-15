@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorath/Locations/Features/Vale of First Light.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Vale of First Light"
+              "icon": "lucide-file-text",
+              "title": "Hahn Mehlay"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Locations/Features/Vale of First Light.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vale of First Light"
+              "title": "Backlinks for Hahn Mehlay"
             }
           },
           {
@@ -213,6 +211,7 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Locations/Features/Vale of First Light.md",
     "Algorath/Locations/Features/The-Golden-Maw.md",
     "Algorath/Locations/Features/Tharolrs-Gulf.md",
     "Algorath/Locations/Features/Shroud.md",
@@ -245,7 +244,6 @@
     "Algorath/Lore/Deities/Oghma.md",
     "Algorath/Locations/Settlements/Piata.md",
     "Algorath/Characters/NPCs/Algorath/Followers",
-    "Algorath/Locations/Features/Vale of First Light.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
