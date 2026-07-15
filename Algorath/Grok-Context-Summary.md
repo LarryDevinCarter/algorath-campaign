@@ -31,4 +31,7 @@ updated: 2026-07-14
 - **Lars Harlan**: Local blacksmith, owner of Lars' Smithy. Father of Bess. Well-liked; refuses town politics: "Power corrupts all those who possess it. Best I keep to my forge." Sold Maki her rapier. Asked party for help rescuing Bess after goblins took her the morning after Kruthik incident.
 - **Bess**: Daughter of Lars Harlan. Taken by goblins.
 
+## Locations
+- **Boar Wood**: A large expanse of forest near [[Piata]], inhabited mostly by boar. Locals hunt here frequently; free of goblins.
+
 ... (rest unchanged per fidelity)
