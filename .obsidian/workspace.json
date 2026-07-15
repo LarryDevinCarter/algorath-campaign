@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-1"
+              "title": "Bess Harlen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Sessions/Session-1.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session-1"
+              "title": "Backlinks for Bess Harlen"
             }
           },
           {
@@ -211,12 +211,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Untitled",
+    "Algorath/Sessions/Session-1.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata",
-    "Algorath/Characters/NPCs/Algorath/High Piedmont/Lars Harlan.md",
-    "Algorath/Characters/NPCs/Algorath/High Piedmont/Bess.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Lars Harlan.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets",
@@ -225,8 +226,7 @@
     "Algorath/Characters/NPCs/Algorath/Followers",
     "Algorath/Locations/Features/Vale of First Light.md",
     "Algorath/Factions/The Athenaeum.md",
-    "Algorath/Sessions/Session-1.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Archmagister Vaelor Thorne.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth",
@@ -237,12 +237,11 @@
     "Algorath/Characters/NPCs/Algorath/High Piedmont/Jeffrey Harlan.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale",
     "Algorath/Characters/NPCs/Algorath/Historical Figures",
-    "Algorath/Characters/NPCs/Algorath/Groups",
     "Algorath/Characters/NPCs/Algorath/High Piedmont/Elijah Voss.md",
     "Algorath/Lore/Deities/Elemental Gods.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
     "Algorath/Characters/NPCs/Algorath/Historical Figures/Vitae.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Professor Holt.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Professor Holt.md",
     "Algorath/Characters/NPCs/Algorath/Historical Figures/Mandrake.md",
     "Algorath/Characters/NPCs/Elemental Plane of Fire/Lady of Brass.md",
     "Algorath/Characters/NPCs/Algorath/Historical Figures/King Omund.md",
