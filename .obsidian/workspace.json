@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Locations/Features/Motavos/Castle Rend.md",
+                "file": "Algorath/Sessions/Session-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Rend"
+              "title": "Session-2"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Locations/Features/Motavos/Castle Rend.md",
     "Characters/NPCs/Archmagister Vaelor Thorne.md",
     "Algorath/Factions/The Athenaeum.md",
     "Characters/NPCs",
@@ -244,7 +245,6 @@
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Maglubiyet.md",
     "Algorath/Lore/Deities/The One Being/Pelor.md",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md",
-    "Algorath/Lore/Deities/The One Being/Pelor's Children/Adun.md",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods",
     "Algorath/Lore/Deities/Lessor Gods",
