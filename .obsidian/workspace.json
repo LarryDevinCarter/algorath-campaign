@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Deities/Maglubiyet.md",
+                "file": "Algorath/Lore/Great Dog Winter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maglubiyet"
+              "title": "Great Dog Winter"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Lore/Deities/Maglubiyet.md",
+                "file": "Algorath/Lore/Great Dog Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maglubiyet"
+              "title": "Backlinks for Great Dog Winter"
             }
           },
           {
@@ -213,13 +213,17 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Lore/Deities/Pelor.md",
+    "Algorath/Lore/History/Calamity.md",
+    "Algorath/Lore/History/Vasloria.md",
+    "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
+    "Algorath/Lore/Deities/The One Being/Pelor's Children/Maglubiyet.md",
+    "Algorath/Lore/Deities/The One Being/Pelor.md",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md",
-    "Algorath/Lore/Deities/The One Being/Pelor/Adun.md",
+    "Algorath/Lore/Deities/The One Being/Pelor's Children/Adun.md",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods",
     "Algorath/Lore/Deities/Lessor Gods",
-    "Algorath/Lore/Deities/The One Being/Pelor",
+    "Algorath/Lore/Deities/The One Being/Pelor's Children",
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Piata.md",
     "Algorath/Lore/Deities/The One Being",
     "Algorath/Locations/Settlements/Motavos/Ithenvale",
@@ -241,17 +245,13 @@
     "Algorath/Locations/Features/Motavos/The Westerlands/Barad-Bane.md",
     "Algorath/Locations/Features/Motavos/High Piedmont/Ashenfang-Mountains.md",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods/Grumbar.md",
-    "Algorath/Lore/Deities/The One Being/Pelor/Chauntea.md",
-    "Algorath/Lore/Deities/Therizdun.md",
+    "Algorath/Lore/Deities/The One Being/Pelor's Children/Chauntea.md",
+    "Algorath/Lore/Deities/The One Being/Therizdun.md",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Factions/The Athenaeum.md",
     "Algorath/Factions/Gray Company.md",
-    "Algorath/Encounters/Kruthik 1.md",
-    "Algorath/Sessions/Session-1.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Lars Harlan.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Images/Mobs/Old/Young Kruthik.png",

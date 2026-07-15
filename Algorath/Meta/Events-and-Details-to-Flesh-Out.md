@@ -25,11 +25,11 @@ This page serves as a central checklist of events, locations, factions, and othe
 
 ## Cosmology, Plot & Faction Elements
 
-- Locations, current status, guardians (if any), and specific threats related to the **remaining two seals** binding [[Lore/Deities/Therizdun|Therizdun]] (one destroyed during the [[Lore/Calamity|Calamity]]).
-- The **God Seed** planted by [[Lore/Deities/Orcus|Orcus]]: its exact location on Algorath, maturation process/timeline, and precise mechanisms of the threat it poses to the plane.
+- Locations, current status, guardians (if any), and specific threats related to the **remaining two seals** binding [[Therizdun|Therizdun]] (one destroyed during the [[Calamity|Calamity]]).
+- The **God Seed** planted by [[Orcus|Orcus]]: its exact location on Algorath, maturation process/timeline, and precise mechanisms of the threat it poses to the plane.
 - Activities, hierarchy, key members, and current plans of the **Cults of Therizdun / Orcus**.
 - Current role, organization, and influence of **Pelor's worshipers** and the network of eldritch temples that stabilize the plane.
-- Other deities in the pantheon beyond [[Lore/Deities/Pelor|Pelor]], [[Lore/Deities/Therizdun|Therizdun]], and [[Lore/Deities/Orcus|Orcus]] — their roles in the God Seed War, Calamity, or ongoing events.
+- Other deities in the pantheon beyond [[Pelor|Pelor]], [[Therizdun|Therizdun]], and [[Orcus|Orcus]] — their roles in the God Seed War, Calamity, or ongoing events.
 - The barons and their struggles referenced in connection with the Great Dog Winter.
 
 ## Wiki Infrastructure & Sessions

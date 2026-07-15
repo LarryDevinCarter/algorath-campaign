@@ -21,7 +21,7 @@ updated: 2026-07-14
 - **Maki**: Dark elf (~200 years old) from [[Locations/Regions/Vespera]], level 1 wizard / Fellow of the Hunters. Sage journey started via Professor Holt from [[Factions/The Athenaeum]] in [[Piata]] ~20 years ago. Excited to reconnect during current contract.
 
 ## Deities
-- [[Lore/Deities/Oghma|Oghma]]: One of the later god-seeds of [[Pelor]]. Patron of learning and knowledge. Has a hidden ancient library temple on [[Motavos]].
+- [[Oghma|Oghma]]: One of the later god-seeds of [[Pelor]]. Patron of learning and knowledge. Has a hidden ancient library temple on [[Motavos]].
 
 ## Bestiary
 - **Kruthik**: Hive-dwelling monstrosities living in underground tunnels, warrens, and areas near heat sources. Chitin-armored reptilian-insect hybrids that hunt in packs and carve sprawling subterranean hives. Burrowers and climbers with tremorsense and darkvision. Keen sense of smell; fling spikes from backs. Dangerous in large numbers; prioritize feeding, breeding, and hive expansion.
