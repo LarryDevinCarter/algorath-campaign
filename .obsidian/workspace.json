@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Images/Mobs/Hobgoblin.png"
+                "file": "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png"
               },
               "icon": "lucide-image",
-              "title": "Hobgoblin"
+              "title": "Adult Kruthik (Dying)"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Images/Mobs/Hobgoblin.png",
+                "file": "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hobgoblin"
+              "title": "Backlinks for Adult Kruthik (Dying)"
             }
           },
           {
@@ -209,8 +209,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b5b31cbd095018c4",
+  "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Images/Mobs/Old/Hobgoblin.png",
+    "Algorath/Images/Mobs/Current",
+    "Algorath/Images/Mobs/Old",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
     "Algorath/Factions/The Athenaeum.md",
     "Algorath/Factions/Gray Company.md",
@@ -236,8 +239,6 @@
     "Algorath/Characters/NPCs/Elemental Plane of Fire/Yxmic.md",
     "Algorath/Characters/NPCs/Elemental Plane of Fire/Xorn.md",
     "Algorath/Characters/NPCs/Algorath/High Piedmont/Jeffrey Harlan.md",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale",
-    "Algorath/Characters/NPCs/Algorath/Historical Figures",
     "Algorath/Characters/NPCs/Algorath/High Piedmont/Elijah Voss.md",
     "Algorath/Lore/Deities/Elemental Gods.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
@@ -249,11 +250,10 @@
     "Algorath/Characters/NPCs/Example-NPC.md",
     "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
-    "Algorath/Images/Mobs/Hobgoblin.png",
-    "Algorath/Images/Mobs/Young Kruthik.png",
-    "Algorath/Images/Mobs/Adult Kruthik (Dying).png",
-    "Algorath/Images/Mobs/Adult Kruthik (Sick).png",
-    "Algorath/Images/Mobs/Kruthik Hive Lord (Sick).png",
+    "Algorath/Images/Mobs/Old/Young Kruthik.png",
+    "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
+    "Algorath/Images/Mobs/Old/Adult Kruthik (Sick).png",
+    "Algorath/Images/Mobs/Old/Kruthik Hive Lord (Sick).png",
     "Untitled.canvas",
     "Algorath/Images/Banners/GrayCompanyBanner.jpg"
   ]
