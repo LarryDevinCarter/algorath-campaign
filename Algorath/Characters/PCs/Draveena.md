@@ -3,12 +3,14 @@ title: "Draveena"
 aliases: ["Draveena, Member of the Hunters"]
 tags: [pc, hunter, member, gray-company, aasimar, paladin]
 created: 2026-06-28
-updated: 2026-06-29
+updated: 2026-07-14
 ---
 
 # Draveena
 
 **Draveena** is an **Aasimar** of unknown sire. She is a **level 1 Paladin** who plans to swear her oath to the goddess [[Chauntea|Chauntea]].
+
+She is **23 years old**, born on the **23rd day of Newgrowth, 2261 AW**.
 
 She is a **Member** of the **Order of Hunters** in the [[Factions/Gray Company|Gray Company]]. 
 
