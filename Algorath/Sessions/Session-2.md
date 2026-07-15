@@ -27,7 +27,6 @@
 - The soil is dying. It's happening so slowly most people don't notice.
 - One student left to join so new cult/religion.
 - One student's parents stopped sending him money (from Goldenmile)
-- There has been an influx of goblins in the region, they been attacking farms around the village of Villane.
 - Many villagers don't like the player (Ratcatchers)
 - Goblins are in the The Delian Tomb
 - Hidden room with the remain of the knights of the Delian order.
