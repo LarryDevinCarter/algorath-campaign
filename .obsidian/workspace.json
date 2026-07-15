@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Factions/Gray Company.md",
+                "file": "Algorath/Lore/Calendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gray Company"
+              "title": "Calendar"
             }
           }
         ]
@@ -213,6 +213,10 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session-2.md",
+    "Algorath/Lore/Calendar.md",
+    "Algorath/Sessions/Session-1.md",
+    "Algorath/Factions/Gray Company.md",
     "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/PCs/Maki.md",
     "Algorath/Characters/PCs/Draveena.md",
@@ -247,10 +251,6 @@
     "Algorath/Locations/Features/Motavos/The Heartlands/Vale of First Light.md",
     "Algorath/Locations/Features/Motavos/The Westerlands/The-Golden-Maw.md",
     "Algorath/Locations/Features/Motavos/Tharolrs-Gulf.md",
-    "Algorath/Locations/Features/Motavos/Shroud.md",
-    "Algorath/Locations/Features/Motavos/Crimsonmere.md",
-    "Algorath/Locations/Features/Motavos/Crimson-Span.md",
-    "Algorath/Locations/Features/Motavos/The Westerlands/Barad-Bane.md",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
