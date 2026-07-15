@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Calendar.md",
+                "file": "Algorath/Sessions/Session-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calendar"
+              "title": "Session-2"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Lore/Calendar.md",
+    "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Sessions/Session-2.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Factions/Gray Company.md",
