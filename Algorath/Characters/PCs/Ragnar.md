@@ -3,14 +3,14 @@ title: "Ragnar"
 aliases: ["Ragnar, Member of the Hunters"]
 tags: [pc, hunter, member, gray-company, bugbear, barbarian]
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-07-14
 ---
 
 # Ragnar
 
 **Member of the Hunters** in the [[Factions/Gray Company|Gray Company]].
 
-Ragnar is a bugbear barbarian originally from the town of Molcrum.
+Ragnar is a bugbear barbarian originally from the town of Molcrum. He is **25 years old**, born on the **1st day of Longnight, 2258 AW**.
 
 When the immortal [[Ajax]] posed a growing threat, Ragnar joined the local militia and spent several years training peasants to fight effectively with farm tools such as scythes and pitchforks.
 
