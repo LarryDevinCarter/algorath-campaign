@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Lore/History/Vasloria.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Ithenvale.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Vasloria"
+              "icon": "lucide-image",
+              "title": "Ithenvale"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorath/Lore/History/Vasloria.md",
+                "file": "Algorath/Maps/Ithenvale.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vasloria"
+              "title": "Backlinks for Ithenvale"
             }
           },
           {
@@ -211,11 +209,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Lore/History/Calamity.md",
-    "Algorath/Lore/Events/Great Dog Winter.md",
+    "Algorath/Maps/High Piedmont.jpg",
+    "Algorath/Lore/Deities/Old Gods/Old Gods.md",
+    "Algorath/Lore/Deities/Old Gods",
+    "Algorath/Lore/Cosmology.md",
     "Algorath/Lore/History/Vasloria.md",
+    "Algorath/Lore/Events/Calamity.md",
+    "Algorath/Lore/Events/Great Dog Winter.md",
     "Algorath/Lore/Events/Fall of the Steel Dwarves of Kalas Mithral.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Maglubiyet.md",
     "Algorath/Lore/Deities/The One Being/Pelor.md",
@@ -236,7 +238,6 @@
     "Algorath/Locations/Features/Motavos/Castle Rend.md",
     "Algorath/Locations/Settlements/Gravesford.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
-    "Algorath/Locations/Settlements/Motavos/Aelindor",
     "Algorath/Locations/Features/Motavos/The Heartlands/Vale of First Light.md",
     "Algorath/Locations/Features/Motavos/The Westerlands/The-Golden-Maw.md",
     "Algorath/Locations/Features/Motavos/Tharolrs-Gulf.md",
@@ -246,14 +247,10 @@
     "Algorath/Locations/Features/Motavos/The Westerlands/Barad-Bane.md",
     "Algorath/Locations/Features/Motavos/High Piedmont/Ashenfang-Mountains.md",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods/Grumbar.md",
-    "Algorath/Lore/Deities/The One Being/Pelor's Children/Chauntea.md",
-    "Algorath/Lore/Deities/The One Being/Therizdun.md",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Dying).png",
     "Algorath/Images/Mobs/Old/Hobgoblin.png",
     "Algorath/Images/Dungeon Maps/TheAthenaeumBasement.png",
-    "Algorath/Factions/The Athenaeum.md",
     "Algorath/Maps/Ithenvale.jpg",
-    "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Images/Mobs/Old/Young Kruthik.png",
     "Algorath/Images/Mobs/Old/Adult Kruthik (Sick).png",
     "Algorath/Images/Mobs/Old/Kruthik Hive Lord (Sick).png",
