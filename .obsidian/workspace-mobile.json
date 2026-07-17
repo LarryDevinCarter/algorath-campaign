@@ -11,14 +11,13 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Archmagister Vaelor Thorne"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -189,6 +188,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Characters/NPCs/Archmagister Vaelor Thorne.md",
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Lore/Events/Purging of the Blackbriar Woods.md",
@@ -221,9 +222,7 @@
     "Algorath/Locations/Features/Motavos/The Heartlands",
     "Algorath/Locations/Features/Motavos",
     "Algorath/Sessions/Session-2.md",
-    "Characters/NPCs/Archmagister Vaelor Thorne.md",
     "Characters/NPCs",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Professor Holt.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Bess Harlen.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/Lars Harlan.md",
