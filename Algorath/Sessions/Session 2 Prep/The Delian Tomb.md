@@ -14,7 +14,7 @@ Bogan need goblins. Bogan… good friend. Goblin need smart goblin. Girl make…
 Goblin have fun.)
 
 - Lord Delius
-	- Will stop the fight with the 
+	- Will stop the fight with the player if the 
 
 ## Strong Start
 -The PCs start in the after Lars the blacksmith burst in, goblins have taken his daughter.
