@@ -8,10 +8,10 @@ updated: 2026-07-14
 
 # Boar Wood
 
-The Boar Wood is a large expanse of forest near [[Piata]].
+The Boar Wood is a large expanse of forest near [[Algorath/Locations/Settlements/Motavos/Ithenvale/Piata]].
 
 ## Overview
 Inhabited mostly by boar — as the name suggests. The locals hunt here frequently, and it is free of goblins.
 
 ## Connections
-- Near [[Piata]]
+- Near [[Algorath/Locations/Settlements/Motavos/Ithenvale/Piata]]

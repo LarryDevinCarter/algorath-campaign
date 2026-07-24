@@ -16,4 +16,4 @@ She is a **Member** of the **Order of Hunters** in the [[Factions/Gray Company|G
 
 Though she should still be a **Recruit**, she slept with [[Elijah Voss|Elijah Voss]] (the 1st Hunter and her superior at the time) and blackmailed him by threatening to reveal their affair to his wife unless he granted her premature advancement to full Member. As a direct result of this coercion, she now holds the rank of full **Member**.
 
-She was recently asked by [[Characters/PCs/Maki|Maki]] to accompany her to [[Piata|Piata]] to complete a contract.
+She was recently asked by [[Characters/PCs/Maki|Maki]] to accompany her to [[Algorath/Locations/Settlements/Motavos/Ithenvale/Piata|Piata]] to complete a contract.
