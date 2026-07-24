@@ -14,4 +14,4 @@
 - On return 1 Carrion Crawler
 
 
-![[Stirges.png]]
+![[Stirges.png]]![[Carrion Crawler.png]]
