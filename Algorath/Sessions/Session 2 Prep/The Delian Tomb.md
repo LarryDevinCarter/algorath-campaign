@@ -18,6 +18,9 @@ Goblin have fun.)
 
 "She is a brother of the order." 
 
+- Bess
+	- 
+
 ## Strong Start
 -The PCs start in the after Lars the blacksmith burst in, goblins have taken his daughter.
 
