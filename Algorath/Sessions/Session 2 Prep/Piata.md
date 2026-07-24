@@ -8,6 +8,9 @@
 	- Want to make sure the player are coming back, need their help to get to Zema
 	- Will pay 30 GP
 	- Buys Scale mail from Lars
+- Duke Martin
+	- Will pay 2GP per set of goblin ears
+	- DC decept
 
 ## Secrets and Clues
 
@@ -22,9 +25,7 @@
 
 ## Notable NPCs
 
-- Archmagister Vaelor Thorne - regal, trying to hide fear. Afraid of the wrath of Ziothar.
-- Hahn Mahlay - wants to investigate the basement, understudy of Professor Holt, wasn't allowed to see the materials brought back from Vale of First Light, worried about Professor Holt disappearance/lack of communication. Says Archmagister has forbidden anyone for going to Vale of First Light or even leaving the city.
-- Shea - Greenhouse keeper.
+- Hahn Mahlay
 - Richard - Student worried about female student that left to go join a cult.
 - Tomas - From Goldenmile, parents stopped sending money.
 - Miranda - Innkeeper.
