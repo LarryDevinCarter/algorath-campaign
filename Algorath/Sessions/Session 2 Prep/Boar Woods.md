@@ -11,7 +11,7 @@
 ## Monsters
 
 - 6 Stirges on 3 goblins (2 dead)
-- On return
+- On return 1 Carrion Crawler
 
 
 ![[Stirges.png]]
