@@ -1,10 +1,12 @@
 
-200xp>225xp
+200>225
 
-250xp
+250
 
 ---------
-300xp (6 stirge)
+300 (6 stirge)
 
-450xp (carrion crawler)
+50>150> 
+
+450 (carrion crawler)
 
