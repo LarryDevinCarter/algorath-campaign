@@ -2,13 +2,8 @@
 - Lars Harlan (Blacksmith)
 	- Goblin have his daughter                                                                                             
 	- At Lars' home/smithy -DC 10 Survival check find tracks
-	- Lars gives Ragnar a heavy greataxe and promises to put as much gold together as h
-- The local Blacksmith (Lars Harlan) burst into the tavern (exhausted, frantic)
-	- His daughter (Bess - 14) has been taken by goblins. Will give player all his gold to rescue her.
-- Bess is frightened, and will attach herself to who she sees as her protector.
-- Dead goblins in the Boar Woods, Stirge fight.
-- Undead Delius will pardon the group if the paladin said their oath.
-- Lars thanks the group and negotiates a reward.
+	- Lars gives Ragnar a heavy greataxe and promises to put as much gold together as he can for his daughter safe return
+	- If player bring back his daughter (gold from Duke)
 
 ## Secrets and Clues
 
