@@ -13,5 +13,6 @@
 - 6 Stirges on 3 goblins (2 dead)
 - On return 1 Carrion Crawler
 
+##Ev
 
-![[Stirges.png|361]]![[Carrion Crawler.png|366]]
+![[Stirges.png|295]]![[Carrion Crawler.png|315]]
