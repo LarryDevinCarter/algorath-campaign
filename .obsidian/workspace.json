@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Carrion Crawler 1.png"
+                "file": "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Carrion Crawler 1"
+              "icon": "lucide-file",
+              "title": "Boar Woods"
             }
           }
         ]
@@ -211,9 +213,9 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Carrion Crawler 1.png",
-    "Carrion Crawler.png",
+    "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
+    "Algorath/Images/Mobs/Current/Carrion Crawler.png",
     "Pasted image 20260724135251.png",
     "Algorath/Images/Mobs/Current/Stirges.png",
     "Algorath/Images/Mobs/Old/Session 1/Adult Kruthik (Dying).png",
