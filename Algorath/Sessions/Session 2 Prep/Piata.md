@@ -5,14 +5,12 @@
 	- Lars gives Ragnar a heavy greataxe and promises to put as much gold together as he can for his daughter safe return
 	- If player bring back his daughter (gold from Duke Martin of Villane for goblin ears, gold from Lars (50GP), 3 riding horses, 3 saddles, 1 longbow, a quiver with 20 arrows, 14 GP from collection)
 - Hahn Mahlay
-	- Want to make 
+	- Want to make sure the player are coming back, need their help to get to Zema
+	- Will pay 30 GP
+	- Buys Scale mail from Lars
 
 ## Secrets and Clues
 
-- The monstrosities are being bred by magical means.
-- Ziothar is try to stop investigation into the Vale of First Light.
-- There was once 3 continents, 1 was destroyed in The Great Collapse, Motavos also suffered destruction at that time. We believe before The Great Collapse, the peoples of Motavos traveled across vast seas to these other continents.
-- The soil is dying. It's happening so slowly most people don't notice.
 - One student left to join so new cult/religion.
 - One student's parents stopped sending him money (from Goldenmile)
 - Many villagers don't like the player (Ratcatchers)
