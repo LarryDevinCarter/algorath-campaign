@@ -31,6 +31,7 @@ Goblin have fun.)
 - 2 Goblins Guards (will alert those inside)
 - 4 goblins
 - Bogan Redcap and goblin shaman
+- 6 Skeletons (2 at a time, fight ends if Paladin says oath)
 
 ## Treasure
 
