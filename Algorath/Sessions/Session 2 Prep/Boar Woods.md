@@ -1,6 +1,7 @@
 ## People
 - Trig
-	- Died Goblin with strige on him
+	- Died Goblin with Stirge on him
+	- DC 20 to get informat
 - Undead Delius will pardon the group if the paladin said their oath.
 - Lars thanks the group and negotiates a reward.
 
