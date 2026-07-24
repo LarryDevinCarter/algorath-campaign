@@ -27,6 +27,8 @@ Goblin have fun.)
 
 ## Monsters
 
+- 2 Goblins Patrols (if damaged or friend falls will retreat to guards)
+- 2 Goblins Guards (will alert those inside)
 - 
 
 ## Treasure
