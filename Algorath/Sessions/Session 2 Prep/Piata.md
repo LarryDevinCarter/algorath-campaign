@@ -17,8 +17,9 @@
 	- From Goldenmile, parents stopped sending money.
 - Miranda & Joseph
 	- Innkeepers.
-- Matt 
-	- The Serving Boy at the inn.
+- Matt & Mary
+	- Innkeepers children at the inn.
+	- Matt in massive and out of place as a serving boy
 
 ## Secrets and Clues
 
@@ -40,15 +41,3 @@
 - Matt - The Serving Boy at the inn.
 - Lars Harlan - Blacksmith
 - Bess Harlan - Blacksmith's daughter
-
-## Monsters
-
-- 
-
-## Treasure
-
-- 
-
-## Session Notes
-
-- 
