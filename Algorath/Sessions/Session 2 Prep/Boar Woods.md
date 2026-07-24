@@ -10,7 +10,7 @@
 
 ## Monsters
 
-- 6 Stirges on 3 goblins (2 dead)
+- 6 Stirges on 3 goblins (2 dead) In ( 8, )
 - On return 1 Carrion Crawler
 
 ## Event
