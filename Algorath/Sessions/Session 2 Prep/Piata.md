@@ -11,22 +11,14 @@
 
 ## Secrets and Clues
 
-- One student left to join so new cult/religion.
-- One student's parents stopped sending him money (from Goldenmile)
 - Many villagers don't like the player (Ratcatchers)
-- Goblins are in the The Delian Tomb
-- Hidden room with the remain of the knights of the Delian order.
-- Bogan Redcap is the leader of the Goblins (the player don't know yet but Bogan Redcap is a title not a name so even if they kill Bogan, they will meet another Bogan Redcap in the future.)
 
 ## Fantastic Locations
 
-- The Athenaeum. Many buildings. The important ones are the Grand Lecture Hall, The Green House, and The Dormitory.
-- Grand Lecture Hall has professors and students. Can learn about history and can see and weather balloon experiment. Statue of Oghma, God of Learning and Knowledge.
-- The Green House has a woman tending garden and running soil experiments. Learn about the crop yield going down.
-- The Dormitory can learn about the cult/religion and find out the students plan on streaking the fountain.
+- The Dormitory
+	- One student left to join so new cult/religion.
+	- One student's parents stopped sending him money (from Goldenmile)
 - The Green Dragon Inn, Lars' Smithy, the general good store, the stables (horses for sale), guards station/jail, the fountain.
-- The Boar Wood - full of boar. Patrolled, usually free of goblins.
-- The Delian Tomb. The resting place of the Delian Order.
 
 ## Notable NPCs
 
