@@ -13,6 +13,7 @@
 - 6 Stirges on 3 goblins (2 dead)
 - On return 1 Carrion Crawler
 
-##Ev
+## Event
+- On night 1, a boar runs through camp
 
 ![[Stirges.png|295]]![[Carrion Crawler.png|315]]
