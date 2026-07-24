@@ -3,7 +3,7 @@
 	- Goblin have his daughter                                                                                             
 	- At Lars' home/smithy -DC 10 Survival check find tracks
 	- Lars gives Ragnar a heavy greataxe and promises to put as much gold together as he can for his daughter safe return
-	- If player bring back his daughter (gold from Duke)
+	- If player bring back his daughter (gold from Duke Martin of Villane  for goblin ears)
 
 ## Secrets and Clues
 
