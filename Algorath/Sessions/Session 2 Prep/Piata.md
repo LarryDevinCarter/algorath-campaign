@@ -1,7 +1,8 @@
 ## People
 - Lars Harlan (Blacksmith)
 	- Goblin have his daughter                                                                                             
-	- At Lars' home/smithy -DC
+	- At Lars' home/smithy -DC 10 Survival check find tracks
+	- Lars gives Ragnar a 
 - The local Blacksmith (Lars Harlan) burst into the tavern (exhausted, frantic)
 	- His daughter (Bess - 14) has been taken by goblins. Will give player all his gold to rescue her.
 - Bess is frightened, and will attach herself to who she sees as her protector.
