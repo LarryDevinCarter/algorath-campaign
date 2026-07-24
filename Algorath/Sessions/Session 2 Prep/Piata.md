@@ -1,17 +1,6 @@
-# 31 Highsummer, 2284 AW Campaign Session Notes
-
-## Characters
-
-- Ragnar Blackmane (One other Bugbear is in The Athenaeum, from same city)
-- Maki (Know Professor Holt, will want to reconnect with him)
-- Draveena (The Delian Tomb nearby is knights of an order that worship Chauntea, she can say her oath there)
-
-## Strong Start
--The PCs start in the after Lars the blacksmith burst in, goblins have taken his daughter.
-
-## Scenes
+## People
 - Lars Harlan (Blacksmith)
-	- Goblin have his daughter
+	- Goblin have his daughter                                                                                                                            
 - The local Blacksmith (Lars Harlan) burst into the tavern (exhausted, frantic)
 	- His daughter (Bess - 14) has been taken by goblins. Will give player all his gold to rescue her.
 - Bess is frightened, and will attach herself to who she sees as her protector.
