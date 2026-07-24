@@ -6,7 +6,8 @@
 ---------
 300 (6 stirge)
 
-150>150>375>400 
+150>150>375>400 (goblins in the tomb)
 
 450 (carrion crawler)
 
+600 (6 skeletons)
