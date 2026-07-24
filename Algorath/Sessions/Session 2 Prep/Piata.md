@@ -10,7 +10,9 @@
 	- Buys Scale mail from Lars
 - Duke Martin
 	- Will pay 2GP per set of goblin ears
-	- DC decept
+	- DC deception is 0+ how many goblins the player lie about killing
+- Richard
+	- Student worried about female student (Sandra) that left to go join a cult.
 
 ## Secrets and Clues
 
