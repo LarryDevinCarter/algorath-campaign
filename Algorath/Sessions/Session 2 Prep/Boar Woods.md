@@ -10,12 +10,7 @@
 
 ## Monsters
 
-- 
+- 6 Stirges on 3 goblins (2 dead)
 
-## Treasure
 
-- 
-
-## Session Notes
-
-- 
+![[Stirges.png]]
