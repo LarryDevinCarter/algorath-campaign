@@ -10,7 +10,7 @@
 
 ## Monsters
 
-- ![[Stirges.png]]
+- 
 
 ## Treasure
 
