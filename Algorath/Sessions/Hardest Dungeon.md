@@ -6,3 +6,5 @@
 ---------
 300xp (6 stirge)
 
+450xp (carrion crawler)
+
