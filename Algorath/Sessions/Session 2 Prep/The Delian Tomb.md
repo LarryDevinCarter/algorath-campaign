@@ -29,7 +29,7 @@ Goblin have fun.)
 
 - 2 Goblins Patrols (if damaged or friend falls will retreat to guards)
 	- DC 9 to hide Stealth to hide
-	- Goblin rolls perception (-1) to tra
+	- Goblin rolls perception (-1) to try and see player vs their stealth roll
 - 2 Goblins Guards (will alert those inside)
 - 4 goblins
 - Bogan Redcap and goblin shaman
