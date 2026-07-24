@@ -11,6 +11,7 @@
 ## Monsters
 
 - 6 Stirges on 3 goblins (2 dead)
+- On return
 
 
 ![[Stirges.png]]
