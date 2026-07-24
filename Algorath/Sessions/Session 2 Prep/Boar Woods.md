@@ -1,9 +1,11 @@
 ## People
 - Trig
 	- Died Goblin with Stirge on him
-	- DC 20 to get informat
-- Undead Delius will pardon the group if the paladin said their oath.
-- Lars thanks the group and negotiates a reward.
+	- DC 20 to get information from him
+	- DC 15 if healed
+	- DC 10 if letting him go
+	- DC 5 if you give him a weapon
+- 
 
 ## Secrets and Clues
 
