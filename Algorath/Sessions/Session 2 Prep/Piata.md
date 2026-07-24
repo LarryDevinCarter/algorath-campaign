@@ -4,7 +4,8 @@
 	- At Lars' home/smithy -DC 10 Survival check find tracks
 	- Lars gives Ragnar a heavy greataxe and promises to put as much gold together as he can for his daughter safe return
 	- If player bring back his daughter (gold from Duke Martin of Villane for goblin ears, gold from Lars (50GP), 3 riding horses, 3 saddles, 1 longbow, a quiver with 20 arrows, 14 GP from collection)
-- Hahn
+- Hahn Mahlay
+	- Want to make 
 
 ## Secrets and Clues
 
