@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
+                "file": "Algorath/Characters/NPCs/Algorath/Groups/Chain of Acheron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ziothar"
+              "title": "Chain of Acheron"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Races/Dragonborn.md",
@@ -233,7 +234,6 @@
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Lore/Events/Purging of the Blackbriar Woods.md",
-    "Algorath/Lore/Deities/Old Gods/Old Gods.md",
-    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods/Grumbar.md"
+    "Algorath/Lore/Deities/Old Gods/Old Gods.md"
   ]
 }
