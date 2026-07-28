@@ -11,12 +11,14 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "icon": "lucide-file",
+              "title": "Ziothar"
             }
           }
         ]
@@ -187,6 +189,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Races/Dragonborn.md",
     "Algorath/Images/Mobs/Old/Session 1/Young Kruthik.png",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
@@ -224,14 +228,12 @@
     "/Algorath/Characters/NPCs/Algorath/Ithenvale/Piata",
     "/Algorath/Characters/NPCs/Algorath/Ithenvale",
     "/Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
-    "/Algorath/Characters/NPCs/Algorath/Followers",
     "Characters/NPCs/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Lore/Events/Purging of the Blackbriar Woods.md",
     "Algorath/Lore/Deities/Old Gods/Old Gods.md",
-    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods/Grumbar.md",
-    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods.md"
+    "Algorath/Lore/Deities/Lessor Gods/Elemental Gods/Grumbar.md"
   ]
 }

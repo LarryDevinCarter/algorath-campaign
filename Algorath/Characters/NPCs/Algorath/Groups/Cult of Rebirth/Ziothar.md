@@ -10,4 +10,4 @@ updated: 2026-06-24
 
 **Ziothar**, the Black Magician, is one of the Saints of [[Therizdun]]. He is a powerful NPC.
 
-His fortress, **[[Barad Bane]]**, is located in [[Kadurûn]] in the [[Westerlands]].
+His fortress, **[[Barad Bane]]**, is located near [[Kadurûn]] in the [[Westerlands]].
