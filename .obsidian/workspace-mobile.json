@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Groups/Chain of Acheron.md",
+                "file": "Algorath/Sessions/Session 2 Prep/Piata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chain of Acheron"
+              "title": "Piata"
             }
           }
         ]
@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -189,13 +191,14 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 2 Prep/Session-2.md",
+    "Algorath/Characters/NPCs/Algorath/Groups/Chain of Acheron.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Races/Dragonborn.md",
     "Algorath/Images/Mobs/Old/Session 1/Young Kruthik.png",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
-    "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Images/Mobs/Old/Session 1/Kruthik Hive Lord (Sick).png",
     "Algorath/Images/Mobs/Current/Stirges.png",
     "Algorath/Sessions/Session 2 Prep/Piata.md",
@@ -233,7 +236,6 @@
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
-    "Algorath/Lore/Events/Purging of the Blackbriar Woods.md",
-    "Algorath/Lore/Deities/Old Gods/Old Gods.md"
+    "Algorath/Lore/Events/Purging of the Blackbriar Woods.md"
   ]
 }
