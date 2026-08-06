@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Hardest Dungeon.md",
+                "file": "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardest Dungeon"
+              "title": "The Delian Tomb"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Algorath/Sessions/Session 2 Prep/Piata.md",
@@ -235,7 +236,6 @@
     "Characters/NPCs/Archmagister Vaelor Thorne.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Piata/The Athenaeum/Archmagister Vaelor Thorne.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
-    "Algorath/Lore/Events/Purging of the Blackbriar Woods.md"
+    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md"
   ]
 }
