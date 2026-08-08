@@ -14,7 +14,8 @@
 ## Fantastic Locations
 
 - Basic shop, basic tools, clothes, Potion of Healing and Antidots
-- Blacksmith, Not much here that is an upgrade, Much smaller and ran down compaire
+- Blacksmith, Not much here that is an upgrade, Much smaller and ran down compared to Lars' shop
+- Well, If the player try to draw from it, there isn't much water and is mudd
 
 ## Notable NPCs
 
