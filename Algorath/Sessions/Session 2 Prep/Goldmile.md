@@ -3,7 +3,7 @@
 	- Sandworm rancher. Dilutional, Wants truism since farming has died.
 - Marsha Peeble
 	- Is giving up the family farm. Want to spend every copper she has to move to Pieta to send her son to The Athenaeum. Like the Goods did for their son Tomas.
-- Morlan and Deb Good, can't afford to send their son money to live on o
+- Morlan and Deb Good, can't afford to send their son money to live on or even have the money for post the write to him anymore.
 
 ## Secrets and Clues
 
@@ -11,6 +11,7 @@
 - Quicksand is spreading, large parts of the city have already been destroyed.
 - Large fort across the quicksand just appeared out of nowhere.
 - Story from old woman, land used to be fertile. That why the town is called Golden Mile. Because there was once fields of grain for mile. Now it's just baron and the Golden Maw.
+- Rumors of some cult, some eastern religon that people have been 
 
 ## Fantastic Locations
 
