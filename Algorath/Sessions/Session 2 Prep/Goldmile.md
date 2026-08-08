@@ -9,7 +9,7 @@
 - Many villagers don't like the player (Ratcatchers)
 - Quicksand is spreading, large parts of the city have already been destroyed.
 - Large fort across the quicksand just appeared out of nowhere.
-- Story from old woman, land used to be fertile. That why the town is called Golden Mile. Because there was once fields of 
+- Story from old woman, land used to be fertile. That why the town is called Golden Mile. Because there was once fields of grain for mile. Now it's just baron and the Golden Maw.
 
 ## Fantastic Locations
 
