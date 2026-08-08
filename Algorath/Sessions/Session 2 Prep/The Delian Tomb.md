@@ -41,7 +41,8 @@ Goblin have fun.)
 
 ## Treasure
 
-- 
+- 2 potions of healing on the alter
+- 24GP and 
 
 ## Session Notes
 
