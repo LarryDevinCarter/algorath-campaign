@@ -39,6 +39,7 @@ Goblin have fun.)
 - Pressure Plate Trap (12 Perception to notice, 10 Dex to disarm with thieves tools, or with any bladed weapon at disadvantage) 15 Dex Saving Throw or 1d8 slashing
 - Bogan Redcap and goblin shaman (each have a potion of healing)
 - 6 Skeletons (2 at a time, fight ends if Paladin says oath)
+- 8 potions of healing
 
 ## Treasure
 
