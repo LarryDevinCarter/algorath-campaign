@@ -26,6 +26,7 @@ Goblin have fun.)
 - Oath
 	- I stand as a knight of the Delian Order and swear myself to the Earth Mother whom we serve. I will protect the bounty of the earth and its harvest. I will shield those who toil in honest labor. I will bring justice to bandits, thieves, and all who reap but do not sow. By my sword and by my faith, so I swear.
 - Hidden room with the remain of the knights of the Delian order.
+	- "TO KEEP THIS YOU MUST FIRST GIVE IT TO ME"
 
 ## Monsters
 
@@ -42,7 +43,7 @@ Goblin have fun.)
 ## Treasure
 
 - 2 potions of healing on the alter
-- 24GP and 
+- 24GP and gemstones worth 36GP
 
 ## Session Notes
 
