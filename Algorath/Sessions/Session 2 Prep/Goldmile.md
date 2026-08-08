@@ -11,7 +11,7 @@
 - Quicksand is spreading, large parts of the city have already been destroyed.
 - Large fort across the quicksand just appeared out of nowhere.
 - Story from old woman, land used to be fertile. That why the town is called Golden Mile. Because there was once fields of grain for mile. Now it's just baron and the Golden Maw.
-- Rumors of some cult, some eastern religon that people have been 
+- Rumors of some cult, some eastern religion that people have been leaving to join up with. Ran by a man in black known as Ziothar. Saint Ziothar they are calling him.
 
 ## Fantastic Locations
 
