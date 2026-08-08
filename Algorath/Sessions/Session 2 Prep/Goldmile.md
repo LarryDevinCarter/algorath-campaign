@@ -2,7 +2,7 @@
 - Tom Loris
 	- Sandworm rancher. Dilutional, Wants truism since farming has died.
 - Marsha Peeble
-	- Is giving up the family farm. Want to spend every copper she has to move to Pieta to send her son to The Athenaeum. Like 
+	- Is giving up the family farm. Want to spend every copper she has to move to Pieta to send her son to The Athenaeum. Like the Goods did for their son Tomas. They starved to death on their farm, which is baron now. To proud to ask for help.
 
 ## Secrets and Clues
 

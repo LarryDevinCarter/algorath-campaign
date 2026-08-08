@@ -13,7 +13,7 @@
 	- DC deception is 0+ how many goblins the player lie about killing
 - Richard
 	- Student worried about female student (Sandra) that left to go join a cult.
-- Tomas
+- Tomas Good
 	- From Goldenmile, parents stopped sending money.
 - Miranda & Joseph
 	- Innkeepers.
