@@ -5,7 +5,7 @@
 ## Secrets and Clues
 
 - Many villagers don't like the player (Ratcatchers)
-- Quicksand is streadding, large cunc
+- Quicksand is spreadding, large parts of the city have already been destroyed.
 
 ## Fantastic Locations
 
