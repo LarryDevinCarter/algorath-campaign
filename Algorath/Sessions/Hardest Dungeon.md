@@ -11,3 +11,5 @@
 450 (carrion crawler)
 
 600 (6 skeletons)
+
+700 (Young Kingfisher Worm)
