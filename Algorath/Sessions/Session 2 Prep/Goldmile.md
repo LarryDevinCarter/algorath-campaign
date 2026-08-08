@@ -14,6 +14,7 @@
 ## Fantastic Locations
 
 - Basic shop, basic tools, clothes, Potion of Healing and Antidots
+- Blacksmith, Not much here that is an upgrade, Much smaller and ran down compaire
 
 ## Notable NPCs
 
