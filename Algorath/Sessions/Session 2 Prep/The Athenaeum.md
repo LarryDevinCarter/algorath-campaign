@@ -1,17 +1,8 @@
 ## People
 
-Archmagister Vaelor Thorne - regal, trying to hide fear. Afraid of the wrath of Ziothar.
-
-## Scenes
-- Archmagister is sweating and is easily intimidated (coward)
-	- Professor Holt believed the increasing number of monstrosities had something to do with the Vale of First Light, his letters say he found an otherworldly temple there with magics never before seen. His research brought those crystals here for study and returned the Vale. But that been over 3 months ago and we haven't heard anything since.
+- Archmagister Vaelor Thorne - regal, trying to hide fear. Afraid of the wrath of Ziothar.
+	- - Professor Holt believed the increasing number of monstrosities had something to do with the Vale of First Light, his letters say he found an otherworldly temple there with magics never before seen. His research brought those crystals here for study and returned the Vale. But that been over 3 months ago and we haven't heard anything since.
 	- He wanted to send a rescue team but... Ziothar appear before his very eyes. He threatened him and turn his assistant to stone (who later shattered).
-- The local Blacksmith (Lars Harlan) burst into the tavern (exhausted, frantic)
-	- His daughter (Bess - 14) has been taken by goblins. Will give player all his gold to rescue her.
-- Bess is frightened, and will attach herself to who she sees as her protector.
-- Dead goblins in the Boar Woods, Stirge fight.
-- Undead Delius will pardon the group if the paladin said their oath.
-- Lars thanks the group and negotiates a reward.
 
 ## Secrets and Clues
 
