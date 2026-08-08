@@ -4,13 +4,13 @@
 ## Secrets and Clues
 
 - Everyone's been turned to stone
-- Rangar would kn
+- Rangar would know about Ashline, a substance made by the bugbear that turns stone back to flesh.
 
 ## Fantastic Locations
 
 - House with the cellar
-- Cave to digsight to stange door.
-- 
+- Cave to dig sight to strange door.
+- Holt is turned to stone.
 
 ## Notable NPCs
 
