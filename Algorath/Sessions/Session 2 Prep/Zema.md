@@ -14,10 +14,4 @@
 
 ## Notable NPCs
 
-- Hahn Mahlay
-- Richard - Student worried about female student that left to go join a cult.
-- Tomas - From Goldenmile, parents stopped sending money.
-- Miranda - Innkeeper.
-- Matt - The Serving Boy at the inn.
-- Lars Harlan - Blacksmith
-- Bess Harlan - Blacksmith's daughter
+- Holt, turned to stone.
