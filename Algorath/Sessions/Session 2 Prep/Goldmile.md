@@ -4,6 +4,7 @@
 - Marsha Peeble
 	- Is giving up the family farm. Want to spend every copper she has to move to Pieta to send her son to The Athenaeum. Like the Goods did for their son Tomas.
 - Morlan and Deb Good, can't afford to send their son money to live on or even have the money for post the write to him anymore.
+- Gaurd, only one in the town, Zema is cursed. Destroyed. Don't go there.
 
 ## Secrets and Clues
 
@@ -20,11 +21,3 @@
 - Well, If the player try to draw from it, there isn't much water and is muddy
 
 ## Notable NPCs
-
-- Hahn Mahlay
-- Richard - Student worried about female student that left to go join a cult.
-- Tomas - From Goldenmile, parents stopped sending money.
-- Miranda - Innkeeper.
-- Matt - The Serving Boy at the inn.
-- Lars Harlan - Blacksmith
-- Bess Harlan - Blacksmith's daughter
