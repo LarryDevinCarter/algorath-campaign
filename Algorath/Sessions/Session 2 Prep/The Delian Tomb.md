@@ -49,3 +49,4 @@ Goblin have fun.)
 ## Session Notes
 
 - 
+![[The Delian Tomb_28x35.png]]
