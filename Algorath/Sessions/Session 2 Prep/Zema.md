@@ -4,13 +4,13 @@
 ## Secrets and Clues
 
 - Everyone's been turned to stone
+- Rangar would kn
 
 ## Fantastic Locations
 
-- The Dormitory
-	- One student left to join so new cult/religion.
-	- One student's parents stopped sending him money (from Goldenmile)
-- The Green Dragon Inn, Lars' Smithy, the general good store, the stables (horses for sale), guards station/jail, the fountain.
+- House with the cellar
+- Cave to digsight to stange door.
+- 
 
 ## Notable NPCs
 
