@@ -3,8 +3,7 @@
 
 ## Monsters
 
-- 6 Stirges on 3 goblins (2 dead) In (8, 10, 13, 15, 15, 16)
-- On return 1 Carrion Crawler
+- 1 Young Kingfissure Worm
 
 ## Event
-- On night 1, a boar runs through camp
+- On the road, during the day while traveling 1 Young Kingfissure Worm![[Young Kingfissure Worm.png]]
