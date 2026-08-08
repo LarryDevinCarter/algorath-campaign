@@ -1,5 +1,5 @@
 ## People
-- Two children, boy and girl, in a basement cellar with preserves. Been down there from months. Couldn't get the cellar door back open. Parents statues on top of the cellar do. Girl doesn't speak, boy babbles about a man in 
+- Two children, boy and girl, in a basement cellar with preserves. Been down there from months. Couldn't get the cellar door back open. Parents statues on top of the cellar do. Girl doesn't speak, boy babbles about a man in black.
 
 ## Secrets and Clues
 
