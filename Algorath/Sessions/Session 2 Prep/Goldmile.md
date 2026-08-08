@@ -1,10 +1,11 @@
 ## People
 - Tom Loris
-	- 
+	- Sandworm rancher. Dilutional, Wants truism since farming has died.
 
 ## Secrets and Clues
 
 - Many villagers don't like the player (Ratcatchers)
+- Quicksand is streadding, large cunc
 
 ## Fantastic Locations
 
