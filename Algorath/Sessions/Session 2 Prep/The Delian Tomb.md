@@ -23,6 +23,7 @@ Goblin have fun.)
 
 ## Secrets and Clues
 
+- 
 - Hidden room with the remain of the knights of the Delian order.
 
 ## Monsters
