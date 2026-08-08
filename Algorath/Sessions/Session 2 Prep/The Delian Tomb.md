@@ -35,7 +35,7 @@ Goblin have fun.)
 	- On Damage or companion fall will run
 - 2 Goblins Guards (will alert those inside)
 - 4 goblins
-- Pressure Plate Trap
+- Pressure Plate Trap (12 Perception to notice, 10 Dex to disarm with theifs)
 - Bogan Redcap and goblin shaman
 - 6 Skeletons (2 at a time, fight ends if Paladin says oath)
 
