@@ -1,6 +1,8 @@
 ## People
 - Tom Loris
 	- Sandworm rancher. Dilutional, Wants truism since farming has died.
+- Marsha Peeble
+	- Is giving up the family farm. Want to spend every copper she has to 
 
 ## Secrets and Clues
 
