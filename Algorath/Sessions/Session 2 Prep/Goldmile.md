@@ -6,6 +6,7 @@
 
 - Many villagers don't like the player (Ratcatchers)
 - Quicksand is spreading, large parts of the city have already been destroyed.
+- Large fort across the quicksand just appeared out of nowhere.
 
 ## Fantastic Locations
 
