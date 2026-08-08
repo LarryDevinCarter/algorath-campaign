@@ -13,3 +13,4 @@
 600 (6 skeletons)
 
 700 (Young Kingfisher Worm)
+![[birthvalley1.jpg]]![[birthvalley2.jpg]]
