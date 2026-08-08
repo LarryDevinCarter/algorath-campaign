@@ -17,21 +17,9 @@
 - Hidden room with the remain of the knights of the Delian order.
 - Bogan Redcap is the leader of the Goblins (the player don't know yet but Bogan Redcap is a title not a name so even if they kill Bogan, they will meet another Bogan Redcap in the future.)
 
-## Notable NPCs
-
-- Archmagister Vaelor Thorne - regal, trying to hide fear. Afraid of the wrath of Ziothar.
-- Hahn Mahlay - wants to investigate the basement, understudy of Professor Holt, wasn't allowed to see the materials brought back from Vale of First Light, worried about Professor Holt disappearance/lack of communication. Says Archmagister has forbidden anyone for going to Vale of First Light or even leaving the city.
-- Shea - Greenhouse keeper.
-- Richard - Student worried about female student that left to go join a cult.
-- Tomas - From Goldenmile, parents stopped sending money.
-
-## Monsters
-
-- 
-
 ## Treasure
 
-- 
+- 200GP from the Archmagister
 
 ## Session Notes
 
