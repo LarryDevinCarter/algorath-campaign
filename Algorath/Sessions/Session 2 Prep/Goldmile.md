@@ -2,7 +2,8 @@
 - Tom Loris
 	- Sandworm rancher. Dilutional, Wants truism since farming has died.
 - Marsha Peeble
-	- Is giving up the family farm. Want to spend every copper she has to move to Pieta to send her son to The Athenaeum. Like the Goods did for their son Tomas. They starved to death on their farm, which is baron now. To proud to ask for help.
+	- Is giving up the family farm. Want to spend every copper she has to move to Pieta to send her son to The Athenaeum. Like the Goods did for their son Tomas.
+- Morlan and Deb Good, can't afford to send their son money to live on o
 
 ## Secrets and Clues
 
@@ -15,7 +16,7 @@
 
 - Basic shop, basic tools, clothes, Potion of Healing and Antidots
 - Blacksmith, Not much here that is an upgrade, Much smaller and ran down compared to Lars' shop
-- Well, If the player try to draw from it, there isn't much water and is mudd
+- Well, If the player try to draw from it, there isn't much water and is muddy
 
 ## Notable NPCs
 
