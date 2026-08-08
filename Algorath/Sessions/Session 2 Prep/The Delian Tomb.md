@@ -39,12 +39,12 @@ Goblin have fun.)
 - Pressure Plate Trap (12 Perception to notice, 10 Dex to disarm with thieves tools, or with any bladed weapon at disadvantage) 15 Dex Saving Throw or 1d8 slashing
 - Bogan Redcap and goblin shaman (each have a potion of healing)
 - 6 Skeletons (2 at a time, fight ends if Paladin says oath)
-- 8 potions of healing, journal, chainmail(30GP)/longsword(6GP)/shield(4GP) with the coat of arms of the Delian Order per sarcophagus, Golbin Slayer Shortsword
 
 ## Treasure
 
 - 2 potions of healing on the alter
 - 24GP and gemstones worth 36GP
+- 8 potions of healing, journal, chainmail(30GP)/longsword(6GP)/shield(4GP) with the coat of arms of the Delian Order per sarcophagus, Golbin Slayer Shortsword (+1d8 vs goblins/hobgoblins/orcs/half-orcs)
 
 ## Session Notes
 
