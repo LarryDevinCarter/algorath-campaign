@@ -12,10 +12,7 @@
 
 ## Fantastic Locations
 
-- The Dormitory
-	- One student left to join so new cult/religion.
-	- One student's parents stopped sending him money (from Goldenmile)
-- The Green Dragon Inn, Lars' Smithy, the general good store, the stables (horses for sale), guards station/jail, the fountain.
+- Basic shop, basic tools, clothes, Potion of Healing and Antidot
 
 ## Notable NPCs
 
