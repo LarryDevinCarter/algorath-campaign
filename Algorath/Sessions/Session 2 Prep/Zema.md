@@ -17,4 +17,4 @@
 - Holt, turned to stone.
 
 
-![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Adult Kruthik.png]]
+![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Adult Kruthik.png]]![[Darkmantle.png]]
