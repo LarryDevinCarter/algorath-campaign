@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
+                "file": "Algorath/Races/Dragonborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Delian Tomb"
+              "title": "Dragonborn"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Sessions/Session 2 Prep/The Athenaeum.md",
     "Darkmantle.png",
     "Algorath/Images/Dungeon Maps/birthvalley1.jpg",
@@ -223,7 +224,6 @@
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Algorath/Sessions/Session 2 Prep/Piata.md",
-    "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Chain of Acheron.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
