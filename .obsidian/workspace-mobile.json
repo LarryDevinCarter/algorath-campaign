@@ -11,14 +11,12 @@
             "id": "cae024124c0f2030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorath/Races/Dragonborn.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Dragonborn"
+              "icon": "lucide-file-text",
+              "title": "Hahn Mehlay"
             }
           }
         ]
@@ -191,6 +189,8 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+    "Algorath/Races/Dragonborn.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Sessions/Session 2 Prep/The Athenaeum.md",
     "Darkmantle.png",
@@ -228,14 +228,12 @@
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ziothar.md",
     "Algorath/Characters/NPCs/Algorath/Groups/Cult of Rebirth/Ajax.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
-    "Algorath/Races/Dragonborn.md",
     "/Algorath/Sessions/Session 2 Prep/Session-2.md",
     "/Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "/Algorath/Locations/Features/Motavos/Ithenvale/Boar Wood.md",
     "/Algorath/Locations/Features/Motavos/Ithenvale",
     "/Algorath/Locations/Features/Motavos",
     "/Algorath/Grok-Context-Summary.md",
-    "/Algorath/Factions/The Athenaeum.md",
-    "/Algorath/Characters/PCs/Maki.md"
+    "/Algorath/Factions/The Athenaeum.md"
   ]
 }
