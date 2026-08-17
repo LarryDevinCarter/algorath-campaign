@@ -12,6 +12,6 @@
 
 500 (5 wolves)
 
-450 (Young Kingfisher Worm)
+700 (Young Kingfisher Worm)
 
 450>600 (Adult Kruthik And then 3 Darkmantles)
