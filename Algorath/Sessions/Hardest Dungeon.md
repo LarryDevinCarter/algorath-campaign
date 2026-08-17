@@ -14,4 +14,6 @@
 
 700 (Young Kingfisher Worm)
 
+1000 
+
 450>600 (Adult Kruthik And then 3 Darkmantles)
