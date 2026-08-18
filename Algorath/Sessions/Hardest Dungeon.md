@@ -14,6 +14,8 @@
 
 700 (Young Kingfisher Worm)
 
-1000 (Bandit Captain + 2 bandits)
+1,000 (Bandit Captain + 2 bandits)
 
 450>600 (Adult Kruthik And then 3 Darkmantles)
+
+1,350 Ankheg
