@@ -19,3 +19,5 @@
 450>600 (Adult Kruthik And then 3 Darkmantles)
 
 1,350 Ankheg
+
+Banderhobb
