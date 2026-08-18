@@ -20,4 +20,4 @@
 
 1,350 Ankheg
 
-Banderhobb
+1,100 Banderhobb
