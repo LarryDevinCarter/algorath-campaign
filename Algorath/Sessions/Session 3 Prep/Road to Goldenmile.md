@@ -9,4 +9,4 @@
 - 3rd start hearing wolves.
 	- If they move on instead of attacking they take exhaustion
 	- Wolves attack first night they camp or on the 3rd day.
-- 
+- 8th day Kingfisher wormling attack
