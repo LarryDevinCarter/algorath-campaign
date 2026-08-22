@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
+                "file": "Algorath/Sessions/Session 3 Prep/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Road to Goldenmile"
+              "title": "Session 3"
             }
           }
         ]
@@ -215,8 +215,10 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 3 Prep/Piata.md",
+    "Algorath/Sessions/Session 2 Prep/Session-2.md",
+    "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
+    "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Villane.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane/Baron Martin.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane",
@@ -233,7 +235,6 @@
     "Algorath/Images/Mobs/Current/Young Kingfissure Worm.png",
     "Algorath/Sessions/Session 2 Prep/Zema.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
-    "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Sessions/Session 2 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 2 Prep/Goldmile.md",
     "Darkmantle.png",
@@ -258,7 +259,6 @@
     "Algorath/Bestiary/Bestiary.md",
     "Algorath/Locations/Features/Motavos/Ithenvale",
     "Algorath/Bestiary/Monstrosities/Stirge.md",
-    "Algorath/Grok-Context-Summary.md",
     "Algorath/Lore/Deities/Old Gods",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Untitled.canvas"

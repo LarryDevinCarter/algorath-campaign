@@ -4,4 +4,5 @@
 ## Story
 - 1st day goes well.
 	- Kills a boar
-	- caravan
+	- Caravan with a salter
+- 
