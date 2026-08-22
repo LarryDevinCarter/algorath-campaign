@@ -13,4 +13,4 @@
 - No bed to the night
 	- Townsfolk offer to let them stay in the dead shepherd's home.
 
-![[Pasted image 20260822135221.png]]![[Pasted image 20260822135308.png]]
+![[Pasted image 20260822135221.png]]![[Pasted image 20260822135308.png]]![[Pasted image 20260822135539.png]]![[Pasted image 20260822135622.png]]
