@@ -7,4 +7,3 @@
 - People are poor
 - Ruined temple of Chauntea
 - The Inn
-
