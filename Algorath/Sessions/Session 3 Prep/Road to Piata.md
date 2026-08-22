@@ -1,3 +1,3 @@
 ## People
 ## Story
--13th day, leaves
+-13th day, leave
