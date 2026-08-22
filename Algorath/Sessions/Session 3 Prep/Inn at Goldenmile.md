@@ -7,3 +7,5 @@
 ## Story
 - Dragonborn fight
 - Kalarel the Vile and his blood gold
+- Dragonborn in a copper dragonborn
+	- Want to find army to lead for a ruler they deem good
