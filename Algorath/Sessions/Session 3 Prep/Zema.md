@@ -9,4 +9,5 @@
 - Dearkmantle fight
 - Find Professor Holt
 - Ragnar would know where to get Ashline
+- 21th day leave
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Adult Kruthik.png]]![[Darkmantle.png]]

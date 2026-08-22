@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
+                "file": "Algorath/Sessions/Session 3 Prep/Zema.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "The Heartlands"
+              "icon": "lucide-file",
+              "title": "Zema"
             }
           }
         ]
@@ -213,11 +215,13 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
+    "Algorath/Sessions/Session 3 Prep/Session 3.md",
+    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
+    "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Pasted image 20260822134210.png",
     "Pasted image 20260822133912.png",
-    "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
-    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Zema.md",
     "Adult Kruthik.png",
     "Darkmantle.png",
@@ -226,7 +230,6 @@
     "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/## People- Torin - Worm farmer- Many villagers don't like the player (Ratcatchers)## Story- 12day arrive at Goldenmile- Quicksand sea- Worm ranger is crazy- Fort across the quicksand sea- People are poor- Ruined temple of Chauntea- The InnUntitled.md",
     "Algorath/Sessions/Session 3 Prep/Untitled",
-    "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Maps/Motavos/High Piedmont.jpg",
     "Algorath/Maps/Motavos.jpg",
@@ -237,7 +240,6 @@
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Chauntea.md",
     "Algorath/Lore/Deities/Old Gods/Old Gods.md",
     "Algorath/Sessions/Hardest Dungeon.md",
-    "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Lore/Calendar.md",
     "Algorath/Characters/PCs/Ragnar.md",
