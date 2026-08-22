@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Ithenvale.jpg"
+                "file": "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ithenvale"
+              "icon": "lucide-file",
+              "title": "Road to Goldenmile"
             }
           }
         ]
@@ -213,8 +215,9 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
+    "Algorath/Maps/Ithenvale.jpg",
+    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Lore/Calendar.md",
     "Algorath/Characters/PCs/Ragnar.md",
@@ -229,7 +232,6 @@
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane",
     "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
     "Algorath/Sessions/Session 2 Prep/The Athenaeum.md",
-    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Algorath/Races/Hobgoblin.md",
@@ -253,7 +255,6 @@
     "Algorath/Images/Mobs/Old/Session 1",
     "Algorath/Sessions/Session 2 Prep",
     "Algorath/Locations/Features/Motavos/Castle Rend.md",
-    "Characters/NPCs/Archmagister Vaelor Thorne.md",
     "Characters/NPCs",
     "Characters",
     "Algorath/Locations/Features/Motavos/Ithenvale",
