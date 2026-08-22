@@ -42,6 +42,7 @@
 	- Ask they don't go
 	- Tells everything
 		- Ziothar's threat
-		- Students missing
+		- Students missing (cult)
 		- Dying world
-	- 
+- Next morning
+	- Ge
