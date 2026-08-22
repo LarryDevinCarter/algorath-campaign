@@ -36,3 +36,5 @@
 - Matt - The Serving Boy at the inn.
 - Lars Harlan - Blacksmith
 - Bess Harlan - Blacksmith's daughter
+## Story
+- Play wake in the night to screaming (students playing in the fountain)
