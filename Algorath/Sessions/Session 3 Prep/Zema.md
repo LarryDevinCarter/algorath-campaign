@@ -5,5 +5,8 @@
 - 20th day arrive, everyone is turned to stone
 - Can find Marty and Sarah a cellar
 - Dig cite leads to a cave.
-- Kruthi
+- Kruthik fight
+- Dearkmantle fight
+- Find Professor Holt
+- Ragnar would know where to get Ashline
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Adult Kruthik.png]]![[Darkmantle.png]]
