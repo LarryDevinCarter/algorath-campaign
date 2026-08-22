@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Ithenvale.jpg"
+                "file": "Algorath/Sessions/Session 3 Prep/Piata.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ithenvale"
+              "icon": "lucide-file",
+              "title": "Piata"
             }
           }
         ]
@@ -213,6 +215,7 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Maps/Ithenvale.jpg",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
@@ -255,7 +258,6 @@
     "Algorath/Encounters/Kruthik 1.md",
     "Algorath/Lore/Calendar.md",
     "Algorath/Sessions/Session-1.md",
-    "Algorath/Factions/Gray Company.md",
     "Algorath/Lore/Deities/Old Gods",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods",
