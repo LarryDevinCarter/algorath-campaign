@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Adult Kruthik.png"
+                "file": "Algorath/Sessions/Session 3 Prep/Zema.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Adult Kruthik"
+              "icon": "lucide-file",
+              "title": "Zema"
             }
           }
         ]
@@ -213,8 +215,8 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Darkmantle.png",
     "Adult Kruthik.png",
+    "Darkmantle.png",
     "birthvalley1.jpg",
     "Algorath/Sessions/Session 3 Prep/Zema.md",
     "birthvalley2.jpg",
