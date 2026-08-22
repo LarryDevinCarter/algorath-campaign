@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session 3 Prep/Session 3.md",
+                "file": "Algorath/Lore/Calendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "Calendar"
             }
           }
         ]
@@ -215,6 +215,8 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Lore/Cosmology.md",
+    "Algorath/Lore/Calendar.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
@@ -256,9 +258,7 @@
     "Characters/NPCs",
     "Characters",
     "Algorath/Locations/Features/Motavos/Ithenvale/Boar Wood.md",
-    "Algorath/Bestiary/Bestiary.md",
     "Algorath/Locations/Features/Motavos/Ithenvale",
-    "Algorath/Bestiary/Monstrosities/Stirge.md",
     "Algorath/Lore/Deities/Old Gods",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Untitled.canvas"
