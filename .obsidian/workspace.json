@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos/Ithenvale.jpg"
+                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
               },
               "icon": "lucide-image",
-              "title": "Ithenvale"
+              "title": "The Heartlands"
             }
           }
         ]
@@ -213,6 +213,8 @@
   },
   "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/Ithenvale.jpg",
+    "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/Motavos.jpg",
     "Algorath/Maps/Motavos",
     "statblock.png",
@@ -220,7 +222,6 @@
     "Pasted image 20260822115150.png",
     "Darkmantle.png",
     "Adult Kruthik.png",
-    "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Sessions/Session 3 Prep/Road to Piata.md",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
