@@ -12,5 +12,6 @@
 	- Wolves attack first night they camp or on the 3rd day.
 - 7th day small farmstead (Hahn gets padding for his armor)
 - 8th day Kingfisher wyrmling attack
+- 12th arrive at Goldenmile
 
 ![[Pasted image 20260822115150.png]]![[statblock.png]]
