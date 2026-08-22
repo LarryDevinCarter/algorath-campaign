@@ -1,6 +1,9 @@
 ## People
-- Torin - Worm farmer
-- Many villagers don't like the player (Ratcatchers)
+- Aster - Inkeep
+- Lora - barmaid
+- Kor'raxia -dragonborn
+- Highwaymen
+- 
 ## Story
 - 12day arrive at Goldenmile
 - Worm ranger is crazy
