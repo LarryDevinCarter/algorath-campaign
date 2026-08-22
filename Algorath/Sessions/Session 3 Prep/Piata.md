@@ -38,3 +38,10 @@
 - Bess Harlan - Blacksmith's daughter
 ## Story
 - Play wake in the night to screaming (students playing in the fountain)
+- Vaelor Thorne tells everything
+	- Ask they don't go
+	- Tells everything
+		- Ziothar's threat
+		- Students missing
+		- Dying world
+	- 
