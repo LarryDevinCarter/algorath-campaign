@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Characters/PCs/Ragnar.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Ithenvale.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Ragnar"
+              "icon": "lucide-image",
+              "title": "Ithenvale"
             }
           }
         ]
@@ -215,16 +213,16 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
+    "Algorath/Sessions/Session 3 Prep/Session 3.md",
+    "Algorath/Sessions/Session 2 Prep/Session-2.md",
+    "Algorath/Lore/Calendar.md",
+    "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/PCs/Maki.md",
     "Algorath/Characters/PCs/Draveena.md",
-    "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Sessions/Session-1.md",
-    "Algorath/Lore/Calendar.md",
     "Algorath/Lore/Cosmology.md",
-    "Algorath/Sessions/Session 2 Prep/Session-2.md",
-    "Algorath/Sessions/Session 3 Prep/Session 3.md",
-    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Villane.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane/Baron Martin.md",
