@@ -14,7 +14,7 @@ updated: 2026-06-25
 - West of [[The Dusk Isles]]
 - Northwest of [[The Eastern Reach]]
 - North of [[The Heartlands]] (the [[Jagged Peninsula]] kind of points to it)
-- Northeast of [[Ithenvale]] (directly northeast of the city of [[Zema]] and [[The Crescent Range]])
+- Northeast of [[Ithenvale]] (directly northeast of the city of [[Algorath/Sessions/Session 2 Prep/Zema]] and [[The Crescent Range]])
 - East of [[High Piedmont]]
 
 [[Ajax]] has conquered almost a third of the island and is pushing inward.
