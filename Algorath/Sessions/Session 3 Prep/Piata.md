@@ -44,5 +44,7 @@
 		- Ziothar's threat
 		- Students missing (cult)
 		- Dying world
+		- Asks Hahn to stay
 - Next morning
-	- Ge
+	- Gear?
+	- Hahn arrive describe his gear.
