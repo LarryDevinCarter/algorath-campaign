@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Sessions/Session 3 Prep/Piata.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "icon": "lucide-file",
+              "title": "Piata"
             }
           }
         ]
@@ -211,10 +213,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b5b31cbd095018c4",
+  "active": "5a554af706474759",
   "lastOpenFiles": [
-    "Algorath/Sessions/Hardest Dungeon.md",
+    "Algorath/Sessions/Session 2 Prep/Piata.md",
+    "Algorath/Sessions/Session 3 Prep/Piata.md",
+    "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Algorath/Races/Hobgoblin.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
+    "Algorath/Sessions/Session 3 Prep",
+    "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Images/Mobs/Old/Session 1/Young Kruthik.png",
     "Algorath/Images/Mobs/Current/Young Kingfissure Worm.png",
     "Algorath/Sessions/Session 2 Prep/Zema.md",
@@ -222,9 +229,7 @@
     "Algorath/Sessions/Session 2 Prep/The Athenaeum.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Sessions/Session 2 Prep/Road to Goldenmile.md",
-    "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/Goldmile.md",
-    "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Darkmantle.png",
     "Adult Kruthik.png",
     "Algorath/Images/Dungeon Maps/birthvalley2.jpg",
@@ -253,12 +258,9 @@
     "Algorath/Lore/Calendar.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Factions/Gray Company.md",
-    "Algorath/Lore/Deities/Old Gods/Old Gods.md",
     "Algorath/Lore/Deities/Old Gods",
     "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Algorath/Lore/Deities/Lessor Gods/Elemental Gods",
-    "Algorath/Lore/Deities/Lessor Gods",
-    "Algorath/Lore/Deities/The One Being/Pelor's Children",
     "Untitled.canvas"
   ]
 }
