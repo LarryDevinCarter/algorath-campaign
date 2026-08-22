@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 3 Prep/Zema.md",
-                "mode": "source",
-                "source": false
+                "file": "Adult Kruthik.png"
               },
-              "icon": "lucide-file",
-              "title": "Zema"
+              "icon": "lucide-image",
+              "title": "Adult Kruthik"
             }
           }
         ]
@@ -215,8 +213,12 @@
   },
   "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
+    "Darkmantle.png",
+    "Adult Kruthik.png",
+    "birthvalley1.jpg",
     "Algorath/Sessions/Session 3 Prep/Zema.md",
+    "birthvalley2.jpg",
+    "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/## People- Torin - Worm farmer- Many villagers don't like the player (Ratcatchers)## Story- 12day arrive at Goldenmile- Quicksand sea- Worm ranger is crazy- Fort across the quicksand sea- People are poor- Ruined temple of Chauntea- The InnUntitled.md",
     "Algorath/Sessions/Session 3 Prep/Untitled",
     "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
@@ -229,8 +231,6 @@
     "statblock.png",
     "Untitled.base",
     "Pasted image 20260822115150.png",
-    "Darkmantle.png",
-    "Adult Kruthik.png",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Sessions/Session 3 Prep/Inn at Goldenmile.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Chauntea.md",
@@ -254,9 +254,6 @@
     "Algorath/Races/Hobgoblin.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Sessions/Session 3 Prep",
-    "Algorath/Images/Mobs/Old/Session 1/Young Kruthik.png",
-    "Algorath/Images/Mobs/Current/Young Kingfissure Worm.png",
-    "Algorath/Sessions/Session 2 Prep/Zema.md",
     "Algorath/Images/Mobs/Old/Session 1",
     "Algorath/Sessions/Session 2 Prep",
     "Characters/NPCs",

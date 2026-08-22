@@ -5,3 +5,4 @@
 - 20th day arrive, everyone is turned to stone
 - Can find Marty and Sarah a cellar
 - Dig cite leads to a cave.
+- ![[birthvalley1.jpg]]![[birthvalley2.jpg]]
