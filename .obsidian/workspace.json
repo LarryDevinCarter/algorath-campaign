@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos.jpg"
+                "file": "Algorath/Maps/Motavos/Ithenvale.jpg"
               },
               "icon": "lucide-image",
-              "title": "Motavos"
+              "title": "Ithenvale"
             }
           }
         ]
@@ -213,13 +213,14 @@
   },
   "active": "5a554af706474759",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/Motavos.jpg",
+    "Algorath/Maps/Motavos",
     "statblock.png",
-    "Algorath/Maps/Motavos.jpg",
     "Untitled.base",
     "Pasted image 20260822115150.png",
     "Darkmantle.png",
     "Adult Kruthik.png",
-    "Algorath/Maps/Ithenvale.jpg",
+    "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Maps/High Piedmont.jpg",
     "Algorath/Sessions/Session 3 Prep/Road to Piata.md",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
@@ -252,13 +253,11 @@
     "Algorath/Sessions/Session 2 Prep/Zema.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Images/Dungeon Maps/birthvalley2.jpg",
-    "Algorath/Images/Dungeon Maps/birthvalley1.jpg",
     "Algorath/Images/Mobs/Old/Session 1",
     "Algorath/Sessions/Session 2 Prep",
     "Characters/NPCs",
     "Characters",
     "Algorath/Locations/Features/Motavos/Ithenvale",
-    "Algorath/Lore/Deities/Old Gods",
     "Untitled.canvas"
   ]
 }
