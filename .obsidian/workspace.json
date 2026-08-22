@@ -11,12 +11,14 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
+                "file": "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "The Heartlands"
+              "icon": "lucide-file",
+              "title": "Road to Zema"
             }
           }
         ]
@@ -211,20 +213,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Maps/Motavos/Ithenvale.jpg",
+    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Maps/Motavos/The Heartlands.jpg",
-    "Algorath/Maps/Motavos/Motavos.jpg",
+    "Algorath/Maps/Motavos/Ithenvale.jpg",
+    "Algorath/Maps/Motavos/High Piedmont.jpg",
+    "Algorath/Maps/Motavos.jpg",
     "Algorath/Maps/Motavos",
     "statblock.png",
     "Untitled.base",
     "Pasted image 20260822115150.png",
     "Darkmantle.png",
     "Adult Kruthik.png",
-    "Algorath/Maps/High Piedmont.jpg",
-    "Algorath/Sessions/Session 3 Prep/Road to Piata.md",
-    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
+    "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Sessions/Session 3 Prep/Inn at Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
@@ -253,7 +255,6 @@
     "Algorath/Images/Mobs/Current/Young Kingfissure Worm.png",
     "Algorath/Sessions/Session 2 Prep/Zema.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
-    "Algorath/Images/Dungeon Maps/birthvalley2.jpg",
     "Algorath/Images/Mobs/Old/Session 1",
     "Algorath/Sessions/Session 2 Prep",
     "Characters/NPCs",
