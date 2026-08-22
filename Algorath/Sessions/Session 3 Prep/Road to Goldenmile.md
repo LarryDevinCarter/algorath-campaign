@@ -10,5 +10,5 @@
 - 3rd start hearing wolves.
 	- If they move on instead of attacking they take exhaustion
 	- Wolves attack first night they camp or on the 3rd day.
-- 7th day small farmstead (Hahn gets padding for )
-- 8th day Kingfisher wormling attack
+- 7th day small farmstead (Hahn gets padding for his armor)
+- 8th day Kingfisher wyrmling attack
