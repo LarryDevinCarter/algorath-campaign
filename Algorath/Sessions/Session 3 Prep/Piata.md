@@ -48,4 +48,5 @@
 - Next morning
 	- Gear?
 	- Hahn arrives, describe his gear.
-		- Give players 5 gold each with 5 move when they get to 
+		-  Ill fitted armor, looks awkward.
+		- Give players 5 gold each with 5 move when they get to Zema.
