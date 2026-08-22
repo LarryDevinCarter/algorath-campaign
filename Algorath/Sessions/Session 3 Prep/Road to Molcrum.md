@@ -1,6 +1,7 @@
 ## People
 
 ## Story
+- 21st day start the journey (Hahn learns the warcaster feat)
 - Ahnkeg fight
 - Banerhobb fight
 
