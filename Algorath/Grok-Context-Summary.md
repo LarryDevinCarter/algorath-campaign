@@ -3,14 +3,14 @@ title: "Grok Context Summary - Algorath"
 aliases: ["World Bible", "Context for Grok", "High-Level Overview"]
 tags: [meta, grok, summary, context]
 created: 2026-06-21
-updated: 2026-07-14
+updated: 2026-08-22
 ---
 
 # Grok Context Summary (World Bible) - Algorath
 
 **Purpose**: Maximum relevant context for consistent world-building. Update after major additions.
 
-**Last Updated**: 2026-07-14
+**Last Updated**: 2026-08-22
 
 ## Calendar
 - Four seasons: Spring (Newgrowth 31, Greenveil 30, Blossom 31), Summer (Highsun 30, Highsummer 31, Harvesteve 31), Autumn (Goldfall 30, Ashenwind 31, Dusk 30), Winter (Frostveil 31, Ironcold 30, Longnight 31).
@@ -31,7 +31,9 @@ updated: 2026-07-14
 - **Lars Harlan**: Local blacksmith, owner of Lars' Smithy. Father of Bess. Well-liked; refuses town politics: "Power corrupts all those who possess it. Best I keep to my forge." Sold Maki her rapier. Asked party for help rescuing Bess after goblins took her the morning after Kruthik incident.
 - **Bess**: Daughter of Lars Harlan. Taken by goblins.
 
+## NPCs - Ithenvale
+- **Baron Martin**: Ruler of the city of [[Locations/Settlements/Motavos/Ithenvale/Villane|Villane]].
+
 ## Locations
 - **Boar Wood**: A large expanse of forest near [[Algorath/Locations/Settlements/Motavos/Ithenvale/Piata]], inhabited mostly by boar. Locals hunt here frequently; free of goblins.
-
-... (rest unchanged per fidelity)
+- **Villane**: City in [[Locations/Regions/Ithenvale|Ithenvale]], a hard day's ride southwest of [[Locations/Settlements/Motavos/Ithenvale/Piata|Piata]]. Ruled by [[Characters/NPCs/Algorath/Ithenvale/Villane/Baron Martin|Baron Martin]].
