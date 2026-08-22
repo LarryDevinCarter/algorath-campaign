@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "statblock.png"
+                "file": "Algorath/Maps/Motavos.jpg"
               },
               "icon": "lucide-image",
-              "title": "statblock"
+              "title": "Motavos"
             }
           }
         ]
@@ -211,8 +211,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b5b31cbd095018c4",
+  "active": "5a554af706474759",
   "lastOpenFiles": [
+    "statblock.png",
+    "Algorath/Maps/Motavos.jpg",
     "Untitled.base",
     "Pasted image 20260822115150.png",
     "Darkmantle.png",
@@ -226,7 +228,6 @@
     "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Chauntea.md",
     "Algorath/Lore/Deities/Old Gods/Old Gods.md",
-    "statblock.png",
     "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
@@ -258,7 +259,6 @@
     "Characters",
     "Algorath/Locations/Features/Motavos/Ithenvale",
     "Algorath/Lore/Deities/Old Gods",
-    "Algorath/Lore/Deities/Lessor Gods/Untitled/Untitled",
     "Untitled.canvas"
   ]
 }
