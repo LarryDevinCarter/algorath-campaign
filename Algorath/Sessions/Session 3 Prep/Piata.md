@@ -47,4 +47,5 @@
 		- Asks Hahn to stay
 - Next morning
 	- Gear?
-	- Hahn arrive describe his gear.
+	- Hahn arrives, describe his gear.
+		- Give players 5 gold each with 5 move when they get to 
