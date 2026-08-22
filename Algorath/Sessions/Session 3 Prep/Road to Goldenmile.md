@@ -13,4 +13,4 @@
 - 7th day small farmstead (Hahn gets padding for his armor)
 - 8th day Kingfisher wyrmling attack
 
-![[Pasted image 20260822115150.png]]
+![[Pasted image 20260822115150.png]]![[statblock.png]]
