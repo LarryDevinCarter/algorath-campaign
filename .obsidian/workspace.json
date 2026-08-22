@@ -11,14 +11,12 @@
             "id": "b5b31cbd095018c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 3 Prep/Piata.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Ithenvale.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Piata"
+              "icon": "lucide-image",
+              "title": "Ithenvale"
             }
           }
         ]
@@ -213,10 +211,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5a554af706474759",
+  "active": "b5b31cbd095018c4",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
+    "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
     "Algorath/Races/Hobgoblin.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
