@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorath/Sessions/Hardest Dungeon.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hardest Dungeon"
+              "icon": "lucide-file-text",
+              "title": "Hahn Mehlay"
             }
           }
         ]
@@ -196,6 +194,7 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Sessions/Session 4 Prep",
@@ -236,7 +235,6 @@
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Piata.md",
     "Algorath/Locations/Settlements/Motavos/High Piedmont/Nalyne.md",
     "Algorath/Locations/Settlements/Motavos/High Piedmont/Ashenholt.md",
-    "Algorath/Locations/Settlements/Motavos/Aelindor/Blackpeak.md",
     "Algorath/Locations/Settlements/Motavos/The Eastern Reach",
     "Algorath/Locations/Settlements/Motavos/Westerlands",
     "Algorath/Locations/Settlements/Motavos/Ithenvale",
