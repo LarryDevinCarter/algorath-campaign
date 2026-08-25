@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Sessions/Session 3 Prep/Inn at Goldenmile.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "icon": "lucide-file",
+              "title": "Inn at Goldenmile"
             }
           }
         ]
@@ -192,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Untitled.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
@@ -220,7 +223,6 @@
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Sessions/Session 3 Prep/Inn at Goldenmile.md",
-    "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep",
     "Algorath/Maps/Motavos",
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Villane.md",
