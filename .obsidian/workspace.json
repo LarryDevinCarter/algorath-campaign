@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -194,6 +196,9 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Untitled.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
@@ -233,12 +238,9 @@
     "Algorath/Locations/Settlements/Motavos/The Eastern Reach/Kenkarra.md",
     "Algorath/Locations/Settlements/Motavos/Westerlands/Kadurûn.md",
     "Algorath/Locations/Settlements/Motavos/Ithenvale/Piata.md",
-    "Algorath/Locations/Settlements/Motavos/High Piedmont/Nalyne.md",
-    "Algorath/Locations/Settlements/Motavos/High Piedmont/Ashenholt.md",
     "Algorath/Locations/Settlements/Motavos/The Eastern Reach",
     "Algorath/Locations/Settlements/Motavos/Westerlands",
     "Algorath/Locations/Settlements/Motavos/Ithenvale",
-    "Algorath/Locations/Settlements/Motavos/High Piedmont",
-    "Algorath/Locations/Settlements/Motavos/Aelindor"
+    "Algorath/Locations/Settlements/Motavos/High Piedmont"
   ]
 }
