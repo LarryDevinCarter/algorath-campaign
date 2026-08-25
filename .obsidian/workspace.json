@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Lore/Calendar.md",
+                "file": "Algorath/Sessions/Session 3 Prep/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calendar"
+              "title": "Session 3"
             }
           }
         ]
@@ -194,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd065585d87ab60",
+  "active": "847b8f79168928ab",
   "lastOpenFiles": [
+    "Algorath/Sessions/Untitled",
+    "Algorath/Sessions/Session 3 Prep/Zema.md",
+    "Algorath/Sessions/Session 2 Prep/Zema.md",
+    "Algorath/Lore/Calendar.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "statblock.png",
     "birthvalley2.jpg",
@@ -210,7 +214,6 @@
     "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
-    "Algorath/Sessions/Session 3 Prep/Zema.md",
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Sessions/Session 3 Prep/Inn at Goldenmile.md",
@@ -221,7 +224,6 @@
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane/Baron Martin.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane",
     "Algorath/Sessions/Session 2 Prep/Boar Woods.md",
-    "Algorath/Sessions/Session 2 Prep/Zema.md",
     "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/The Athenaeum.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
@@ -239,7 +241,6 @@
     "Algorath/Locations/Settlements/Motavos/Ithenvale",
     "Algorath/Locations/Settlements/Motavos/High Piedmont",
     "Algorath/Locations/Settlements/Motavos/Aelindor",
-    "Algorath/Locations/Settlements/Motavos",
-    "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md"
+    "Algorath/Locations/Settlements/Motavos"
   ]
 }
