@@ -1,0 +1,13 @@
+## People
+- Marty - 10
+- Sarah - 7
+## Story
+- 20th day arrive, everyone is turned to stone
+- Can find Marty and Sarah a cellar
+- Dig cite leads to a cave.
+- Kruthik fight
+- Dearkmantle fight
+- Find Professor Holt
+- Ragnar would know where to get Ashline
+- 21th day leave
+- ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Adult Kruthik.png]]![[Darkmantle.png]]
