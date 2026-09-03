@@ -11,3 +11,4 @@
 - Ragnar would know where to get Ashline
 - 1st day leave (Hand learns warcaster feat)
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Darkmantle.png]]
+- Miki sees them, and go
