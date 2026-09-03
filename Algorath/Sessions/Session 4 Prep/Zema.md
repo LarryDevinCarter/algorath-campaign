@@ -2,12 +2,12 @@
 - Marty - 10
 - Sarah - 7
 ## Story
-- 1st day arrive, everyone is turned to stone
+- Current day arrive, everyone is turned to stone
 - Can find Marty and Sarah a cellar
 - Dig cite leads to a cave.
 - Kruthik fight
 - Dearkmantle fight
 - Find Professor Holt
 - Ragnar would know where to get Ashline
-- 1 day leave (Hand learns warcaster feat)
+- 1st day leave (Hand learns warcaster feat)
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Darkmantle.png]]
