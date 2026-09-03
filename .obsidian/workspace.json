@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Zema.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Zema"
+              "icon": "lucide-file-text",
+              "title": "Hahn Mehlay"
             }
           }
         ]
@@ -196,15 +194,15 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 3 Prep/Zema.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
+    "Algorath/Sessions/Session 3 Prep/Zema.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Hardest Dungeon.md",
     "Algorath/Lore/History/Vasloria.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Sessions/Session 3 Prep/Inn at Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Untitled.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
@@ -238,7 +236,6 @@
     "Algorath/Sessions/Session 2 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 2 Prep/Goldmile.md",
     "Algorath/Sessions/Session 2 Prep",
-    "Algorath/Locations/Settlements/Motavos/The Eastern Reach/Kenkarra.md",
     "Algorath/Locations/Settlements/Motavos/The Eastern Reach",
     "Algorath/Locations/Settlements/Motavos/Westerlands",
     "Algorath/Locations/Settlements/Motavos/Ithenvale"
