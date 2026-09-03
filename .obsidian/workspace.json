@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "title": "Kor'raxia"
             }
           }
         ]
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd065585d87ab60",
+  "active": "847b8f79168928ab",
   "lastOpenFiles": [
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
     "Algorath/Sessions/Session 3 Prep/Zema.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
