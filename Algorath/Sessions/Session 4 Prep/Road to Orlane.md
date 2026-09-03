@@ -3,3 +3,4 @@
 - Sarah - 7
 ## Story
 - 
+- ![[Pasted image 20260822133912.png]]
