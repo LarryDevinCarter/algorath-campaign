@@ -11,4 +11,6 @@
 - Ragnar would know where to get Ashline
 - 1st day leave (Hand learns warcaster feat)
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Darkmantle.png]]
-- Miki sees them, and go
+- Miki sees them, and goes first, everyone else is supprised
+- They attach to Hahn, Maki, and Kor'raxia (then Draveena, then Ragnar)
+- Crush the 1 Darkness 
