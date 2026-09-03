@@ -6,6 +6,7 @@
 - Can find Marty and Sarah a cellar
 - Dig cite leads to a cave.
 - Kruthik fight
+- Find 1 potion of health
 - Dearkmantle fight
 - Find Professor Holt
 - Ragnar would know where to get Ashline
@@ -13,4 +14,4 @@
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Darkmantle.png]]
 - Miki sees them, and goes first, everyone else is supprised
 - They attach to Hahn, Maki, and Kor'raxia (then Draveena, then Ragnar)
-- Crush the 1 Darkness 
+- Crush the 1 Darkness Aura at a time.
