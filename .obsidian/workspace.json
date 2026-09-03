@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf"
+                "file": "Algorath/Characters/PCs/Ragnar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Kor'raxia"
+              "icon": "lucide-file",
+              "title": "Ragnar"
             }
           }
         ]
@@ -194,6 +196,9 @@
   },
   "active": "847b8f79168928ab",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block",
+    "Algorath/Characters/PCs/Maki.md",
+    "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
@@ -233,8 +238,6 @@
     "Algorath/Sessions/Session 2 Prep/Piata.md",
     "Algorath/Sessions/Session 2 Prep/The Athenaeum.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
-    "Algorath/Sessions/Session 2 Prep/Road to Goldenmile.md",
-    "Algorath/Sessions/Session 2 Prep/Goldmile.md",
     "Algorath/Sessions/Session 2 Prep",
     "Algorath/Locations/Settlements/Motavos/The Eastern Reach",
     "Algorath/Locations/Settlements/Motavos/Westerlands",
