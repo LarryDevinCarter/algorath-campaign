@@ -7,6 +7,6 @@
 - A half-dissolved cow or deer, chitin scratches on bone
 - Sour acid smell after rain
 - Maki’s 4 might catch the ground “breathing”
-- Sarah then the Dog>Marty>Maki>Hahn>Draveena>Kor'raxia>Ragnar
+- Dog then the Sarah>Marty>Maki>Hahn>Draveena>Kor'raxia>Ragnar
 - First acid spray on Kor'raxia then regular order.
-- On hit grabs![[Pasted image 20260822133912.png]]
+- On hit grabs Dog![[Pasted image 20260822133912.png]]
