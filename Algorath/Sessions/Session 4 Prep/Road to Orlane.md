@@ -20,4 +20,4 @@
 - If tongue ever fail, bonus action hide.
 - Marty says he saw it move to Orlane.
 - ![[Pasted image 20260822134210.png]]
-- 
+- At the outskirts of Orlane, a large grove of elms is visible to the left, while several wooden buildings border the road to the right.
