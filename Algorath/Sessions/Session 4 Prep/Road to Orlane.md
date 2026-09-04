@@ -13,9 +13,11 @@
 - First acid spray on Kor'raxia then regular order.
 - On hit grabs Dog, Dog yelps and is pinned at the hole.
 - Athletics to tear the dog free, attack to make it let go, or kill t before it's next turn![[Pasted image 20260822133912.png]]
-- Day 4, run into a small creak and caravan trails. Follow itnight before Orlane. Banderhobb encounter.
+- Day 4, run into a small creak and caravan trails. Follow it to the right and you come across an area of fields of grain and pastures or cows and goats.
+- Night 4 before Orlane. Banderhobb encounter.
 - Attacks Draveena on her watch, then switches to Sarah.
 - If it swallows Sarah, I shadow steps next chance is gets and runs away.
 - If tongue ever fail, bonus action hide.
 - Marty says he saw it move to Orlane.
 - ![[Pasted image 20260822134210.png]]
+- 
