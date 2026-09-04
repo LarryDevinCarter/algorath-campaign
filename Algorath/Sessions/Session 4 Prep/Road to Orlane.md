@@ -6,4 +6,5 @@
 - A circular patch of collapsed earth beside the road
 - A half-dissolved cow or deer, chitin scratches on bone
 - Sour acid smell after rain
-- Maki’s 4 might catch the ground “breathing”![[Pasted image 20260822133912.png]]
+- Maki’s 4 might catch the ground “breathing”
+- Draveena then the Dog>Sarah>Marty>Maki>Hahn>Kor'raxia>Rafn![[Pasted image 20260822133912.png]]
