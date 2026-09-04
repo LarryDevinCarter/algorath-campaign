@@ -15,4 +15,5 @@
 - Attacks Draveena on her watch, then switches to Sarah.
 - If it swallows Sarah, I shadow steps next chance is gets and runs away.
 - If tongue ever fail, bonus action hide.
+- Marty says he saw it move to Orlane.
 - ![[Pasted image 20260822134210.png]]
