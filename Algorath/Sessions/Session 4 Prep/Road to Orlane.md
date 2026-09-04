@@ -14,4 +14,5 @@
 - Day 4, night before Orlane. Banderhobb encounter.
 - Attacks Draveena on her watch, then switches to Sarah.
 - If it swallows Sarah it runs away.
+- If tongue ever fail, bonus action hide.
 - ![[Pasted image 20260822134210.png]]
