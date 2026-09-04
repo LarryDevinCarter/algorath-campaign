@@ -17,4 +17,5 @@
 - Crush the 1 Darkness Aura at a time.
 
 - After finding Marty and Sarah, Kor'raxia wants to talk them to Orlane.
-- Kor'raxia remember's the 10 year celbration of the founding of
+- Kor'raxia remembers the 10 year celebration of the founding of Orlane and the is a temple of Chauntea there for Draveena.
+- 
