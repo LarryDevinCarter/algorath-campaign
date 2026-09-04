@@ -2,6 +2,7 @@
 - Marty - 10
 - Sarah - 7
 ## Story
+- Day 2 Been on the road a while, rations are 
 - Day 3 daytime Ankheg encounter
 - A circular patch of collapsed earth beside the road
 - A half-dissolved cow or deer, chitin scratches on bone
