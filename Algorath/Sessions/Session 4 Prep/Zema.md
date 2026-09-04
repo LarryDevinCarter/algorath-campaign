@@ -16,3 +16,5 @@
 - They attach to Hahn, Maki, and Kor'raxia (then Draveena, then Ragnar)
 - Crush the 1 Darkness Aura at a time.
 
+- After finding Marty and Sarah, Kor'raxia wants to talk them to Orlane.
+- Kor'raxia remember's the 10 year celbration of the founding of
