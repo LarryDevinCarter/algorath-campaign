@@ -9,4 +9,5 @@
 - Maki’s 4 might catch the ground “breathing”
 - Dog then the Sarah>Marty>Maki>Hahn>Draveena>Kor'raxia>Ragnar
 - First acid spray on Kor'raxia then regular order.
-- On hit grabs Dog![[Pasted image 20260822133912.png]]
+- On hit grabs Dog, Dog yelps and is pinned at the hole.
+- Athletics to tear the dog free, attack to make it let go![[Pasted image 20260822133912.png]]
