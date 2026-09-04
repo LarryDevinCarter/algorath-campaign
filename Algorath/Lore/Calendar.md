@@ -33,4 +33,7 @@ The calendar divides the year into four seasons with three months each.
 ## Game Start
 The campaign begins on **29 [[Highsummer]], 2284 AW**.
 
+## Current Date
+ [[Highsummer]], 2284 AW**.
+
 [[Home|Back to Home]]
