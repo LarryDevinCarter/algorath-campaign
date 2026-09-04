@@ -3,4 +3,4 @@
 - Sarah - 7
 ## Story
 - Day 3 daytime Ankheg encounter
-- ![[Pasted image 20260822133912.png]]
+- A circular patch of collapsed earth beside the road![[Pasted image 20260822133912.png]]
