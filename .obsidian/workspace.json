@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png"
               },
-              "icon": "lucide-file",
-              "title": "Road to Orlane"
+              "icon": "lucide-image",
+              "title": "Kor'raxia"
             }
           }
         ]
@@ -196,8 +194,10 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 4 Prep/Zema.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
+    "Algorath/Sessions/Session 4 Prep/Zema.md",
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Lore/Calendar.md",
@@ -207,8 +207,6 @@
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
     "Algorath/Sessions/Session-0.md",
     "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block",
     "Algorath/Characters/PCs/Maki.md",
@@ -237,7 +235,6 @@
     "Algorath/Sessions/Session 3 Prep/Piata.md",
     "Algorath/Sessions/Session 3 Prep",
     "Algorath/Maps/Motavos",
-    "Algorath/Locations/Settlements/Motavos/Ithenvale/Villane.md",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane",
     "Algorath/Sessions/Session 2 Prep",
     "Algorath/Locations/Settlements/Motavos/The Eastern Reach",
