@@ -12,10 +12,10 @@
 - Ragnar would know where to get Ashline
 - 1st day leave (Hand learns warcaster feat)
 - ![[birthvalley1.jpg]]![[birthvalley2.jpg]]![[Darkmantle.png]]
-- Miki sees them, and goes first, everyone else is supprised
+- Miki sees them, and goes first, everyone else is surprised
 - They attach to Hahn, Maki, and Kor'raxia (then Draveena, then Ragnar)
 - Crush the 1 Darkness Aura at a time.
 
 - After finding Marty and Sarah, Kor'raxia wants to talk them to Orlane.
 - Kor'raxia remembers the 10 year celebration of the founding of Orlane and the is a temple of Chauntea there for Draveena.
-- People treated her well, she helped on the farm and learn to love animals. Orlane 
+- People treated her well, she helped on the farm and learn to love animals. Orlane is a friendly place.
