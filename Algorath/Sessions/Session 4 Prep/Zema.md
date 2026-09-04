@@ -19,3 +19,5 @@
 - After finding Marty and Sarah, Kor'raxia wants to talk them to Orlane.
 - Kor'raxia remembers the 10 year celebration of the founding of Orlane and the is a temple of Chauntea there for Draveena.
 - People treated her well, she helped on the farm and learn to love animals. Orlane is a friendly place.
+- Hahn heard stories of a many headed creature stealing children at night there.
+- 
