@@ -10,4 +10,4 @@
 - Dog then the Sarah>Marty>Maki>Hahn>Draveena>Kor'raxia>Ragnar
 - First acid spray on Kor'raxia then regular order.
 - On hit grabs Dog, Dog yelps and is pinned at the hole.
-- Athletics to tear the dog free, attack to make it let go![[Pasted image 20260822133912.png]]
+- Athletics to tear the dog free, attack to make it let go, or kill t before it's next turn![[Pasted image 20260822133912.png]]
