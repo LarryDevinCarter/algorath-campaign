@@ -11,13 +11,11 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Orlane.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-image",
               "title": "Orlane"
             }
           }
@@ -196,9 +194,9 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Pasted image 20260904153112.png",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
-    "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
@@ -235,7 +233,6 @@
     "statblock.png",
     "birthvalley2.jpg",
     "birthvalley1.jpg",
-    "Pasted image 20260822135622.png",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep",
     "Algorath/Maps/Motavos",
