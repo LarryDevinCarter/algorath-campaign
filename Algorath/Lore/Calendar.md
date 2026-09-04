@@ -34,6 +34,6 @@ The calendar divides the year into four seasons with three months each.
 The campaign begins on **29 [[Highsummer]], 2284 AW**.
 
 ## Current Date
- [[Highsummer]], 2284 AW**.
+**24 Harvesteve, 2284 AW**. (27 days after the start of the campaign)
 
 [[Home|Back to Home]]
