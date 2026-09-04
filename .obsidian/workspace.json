@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png"
               },
-              "icon": "lucide-file",
-              "title": "Road to Orlane"
+              "icon": "lucide-image",
+              "title": "Hahn Mahlay"
             }
           }
         ]
@@ -197,15 +195,15 @@
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
-    "Algorath/Sessions/Session 4 Prep/Zema.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
+    "Algorath/Sessions/Session 4 Prep/Zema.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/The Heartlands",
     "Algorath/Maps/Motavos/High Piedmont.jpg",
     "Algorath/Maps/Motavos/Ithenvale.jpg",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
     "Algorath/Lore/Calendar.md",
     "Highsummer.md",
