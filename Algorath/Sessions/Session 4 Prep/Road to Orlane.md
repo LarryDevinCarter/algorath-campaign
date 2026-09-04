@@ -2,6 +2,7 @@
 - Marty - 10
 - Sarah - 7
 ## Story
+- 1st day leave (Hand learns warcaster feat)
 - Day 2 Been on the road a while, rations are running low and they have a lot of mouths to feed. Draveena find wild green berries. Not sure if they are poisonous. If they eat them they start the next encounter with the bless condition.
 - Day 3 daytime Ankheg encounter
 - A circular patch of collapsed earth beside the road
