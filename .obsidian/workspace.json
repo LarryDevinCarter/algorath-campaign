@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg"
               },
               "icon": "lucide-image",
-              "title": "The Heartlands"
+              "title": "Orlane"
             }
           }
         ]
@@ -192,12 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/The Heartlands.jpg",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Maps/Motavos/The Heartlands",
     "Algorath/Maps/Motavos/High Piedmont.jpg",
     "Algorath/Maps/Motavos/Ithenvale.jpg",
-    "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
@@ -238,7 +239,6 @@
     "Algorath/Maps/Motavos",
     "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane",
     "Algorath/Sessions/Session 2 Prep",
-    "Algorath/Locations/Settlements/Motavos/The Eastern Reach",
-    "Algorath/Locations/Settlements/Motavos/Westerlands"
+    "Algorath/Locations/Settlements/Motavos/The Eastern Reach"
   ]
 }
