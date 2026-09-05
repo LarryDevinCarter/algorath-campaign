@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png"
+                "file": "Algorath/Sessions/Session 4 Prep/Zema.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Hahn Mahlay"
+              "icon": "lucide-file",
+              "title": "Zema"
             }
           }
         ]
@@ -194,20 +196,20 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 4 Prep/Orlane.md",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg",
+    "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
+    "Algorath/Maps/Motavos/The Heartlands.jpg",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
+    "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Algorath/Characters/PCs/Draveena.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Pasted image 20260905131520.png",
     "Pasted image 20260905130530.png",
     "Pasted image 20260905123054.png",
     "Pasted image 20260905122202.png",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
-    "Pasted image 20260905114249.png",
     "Algorath/Maps/Motavos/The Heartlands/Orlane",
-    "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
