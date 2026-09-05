@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg"
+                "file": "Algorath/Maps/Motavos.jpg"
               },
               "icon": "lucide-image",
-              "title": "Golden Grain Inn"
+              "title": "Motavos"
             }
           }
         ]
@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
