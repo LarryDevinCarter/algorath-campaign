@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Orlane.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png"
               },
-              "icon": "lucide-file",
-              "title": "Orlane"
+              "icon": "lucide-image",
+              "title": "Kor'raxia"
             }
           }
         ]
@@ -196,13 +194,13 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
+    "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Pasted image 20260905084031.png",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
-    "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Pasted image 20260904153112.png",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
@@ -235,7 +233,6 @@
     "Algorath/Sessions/Session 2 Prep/Zema.md",
     "statblock.png",
     "birthvalley2.jpg",
-    "birthvalley1.jpg",
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep",
     "Algorath/Maps/Motavos",
