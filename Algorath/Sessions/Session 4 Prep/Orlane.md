@@ -4,8 +4,8 @@ file:///C:/Users/larry/Downloads/AgainstTheCultOfTheReptileGod5th.pdf
 	- Night 3 Widow @ 20 Charmed, returns on day 8
 	- Night 9 Elves @ 9, found in cells
 	- Night 16 Liveryman and family @ 8, Kilian in cells, daughter sent to hag, wife and sons return on 21
-	- Night 22 Weaver and wife @ 5
-	- Night 29 Tailor @ 11
+	- Night 22 Weaver and wife @ 5, Galen in cells, wife returns on 28
+	- Night 29 Tailor @ 11, Myron in cells
 	- Night 36 Jeweler, wife, and guard @ 7 (betrayed by the spy)
 ![[Pasted image 20260904153112.png]]
 ![[Pasted image 20260905084031.png]]
