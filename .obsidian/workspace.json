@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg"
+                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png"
               },
               "icon": "lucide-image",
-              "title": "Orlane"
+              "title": "Hahn Mahlay"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
     "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
