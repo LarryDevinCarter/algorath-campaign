@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg"
+                "file": "Algorath/Sessions/Session 4 Prep/Orlane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Golden Grain Inn"
+              "icon": "lucide-file",
+              "title": "Orlane"
             }
           }
         ]
@@ -194,11 +196,12 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Pasted image 20260905104120.png",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
     "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Pasted image 20260905103529.png",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
     "Pasted image 20260905103223.png",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Maps/Motavos/The Heartlands/Orlane",
