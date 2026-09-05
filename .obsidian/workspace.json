@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Lore/Calendar.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Calendar"
+              "icon": "lucide-image",
+              "title": "Temple of Chauntea"
             }
           }
         ]
@@ -194,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Lore/Calendar.md",
     "Pasted image 20260905131520.png",
     "Pasted image 20260905130530.png",
     "Pasted image 20260905123054.png",
@@ -206,7 +205,6 @@
     "Pasted image 20260905103223.png",
     "Pasted image 20260905090125.png",
     "Pasted image 20260905084031.png",
-    "Pasted image 20260904153112.png",
     "Highsummer.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
