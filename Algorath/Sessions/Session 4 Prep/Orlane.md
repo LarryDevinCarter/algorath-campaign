@@ -6,7 +6,7 @@ file:///C:/Users/larry/Downloads/AgainstTheCultOfTheReptileGod5th.pdf
 	- Night 16 Liveryman and family @ 8, Kilian in cells, daughter sent to hag, wife and sons return on 21
 	- Night 22 Weaver and wife @ 5, Galen in cells, wife returns on 28
 	- Night 29 Tailor @ 11, Myron in cells
-	- Night 36 Jeweler, wife, and guard @ 7 (betrayed by the spy)
+	- Night 36 Jeweler, wife, and guard @ 7 (betrayed by the spy), Haskali and guard Erroll return, wife does not (in the cells)
 ![[Pasted image 20260904153112.png]]
 ![[Pasted image 20260905084031.png]]
 ![[Pasted image 20260905090125.png]]
