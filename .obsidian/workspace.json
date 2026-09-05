@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg"
+                "file": "Algorath/Sessions/Session 4 Prep/Orlane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Temple of Chauntea"
+              "icon": "lucide-file",
+              "title": "Orlane"
             }
           }
         ]
@@ -194,10 +196,11 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Pasted image 20260905131520.png",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
     "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Pasted image 20260905130530.png",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg",
     "Pasted image 20260905123054.png",
     "Pasted image 20260905122202.png",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
