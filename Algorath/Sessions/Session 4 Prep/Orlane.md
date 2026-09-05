@@ -6,6 +6,7 @@ file:///C:/Users/larry/Downloads/AgainstTheCultOfTheReptileGod5th.pdf
 	- Night 16 Liveryman and family @ 8
 	- Night 22 Weaver and wife @ 5
 	- Night 29 Tailor @ 11
+	- Night 36 Jeweler, wife, and guard @ 7 (betrayed by the spy)
 ![[Pasted image 20260904153112.png]]
 ![[Pasted image 20260905084031.png]]
 ![[Pasted image 20260905090125.png]]
