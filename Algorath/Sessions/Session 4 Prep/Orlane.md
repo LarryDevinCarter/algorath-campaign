@@ -4,7 +4,8 @@ file:///C:/Users/larry/Downloads/AgainstTheCultOfTheReptileGod5th.pdf
 	- Night 3 Widow @ 20
 	- Night 9 Elves @ 9
 	- Night 16 Liveryman and family @ 8
-	- 
+	- Night 22 Weaver and wife @ 5
+	- Night 29 Tailor @ 11
 ![[Pasted image 20260904153112.png]]
 ![[Pasted image 20260905084031.png]]
 ![[Pasted image 20260905090125.png]]
