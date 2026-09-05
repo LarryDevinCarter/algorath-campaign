@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos.jpg"
+                "file": "Algorath/Sessions/Session 4 Prep/Orlane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Motavos"
+              "icon": "lucide-file",
+              "title": "Orlane"
             }
           }
         ]
@@ -194,6 +196,8 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Pasted image 20260905114249.png",
+    "Algorath/Maps/Motavos.jpg",
     "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
@@ -205,8 +209,6 @@
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Maps/Motavos/The Heartlands/Orlane",
-    "Pasted image 20260905090125.png",
-    "Pasted image 20260905084031.png",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",

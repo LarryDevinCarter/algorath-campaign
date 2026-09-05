@@ -6,3 +6,4 @@ file:///C:/Users/larry/Downloads/AgainstTheCultOfTheReptileGod5th.pdf
 ![[Pasted image 20260905103223.png]]
 ![[Pasted image 20260905103529.png]]
 ![[Pasted image 20260905104120.png]]
+![[Pasted image 20260905114249.png]]
