@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg"
               },
               "icon": "lucide-image",
-              "title": "The Heartlands"
+              "title": "Orlane"
             }
           }
         ]
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd065585d87ab60",
+  "active": "847b8f79168928ab",
   "lastOpenFiles": [
-    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Maps/Motavos/The Heartlands.jpg",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
     "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
