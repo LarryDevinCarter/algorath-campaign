@@ -1,7 +1,7 @@
 https://archive.org/details/tsr09063n1againstthecultofthereptilegod/page/n5/mode/2up
 file:///C:/Users/larry/Downloads/AgainstTheCultOfTheReptileGod5th.pdf
 - Abduction timing
-	- Night 3 Widow @ 20
+	- Night 3 Widow @ 20 Charmed, returns on day 8
 	- Night 9 Elves @ 9
 	- Night 16 Liveryman and family @ 8
 	- Night 22 Weaver and wife @ 5
