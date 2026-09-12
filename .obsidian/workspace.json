@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session 5 Prep/Session 5.md",
+                "file": "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5"
+              "title": "Road to Orlane"
             }
           }
         ]
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd065585d87ab60",
+  "active": "847b8f79168928ab",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 5 Prep/Session 5.md",
+    "Algorath/Lore/Calendar.md",
+    "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 5 Prep",
     "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
@@ -217,7 +218,6 @@
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
     "Algorath/Maps/Motavos/The Heartlands",
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
-    "Algorath/Lore/Calendar.md",
     "Highsummer.md",
     "Algorath/Sessions/Session-1.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
