@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Session 4.md",
+                "file": "Algorath/Sessions/Session 5 Prep/Session 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 4"
+              "title": "Session 5"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847b8f79168928ab",
+  "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 4 Prep/Session 4.md",
+    "Algorath/Sessions/Session 5 Prep/Session 5.md",
     "Algorath/Sessions/Session 5 Prep",
     "Algorath/Sessions/Session 4 Prep/Orlane.md",
     "Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
@@ -213,7 +215,6 @@
     "Pasted image 20260905122202.png",
     "Algorath/Maps/Motavos/The Heartlands/Orlane",
     "Algorath/Sessions/Session 2 Prep/The Delian Tomb.md",
-    "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Maps/Motavos/The Heartlands",
     "Algorath/Sessions/Session 3 Prep/Road to Molcrum.md",
     "Algorath/Lore/Calendar.md",
@@ -240,7 +241,6 @@
     "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep",
     "Algorath/Maps/Motavos",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane",
-    "Algorath/Sessions/Session 2 Prep"
+    "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane"
   ]
 }
