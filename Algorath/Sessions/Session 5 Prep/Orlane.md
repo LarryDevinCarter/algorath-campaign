@@ -1,0 +1,1 @@
+- Building 2 or if they enter the graveyard
