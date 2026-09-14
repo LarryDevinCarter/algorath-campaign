@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf"
+                "file": "Algorath/Sessions/Session 5 Prep/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hahn Mehlay"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -195,6 +197,11 @@
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
     "Algorath/Sessions/Session 5 Prep/Session 5.md",
+    "Algorath/Sessions/Session 5 Prep/Untitled.md",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "Algorath/Sessions/Session 4 Prep/Orlane.md",
@@ -205,9 +212,7 @@
     "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Temple of Chauntea.jpg",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Hahn Mahlay.png",
     "Algorath/Characters/PCs/Draveena.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Pasted image 20260905131520.png",
     "Pasted image 20260905130530.png",
     "Pasted image 20260905123054.png",
@@ -225,7 +230,6 @@
     "Algorath/Characters/PCs/Ragnar.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block",
     "Algorath/Characters/PCs/Maki.md",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Sessions/Session 3 Prep/Zema.md",
     "Algorath/Sessions/Hardest Dungeon.md",
@@ -236,9 +240,7 @@
     "Algorath/Characters/NPCs/Algorath/Followers/Hahn Mahley.md",
     "Algorath/Sessions/Session 4 Prep",
     "Algorath/Sessions/Session 2 Prep/Zema.md",
-    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
     "Algorath/Sessions/Session 3 Prep",
-    "Algorath/Maps/Motavos",
-    "Algorath/Characters/NPCs/Algorath/Ithenvale/Villane"
+    "Algorath/Maps/Motavos"
   ]
 }
