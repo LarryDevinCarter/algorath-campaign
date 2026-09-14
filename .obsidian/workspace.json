@@ -11,11 +11,13 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg"
+                "file": "Algorath/Sessions/Session 5 Prep/Orlane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
+              "icon": "lucide-file",
               "title": "Orlane"
             }
           }
@@ -194,9 +196,9 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Pasted image 20260913202906.png",
+    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Sessions/Session 5 Prep/Orlane.md",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg",
     "Algorath/Bestiary/Aberrations/Aboleths.md",
     "Wolf.png",
     "Algorath/Sessions/Hardest Dungeon.md",
