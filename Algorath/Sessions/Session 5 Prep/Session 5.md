@@ -8,5 +8,6 @@
 - Hahn learns Guidance spell on the 15th
 - Night 19th Weaver and wife @ 5, Galen in cells, wife returns on 28th
 - Hahn learns Spare the Dying on the 22nd
-- Night 29 Tailor @ 11, Myron in cells
+- Night 26th Tailor @ 11, Myron in cells
 - Hahn gain 1 spell slot on the 29th
+- Night 36 Jeweler, wife, and guard @ 7 (betrayed by the spy), Haskali and guard Erroll returns on 39, wife does not (in the cells)
