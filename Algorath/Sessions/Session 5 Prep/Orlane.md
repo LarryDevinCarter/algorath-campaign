@@ -1,2 +1,3 @@
 - Building 2 or if they enter the graveyard (fight)
 - Building 12 if provoked (fight)
+- Building 14 id provoked (fight)
