@@ -22,7 +22,5 @@
 
 1,350 Ankheg
 
-1,800 Banderhobb
-
 ----------
 
