@@ -26,4 +26,4 @@
 
 1,400 Constable
 
-1,700 Trogla
+1,700 Troglodytes
