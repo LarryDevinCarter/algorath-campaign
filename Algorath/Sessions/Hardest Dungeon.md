@@ -27,3 +27,5 @@
 1,400 Constable
 
 1,700 Troglodytes
+
+50 >  Under the Golden Grain Inn
