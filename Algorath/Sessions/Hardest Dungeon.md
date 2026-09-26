@@ -28,4 +28,4 @@
 
 1,700 Troglodytes
 
-50 >  Under the Golden Grain Inn
+50 > 750 Under the Golden Grain Inn
