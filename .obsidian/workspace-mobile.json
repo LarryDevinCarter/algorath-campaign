@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorath/Sessions/Session 4 Prep/Orlane.md",
+                "file": "Algorath/Bestiary/Bestiary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orlane"
+              "title": "Bestiary"
             }
           }
         ]
@@ -191,13 +191,32 @@
   },
   "active": "cae024124c0f2030",
   "lastOpenFiles": [
+    "Algorath/Bestiary/Monstrosities/Stirge.md",
+    "Algorath/Bestiary/Monstrosities/Kruthik.md",
+    "Algorath/Bestiary/Aberrations/Aboleths.md",
+    "Algorath/Sessions/Session 4 Prep/Orlane.md",
+    "Pasted image 20260924105808.png",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
+    "Pasted image 20260924105736.png",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
+    "Pasted image 20260924113058.png",
+    "/Pasted image 20260924113058.png",
+    "/Pasted image 20260924105808.png",
+    "/Pasted image 20260924105736.png",
+    "/Algorath/Sessions/Session 5 Prep/Orlane.md",
+    "/Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
+    "/Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
+    "/Algorath/Sessions/Session 5 Prep/Fights/Building 12.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 12.md",
+    "/Algorath/Sessions/Session 5 Prep/Fights",
+    "/Algorath/Sessions/Session 5 Prep",
+    "/Algorath/Sessions/Hardest Dungeon.md",
+    "/Algorath/Sessions",
+    "/Algorath",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
     "/Algorath/Sessions/Session 5 Prep/Session 5.md",
-    "/Algorath/Sessions/Session 5 Prep",
-    "/Algorath/Sessions",
     "/Algorath/Lore/Calendar.md",
     "/Algorath/Lore",
-    "/Algorath",
     "Algorath/Factions/Gray Company.md",
     "Algorath/Sessions/Session 4 Prep/Zema.md",
     "Pasted image 20260904153112.png",
@@ -205,13 +224,6 @@
     "Pasted image 20260913202906.png",
     "Grover Ruskadal.jpg",
     "Pasted image 20260905131520.png",
-    "Algorath/Sessions/Session 4 Prep/Orlane.md",
-    "Pasted image 20260905130530.png",
-    "Pasted image 20260905114249.png",
-    "Pasted image 20260905103223.png",
-    "Pasted image 20260905104120.png",
-    "Pasted image 20260915151359.png",
-    "Wolf.png",
     "Highsummer.md",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
     "/Highsummer.md",
@@ -221,20 +233,9 @@
     "Algorath/Sessions/Session 5 Prep/Session 5.md",
     "Algorath/Sessions/Session 5 Prep",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
-    "/Algorath/Sessions/Session 5 Prep/Orlane.md",
     "/Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
     "/Algorath/Sessions/Session 4 Prep/Zema.md",
     "/Algorath/Sessions/Session 4 Prep/Session 4.md",
-    "/Algorath/Sessions/Session 4 Prep/Road to Orlane.md",
-    "/Algorath/Sessions/Session 4 Prep/Orlane.md",
-    "/Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
-    "/Algorath/Sessions/Session 3 Prep",
-    "/Algorath/Sessions/Hardest Dungeon.md",
-    "/Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
-    "Algorath/Sessions/Session 3 Prep/Piata.md",
-    "Algorath/Sessions/Session 3 Prep/Goldenmile.md",
-    "Algorath/Sessions/Session 3 Prep/Road to Zema.md",
-    "Algorath/Sessions/Session 3 Prep/Road to Goldenmile.md",
-    "Algorath/Sessions/Session 3 Prep/Zema.md"
+    "/Algorath/Sessions/Session 3 Prep"
   ]
 }
