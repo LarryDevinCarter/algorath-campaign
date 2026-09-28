@@ -29,3 +29,5 @@
 1,700 Troglodytes
 
 375 > 600 > 750 Under the Golden Grain Inn
+
+Temple of Chauntea
