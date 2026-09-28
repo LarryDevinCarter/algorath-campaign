@@ -30,4 +30,4 @@
 
 375 > 600 > 750 Under the Golden Grain Inn
 
-100 > 1200 Temple of Chauntea
+100 > 1,000 > 1200 Temple of Chauntea
