@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Hardest Dungeon.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Hardest Dungeon"
+              "icon": "lucide-image",
+              "title": "Orlane"
             }
           }
         ]
@@ -223,7 +221,6 @@
     "Hulbar Onfre.jpg",
     "Donavan Allard.jpg",
     "Grover Ruskadal.jpg",
-    "Pasted image 20260913202906.png",
     "Algorath/Bestiary/Aberrations/Aboleths.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
