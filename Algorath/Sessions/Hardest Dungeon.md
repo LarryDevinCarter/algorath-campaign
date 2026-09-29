@@ -28,6 +28,8 @@
 
 1,700 Troglodytes
 
+1,800 Troglodytes at the Orphanage
+
 375 > 600 > 750 Under the Golden Grain Inn
 
 100 > 400 > 450 > 600 > 700 > 1,000 > 1,200 Temple of Chauntea
