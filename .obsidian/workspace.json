@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorath/Sessions/Session 5 Prep/Orlane.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Sessions/Session 5 Prep/orlane_dm_notes-1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Orlane"
+              "icon": "lucide-file-text",
+              "title": "orlane_dm_notes-1"
             }
           }
         ]
@@ -196,10 +194,11 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 5 Prep/Orlane.md",
+    "Algorath/Sessions/Session 5 Prep/orlane_dm_notes-1.pdf",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 28.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
-    "Algorath/Sessions/Session 5 Prep/Orlane.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Allies.md",
     "image.png",
     "NPC_Stat_Blocks_Dorian_Llywillan.docx",
@@ -239,7 +238,6 @@
     "Highsummer.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
-    "Algorath/Sessions/Session 4 Prep"
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf"
   ]
 }
