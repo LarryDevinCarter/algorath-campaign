@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png"
+                "file": "Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kor'raxia"
+              "icon": "lucide-file",
+              "title": "Building 2"
             }
           }
         ]
@@ -194,6 +196,7 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 28.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
@@ -218,7 +221,6 @@
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
     "Algorath/Lore/Deities/The One Being/Therizdun.md",
     "Algorath/Sessions/Session 5 Prep/Fights",
-    "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block/Kor'raxia.png",
     "Pasted image 20260913203852.png",
     "Hulbar Onfre.jpg",
     "Donavan Allard.jpg",
@@ -235,7 +237,6 @@
     "Highsummer.md",
     "Algorath/Sessions/Session 3 Prep/Session 3.md",
     "Algorath/Sessions/Session 2 Prep/Session-2.md",
-    "Algorath/Sessions/Session-0.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Stat Block",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Sessions/Session 4 Prep",
