@@ -11,13 +11,11 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 5 Prep/Fights/Golden Grain Inn.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-image",
               "title": "Golden Grain Inn"
             }
           }
@@ -196,14 +194,14 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
-    "Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
-    "Algorath/Sessions/Session 5 Prep/Fights/Building 12.md",
-    "Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
-    "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
-    "Algorath/Sessions/Session 5 Prep/Fights/Building 28.md",
-    "1KGqp.png",
-    "Algorath/Sessions/Session 5 Prep/Fights/Allies.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Golden Grain Inn.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 28.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 12.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Allies.md",
+    "1KGqp.png",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
     "Algorath/Sessions/Session 5 Prep/Orlane.md",
     "Algorath/Sessions/Session 5 Prep/Session 5.md",
