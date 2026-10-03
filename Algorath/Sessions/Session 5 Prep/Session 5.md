@@ -3,6 +3,7 @@
 - Ragnar and Hahn adducted the night of the 30th - in the secret cellar room18 There thing are in temple room 18
 - Night of 31st Widow @ 20 Charmed, returns on day 5th of Goldenfall
 - Night of 31st Ragnar and Hanh will be moved to the temple, room 22.
+- Night of the 1st the Widow will join them in temple room 22.
 - Hahn wants to by a shield after the 1st of Goldenfall
 - Kor'Raxia with get Action Surge on the 6th of Goldenfall & that night Elves @ 9, found in cells
 - Hahn gets shield proficiency on the 8th
