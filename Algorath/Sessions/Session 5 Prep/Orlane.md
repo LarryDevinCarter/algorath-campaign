@@ -1,4 +1,4 @@
 - Building 2 or if they enter the graveyard (fight)
 - Building 12 if provoked (fight)
 - Building 14 id provoked (fight)
-- Building 16 and 28, trogs in the basements (fight)
+- Building 16 and 28, trogs in the basements (fight)![[33414829723_5268c51c9b_b.jpg]]![[Golden Grain Inn.jpg]]![[Temple of Chauntea.jpg]]
