@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
+                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/33414829723_5268c51c9b_b.jpg"
               },
               "icon": "lucide-image",
-              "title": "The Heartlands"
+              "title": "33414829723_5268c51c9b_b"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Maps/Motavos/High Piedmont.jpg",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/33414829723_5268c51c9b_b.jpg",
@@ -218,7 +219,6 @@
     "Algorath/Sessions/Hardest Dungeon.md",
     "Pasted image 20260924113058.png",
     "Algorath/Sessions/Session 4 Prep/Session 4.md",
-    "Pasted image 20260924105808.png",
     "Algorath/Lore/Calendar.md",
     "Algorath/Lore/Cosmology.md",
     "Algorath/Sessions/Session-1.md",
