@@ -1,1 +1,1 @@
-	![[tNFbY.png]]
+![[tNFbY 1.png]]
