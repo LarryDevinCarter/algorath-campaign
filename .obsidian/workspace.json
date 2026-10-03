@@ -11,14 +11,12 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorath/Sessions/Session 5 Prep/Fights/Temple 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Temple 1"
+              "icon": "lucide-image",
+              "title": "The Heartlands"
             }
           }
         ]
@@ -196,9 +194,11 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/High Piedmont.jpg",
+    "Algorath/Maps/Motavos/Ithenvale.jpg",
+    "Algorath/Sessions/Session 5 Prep/Fights/Temple 1.md",
     "Pasted image 20261003135053.png",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 14.md",
-    "Algorath/Sessions/Session 5 Prep/Fights/Temple 1.md",
     "Pasted image 20261003135045.png",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 12.md",
     "Algorath/Maps/Motavos/The Heartlands/Orlane/Golden Grain Inn.jpg",
@@ -214,8 +214,6 @@
     "images 1.jpg",
     "Algorath/Sessions/Session 5 Prep/Fights/Cellar 20.md",
     "images.jpg",
-    "Pasted image 20261003130921.png",
-    "Algorath/Maps/Motavos/The Heartlands/Orlane/33414829723_5268c51c9b_b.jpg",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 28.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
