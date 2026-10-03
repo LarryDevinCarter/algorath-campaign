@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands.jpg"
+                "file": "Algorath/Sessions/Session 5 Prep/Session 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "The Heartlands"
+              "icon": "lucide-file",
+              "title": "Session 5"
             }
           }
         ]
@@ -194,6 +196,9 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Sessions/Session 5 Prep/Orlane.md",
+    "Algorath/Sessions/Session 5 Prep/Fights/Temple 3.md",
+    "Algorath/Maps/Motavos/The Heartlands.jpg",
     "Algorath/Maps/Motavos/High Piedmont.jpg",
     "Algorath/Maps/Motavos/Ithenvale.jpg",
     "Algorath/Sessions/Session 5 Prep/Fights/Temple 1.md",
@@ -211,14 +216,11 @@
     "Pasted image 20261003132931.png",
     "Algorath/Sessions/Session 5 Prep/Fights/Cellar 22.md",
     "Pasted image 20261003132053.png",
-    "images 1.jpg",
     "Algorath/Sessions/Session 5 Prep/Fights/Cellar 20.md",
-    "images.jpg",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 28.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 16.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Building 2.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Allies.md",
-    "Algorath/Sessions/Session 5 Prep/Orlane.md",
     "Algorath/Sessions/Session 5 Prep/Session 5.md",
     "Algorath/Sessions/Session 5 Prep/orlane_dm_notes-1.pdf",
     "NPC_Stat_Blocks_Dorian_Llywillan.docx",
@@ -232,7 +234,6 @@
     "Algorath/Lore/Deities/The One Being/Pelor's Children/Orcus.md",
     "Algorath/Lore/Deities/The One Being/Therizdun.md",
     "Algorath/Sessions/Session 5 Prep/Fights",
-    "Algorath/Bestiary/Aberrations/Aboleths.md",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Hahn Mehlay.pdf",
     "Algorath/Characters/NPCs/Algorath/Followers/Character Sheets/Kor'raxia.pdf",
     "Algorath/Sessions/Session 5 Prep",
