@@ -1,5 +1,6 @@
 # 31 Harvesteve, 2284 AW Campaign Session Notes
 
+- Ragnar and Hahn obducted the night of the 30th
 - Night of 31st Widow @ 20 Charmed, returns on day 5th of Goldenfall
 - Hahn wants to by a shield after the 1st of Goldenfall
 - Kor'Raxia with get Action Surge on the 6th of Goldenfall & that night Elves @ 9, found in cells
