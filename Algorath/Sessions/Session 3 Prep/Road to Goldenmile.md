@@ -15,4 +15,4 @@
 - 11th day, goblins in the distance
 - 12th arrive at Goldenmile
 
-![[Pasted image 20260822115150.png]]![[statblock.png]]
+![[Wolf.png]]![[statblock.png]]

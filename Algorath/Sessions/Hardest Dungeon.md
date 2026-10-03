@@ -18,6 +18,18 @@
 
 450>600 (Adult Kruthik And then 3 Darkmantles)
 
+----------
+
 1,350 Ankheg
 
-1,800 Banderhobb
+----------
+
+1,400 Constable
+
+1,700 Troglodytes
+
+1,800 Troglodytes at the Orphanage
+
+375 > 600 > 750 Under the Golden Grain Inn
+
+100 > 400 > 450 > 600 > 700 > 1,000 > 1,200 Temple of Chauntea

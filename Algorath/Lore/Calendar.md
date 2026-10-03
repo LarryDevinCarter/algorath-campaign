@@ -21,7 +21,7 @@ The calendar divides the year into four seasons with three months each.
 - **Harvesteve** (31 days)
 
 ## Autumn
-- **Goldfall** (30 days)
+- **Goldenfall** (30 days)
 - **Ashenwind** (31 days)
 - **Dusk** (30 days)
 
