@@ -11,12 +11,14 @@
             "id": "cbd065585d87ab60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorath/Maps/Motavos/The Heartlands/Orlane/33414829723_5268c51c9b_b.jpg"
+                "file": "Algorath/Sessions/Session 5 Prep/Session 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "33414829723_5268c51c9b_b"
+              "icon": "lucide-file",
+              "title": "Session 5"
             }
           }
         ]
@@ -194,6 +196,7 @@
   },
   "active": "cbd065585d87ab60",
   "lastOpenFiles": [
+    "Algorath/Maps/Motavos/The Heartlands/Orlane/33414829723_5268c51c9b_b.jpg",
     "Algorath/Sessions/Session 5 Prep/Session 5.md",
     "Algorath/Sessions/Session 5 Prep/Orlane.md",
     "Algorath/Sessions/Session 5 Prep/Fights/Temple 3.md",
